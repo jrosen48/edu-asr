@@ -1,0 +1,1144 @@
+WEBVTT
+
+00:00:00.031 --> 00:00:08.926
+[SPEAKER_02] Go to the ruler to the right
+
+00:00:09.244 --> 00:00:33.042
+[SPEAKER_02] Yeah, that wasn't there a second ago Age not the difference put species puts your species in your cat talk And see if that does anything different.
+
+00:00:33.463 --> 00:00:34.084
+[SPEAKER_02] I like the map.
+
+00:00:34.304 --> 00:00:34.323
+I
+
+00:00:34.878 --> 00:00:38.713
+[SPEAKER_02] I just didn't know if that would change.
+
+00:00:38.753 --> 00:00:45.158
+[SPEAKER_02] Maybe you need to go back to meme now, go to your ruler, and see if the meme changed.
+
+00:00:45.847 --> 00:00:48.551
+[SPEAKER_02] It does slightly.
+
+00:00:49.573 --> 00:00:51.195
+[SPEAKER_02] See how that one's a little off.
+
+00:00:51.215 --> 00:00:52.055
+[SPEAKER_02] What number is that one?
+
+00:00:52.997 --> 00:00:53.798
+[SPEAKER_02] 5.99.
+
+00:00:53.819 --> 00:00:55.401
+[SPEAKER_02] What's the number of that one?
+
+00:00:55.420 --> 00:00:55.542
+[SPEAKER_02] 6.1.
+
+00:00:55.561 --> 00:00:58.106
+[SPEAKER_02] So it does give you, I guess, the name.
+
+00:00:59.186 --> 00:01:00.689
+[SPEAKER_02] It still looks like it's collective, though.
+
+00:01:01.329 --> 00:01:02.451
+[SPEAKER_02] Doesn't it?
+
+00:01:02.472 --> 00:01:02.652
+[SPEAKER_08] Yeah.
+
+00:01:03.033 --> 00:01:07.680
+[SPEAKER_08] And I can't see when cats live so much longer.
+
+00:01:08.240 --> 00:01:09.001
+[SPEAKER_07] Good question.
+
+00:01:09.168 --> 00:01:14.581
+[SPEAKER_08] It seems like the cat's mane would be... But it depends how many you've got here, you know?
+
+00:01:14.620 --> 00:01:16.004
+[SPEAKER_03] Because that's not a whole lot.
+
+00:01:16.986 --> 00:01:17.447
+[SPEAKER_03] That's more.
+
+00:01:18.189 --> 00:01:25.066
+[SPEAKER_08] But it is showing the mane's effort.
+
+00:01:28.219 --> 00:01:37.128
+[SPEAKER_08] No, because they're lumped together in one column.
+
+00:01:37.168 --> 00:01:41.572
+[SPEAKER_08] We would have to go in and separate dog from cat to have two species columns.
+
+00:01:44.555 --> 00:01:50.620
+[SPEAKER_07] But yours isn't by age.
+
+00:01:51.120 --> 00:01:56.185
+[SPEAKER_02] No, mine's by weight.
+
+00:01:56.165 --> 00:02:16.502
+[SPEAKER_08] Okay, so the mean weight is 27.15 kilograms.
+
+00:02:20.971 --> 00:02:22.032
+[SPEAKER_03] But they're doing less.
+
+00:02:22.051 --> 00:02:27.138
+[SPEAKER_03] It's all definitely, and that's not good news.
+
+00:02:29.100 --> 00:02:31.963
+[SPEAKER_03] We have a whole new lot of data or graphs.
+
+00:02:32.245 --> 00:02:35.848
+[SPEAKER_07] Here it comes.
+
+00:02:36.409 --> 00:02:44.639
+[SPEAKER_08] How teachers in different subject areas can basically implement things in different ways.
+
+00:02:44.699 --> 00:02:48.243
+[SPEAKER_08] What is 27.15 kilograms in pounds?
+
+00:02:49.877 --> 00:02:57.247
+[SPEAKER_06] Can you raise your hand if you learned and were able to figure out how to do a scatter plot with two variables?
+
+00:03:00.070 --> 00:03:04.156
+[SPEAKER_06] Raise your hand if you were able to find the mean or median of a single variable.
+
+00:03:06.199 --> 00:03:12.526
+[SPEAKER_06] What about if you were able to select a certain amount of data and zoom in on it?
+
+00:03:13.520 --> 00:03:15.163
+[SPEAKER_06] Ooh, we got one over here, okay, cool.
+
+00:03:15.362 --> 00:03:18.388
+[SPEAKER_06] What about create a least squares regression model?
+
+00:03:19.209 --> 00:03:20.411
+[SPEAKER_06] Raise your hand, awesome.
+
+00:03:21.051 --> 00:03:26.941
+[SPEAKER_06] All right, I'm gonna show you a couple quick things, and then we'll just close up to our next session, because we're running a little bit behind.
+
+00:03:27.042 --> 00:03:35.133
+[SPEAKER_06] But if you have a scatterplot like this, what you can do is you can, say I'm only interested in a certain amount of data.
+
+00:03:35.153 --> 00:03:39.882
+[SPEAKER_06] So I looked at my least squares, and I have,
+
+00:03:39.861 --> 00:03:47.889
+[SPEAKER_06] my species in here and I have two least squares model and I want to zoom in on what, on parts of my data.
+
+00:03:48.149 --> 00:04:00.560
+[SPEAKER_06] I can highlight and then click on this little eyeball and then display only selected cases and it'll zoom in on only those data points.
+
+00:04:01.200 --> 00:04:04.462
+[SPEAKER_06] It's one thing you can do.
+
+00:04:04.483 --> 00:04:05.463
+[SPEAKER_01] Where's the mean and median?
+
+00:04:06.745 --> 00:04:07.286
+[SPEAKER_06] All right.
+
+00:04:07.306 --> 00:04:09.867
+[SPEAKER_06] If you are interested in the mean or median,
+
+00:04:10.372 --> 00:04:13.575
+[SPEAKER_06] Let me get back out of all this.
+
+00:04:14.556 --> 00:04:15.358
+[SPEAKER_06] Show all cases.
+
+00:04:16.038 --> 00:04:16.420
+[SPEAKER_06] Here we go.
+
+00:04:16.439 --> 00:04:18.221
+[SPEAKER_06] I'm going to get rid of my weights.
+
+00:04:20.165 --> 00:04:20.865
+[SPEAKER_06] I'm going to get rid of this.
+
+00:04:24.750 --> 00:04:28.956
+[SPEAKER_06] And I'm just going to look at h. I'm going to look at the x-axis.
+
+00:04:30.218 --> 00:04:33.661
+[SPEAKER_06] I'm going to look at the x-axis.
+
+00:04:34.165 --> 00:04:39.112
+[SPEAKER_06] You can go ahead and click mean or median by hitting the lower button.
+
+00:04:39.132 --> 00:04:42.798
+[SPEAKER_09] And you can hover over it and it'll give you a mean.
+
+00:04:43.439 --> 00:04:44.540
+[SPEAKER_06] You can click on the median.
+
+00:04:44.781 --> 00:04:46.302
+[SPEAKER_06] We kind of see how it's skewing.
+
+00:04:47.826 --> 00:04:49.108
+[SPEAKER_06] You can do a bunch of other things like this.
+
+00:04:49.148 --> 00:04:56.959
+[SPEAKER_06] We can put it in different formats by clicking on this little bar charts instead.
+
+00:04:56.980 --> 00:04:57.781
+[SPEAKER_06] It's a little wonky.
+
+00:04:57.800 --> 00:04:58.742
+[SPEAKER_06] I don't know what happened there.
+
+00:04:58.781 --> 00:05:00.985
+[SPEAKER_01] I just had the wrong thing selected.
+
+00:05:01.005 --> 00:05:03.108
+[SPEAKER_01] Like, I know I knew how to do this.
+
+00:05:03.663 --> 00:05:12.069
+[SPEAKER_06] Any other questions or anything I can answer about Codat before we finish up?
+
+00:05:13.754 --> 00:05:21.807
+[SPEAKER_02] Does, if you have this in Sheets, the data in Sheets, right, does it auto populate or would you have to import the data again?
+
+00:05:21.826 --> 00:05:26.314
+[SPEAKER_06] Yes, every time you enter your code app it's a new session so it won't automatically update.
+
+00:05:26.553 --> 00:05:35.968
+[SPEAKER_06] The good thing about this is that you have this, to approach no login, it's completely free and open source so you don't have to like set up accounts with students or anything like that.
+
+00:05:35.988 --> 00:05:39.814
+[SPEAKER_02] So you can share a link and they can access this code app that you're in, the session?
+
+00:05:40.035 --> 00:05:40.656
+[SPEAKER_06] Yeah.
+
+00:05:41.529 --> 00:05:43.432
+[SPEAKER_10] But it's not cloud-based, correct?
+
+00:05:43.632 --> 00:05:44.994
+[SPEAKER_10] They edit it.
+
+00:05:45.014 --> 00:05:46.975
+[SPEAKER_10] It doesn't show up on your impulse.
+
+00:05:47.136 --> 00:05:54.865
+[SPEAKER_06] There is a way, I think, for you to create your own spreadsheet with your own data set that's already pre-populated and share it.
+
+00:05:55.324 --> 00:05:58.208
+[SPEAKER_06] I don't know how to do that, but I think it's pretty easy to figure out.
+
+00:05:58.228 --> 00:06:00.411
+[SPEAKER_08] Go to the hamburger.
+
+00:06:02.673 --> 00:06:04.095
+[SPEAKER_10] And then you click Share.
+
+00:06:04.379 --> 00:06:05.379
+[SPEAKER_06] You can just share this.
+
+00:06:05.399 --> 00:06:24.728
+[SPEAKER_10] You can just share this link and then you're like I've used this with I've taken the iNaturalist spreadsheet that you can export and put this in code app and clean it up for my kids because they're 11 and then I send them the link to the clean queue and I let them graph like native invasive graphs of plants.
+
+00:06:25.168 --> 00:06:27.653
+[SPEAKER_10] But if they're manipulating it then you won't see it.
+
+00:06:27.632 --> 00:06:36.437
+[SPEAKER_10] Does this work just as well on Google Chrome books?
+
+00:06:36.458 --> 00:06:43.076
+[SPEAKER_06] Because all of our kids have Chrome books.
+
+00:06:49.891 --> 00:06:53.456
+[SPEAKER_06] All right, everyone, just a quick announcement.
+
+00:06:53.858 --> 00:06:57.483
+[SPEAKER_06] Because of the weather, we're going to push back things about two minutes.
+
+00:06:57.824 --> 00:07:01.550
+[SPEAKER_06] And so hang out here for a little bit, work on code app, ask questions.
+
+00:07:01.651 --> 00:07:08.221
+[SPEAKER_06] But we'll get more info as soon as we figure out exactly how we're going to accommodate the weather.
+
+00:07:08.642 --> 00:07:10.446
+[SPEAKER_07] Oh, no, we're going out.
+
+00:07:10.846 --> 00:07:12.608
+[SPEAKER_07] According to Grayson.
+
+00:07:12.970 --> 00:07:13.670
+[SPEAKER_07] Oh, excellent.
+
+00:07:14.173 --> 00:07:16.817
+[SPEAKER_07] He's got a whole bucket of ponchos.
+
+00:07:16.836 --> 00:07:19.660
+[SPEAKER_07] Yeah, they got rain jackets here.
+
+00:07:19.680 --> 00:07:19.839
+[SPEAKER_05] Nice.
+
+00:07:19.860 --> 00:07:20.641
+[SPEAKER_05] I want to get my rain coat.
+
+00:07:20.740 --> 00:07:27.567
+[SPEAKER_05] Any of the clothes were in jacket or something, they have a room downstairs that has student letters down there.
+
+00:07:27.588 --> 00:07:29.531
+[SPEAKER_05] And we can borrow any of these.
+
+00:07:29.550 --> 00:07:34.196
+[SPEAKER_05] They'll wash it afterwards and introduce it.
+
+00:07:34.615 --> 00:07:35.177
+[SPEAKER_07] Thanks.
+
+00:07:35.497 --> 00:07:39.321
+[SPEAKER_01] Could we do collaboration in your co-design?
+
+00:07:41.545 --> 00:07:43.908
+[SPEAKER_07] we've been ordered.
+
+00:07:43.928 --> 00:07:45.911
+[SPEAKER_07] Grayson really wanted us to jump the puddles.
+
+00:07:46.632 --> 00:07:48.375
+[SPEAKER_07] Thank you.
+
+00:07:48.396 --> 00:07:49.918
+[SPEAKER_07] We're still going to jump the puddles.
+
+00:07:49.999 --> 00:07:50.839
+[SPEAKER_07] They're going to be there.
+
+00:07:51.180 --> 00:07:58.892
+[SPEAKER_05] No, no, we're not staying in the pressure.
+
+00:07:58.913 --> 00:08:00.596
+[SPEAKER_05] Oh, this is where we're going.
+
+00:08:00.615 --> 00:08:02.658
+[SPEAKER_01] Where can you go if anyone wants to explore it?
+
+00:08:05.439 --> 00:08:08.547
+[SPEAKER_10] I mean you're gonna get wet either way.
+
+00:08:08.567 --> 00:08:16.944
+[SPEAKER_02] I need my face to be able to see.
+
+00:08:17.305 --> 00:08:23.178
+[SPEAKER_03] We've been having some flash buzz warnings.
+
+00:08:24.238 --> 00:08:25.321
+[SPEAKER_08] drink.
+
+00:08:25.622 --> 00:08:29.310
+[SPEAKER_01] We're all going to be on the news.
+
+00:08:29.329 --> 00:08:39.530
+[SPEAKER_08] 16 teachers trapped due to flash floods.
+
+00:08:46.395 --> 00:08:54.883
+[SPEAKER_08] So you can't save this like you can a Google Sheets and come back to it?
+
+00:08:54.903 --> 00:08:57.706
+[SPEAKER_10] It's just on your Google Drive.
+
+00:08:57.806 --> 00:09:02.990
+[SPEAKER_08] Yeah, okay, cuz I thought you said what's they I Misunderstood what you had said about it.
+
+00:09:03.009 --> 00:09:15.441
+[SPEAKER_06] You can't you can't they won't auto populate a Pre-existing data set and so if you're adding like rows to a Google spreadsheet it won't automatically populate
+
+00:09:15.590 --> 00:09:17.312
+[SPEAKER_08] You'll have to re-import.
+
+00:09:17.753 --> 00:09:17.852
+Yeah.
+
+00:09:17.873 --> 00:09:18.113
+[SPEAKER_10] OK.
+
+00:09:18.133 --> 00:09:28.065
+[SPEAKER_10] So if you added new dog cat and weight data, you would have to re-import that Google spreadsheet into Kodak for it to show the new data.
+
+00:09:28.085 --> 00:09:28.144
+[SPEAKER_01] OK.
+
+00:09:28.164 --> 00:09:32.649
+[SPEAKER_10] But you could save everything you did today into your Google Drive.
+
+00:09:32.830 --> 00:09:39.057
+[SPEAKER_01] I'm like, I took a picture of the answer that I put in there, and then pushed submit, so I couldn't get one to stay.
+
+00:09:39.077 --> 00:09:41.480
+[SPEAKER_01] I've got this spreadsheet, this Google spreadsheet.
+
+00:09:41.559 --> 00:09:45.445
+[SPEAKER_11] And I submitted my answer, and then downloaded it with the writing.
+
+00:09:45.424 --> 00:09:48.729
+[SPEAKER_11] Or would you literally just have to copy and paste it?
+
+00:09:48.749 --> 00:09:54.676
+[SPEAKER_10] I would just, yeah, I'm sure there is a better way, but I've always just copied and pasted into the same database match.
+
+00:09:54.796 --> 00:10:04.989
+[SPEAKER_10] Or you can add multiple tables into CODA, so I've done like three different Google spreadsheets copied and pasted from yours, and it'll show like what table one, table two, and table three.
+
+00:10:05.149 --> 00:10:07.292
+[SPEAKER_10] Yeah, it just won't merge that data together.
+
+00:10:07.491 --> 00:10:12.477
+[SPEAKER_09] Unless you put them all in the same sheet before.
+
+00:10:12.796 --> 00:10:21.066
+[SPEAKER_02] I'm trying to think of, like, tracking through months, weeks, years.
+
+00:10:21.086 --> 00:10:41.571
+[SPEAKER_08] I mean, that's where I would almost, okay, week one, and have the kids take a screenshot of week one, then add the week two data, and then just start looking at the changes over time, or the different graphs, or you would have to put the data and set it.
+
+00:10:42.277 --> 00:10:45.600
+[SPEAKER_07] The students you teach?
+
+00:10:45.620 --> 00:10:46.701
+[SPEAKER_03] A little bit?
+
+00:10:46.721 --> 00:10:47.202
+[SPEAKER_03] Basic.
+
+00:10:47.562 --> 00:10:48.183
+[SPEAKER_03] Basic?
+
+00:10:48.364 --> 00:10:49.245
+[SPEAKER_08] Very basic.
+
+00:10:49.684 --> 00:10:50.346
+[SPEAKER_08] Very basic.
+
+00:10:50.385 --> 00:10:51.847
+[SPEAKER_03] Can we graph with it?
+
+00:10:51.868 --> 00:10:52.388
+[SPEAKER_07] Yes.
+
+00:10:52.408 --> 00:10:55.851
+[SPEAKER_07] Go to variety with Google Sheets.
+
+00:10:56.212 --> 00:11:01.238
+[SPEAKER_01] I had them make the graph, the data table together, and then I put it in code after that last year.
+
+00:11:01.379 --> 00:11:02.159
+[SPEAKER_07] OK, cool.
+
+00:11:03.020 --> 00:11:05.182
+[SPEAKER_07] Vincent, you said a little bit?
+
+00:11:05.202 --> 00:11:06.124
+[SPEAKER_04] Yes.
+
+00:11:07.504 --> 00:11:14.421
+[SPEAKER_04] We did an art space data visual last year that was something we partnered with UT on a different aspect.
+
+00:11:15.423 --> 00:11:21.597
+[SPEAKER_04] And he used Google Sheets for data that kids worked to artistically.
+
+00:11:32.394 --> 00:11:39.761
+[SPEAKER_07] I know some of you used it last year.
+
+00:11:40.682 --> 00:11:47.830
+[SPEAKER_07] How many of you used code app at all with students before?
+
+00:11:49.511 --> 00:11:52.475
+[SPEAKER_07] Cool.
+
+00:11:52.774 --> 00:11:59.381
+[SPEAKER_07] Any other tools that you've used around data of any kind, data entry, data phase, graphing?
+
+00:11:59.615 --> 00:12:02.381
+[SPEAKER_01] I liked the Code App better than the Data Classroom.
+
+00:12:02.402 --> 00:12:04.407
+[SPEAKER_01] I just thought it was easy to dump it.
+
+00:12:04.427 --> 00:12:10.221
+[SPEAKER_02] I think Code App is easier than Data Classroom.
+
+00:12:10.360 --> 00:12:17.217
+[SPEAKER_07] It's easy for them to get lost in Data Classroom.
+
+00:12:17.788 --> 00:12:18.370
+[SPEAKER_07] one screen.
+
+00:12:18.791 --> 00:12:19.813
+[SPEAKER_07] It's kind of where you always are.
+
+00:12:19.833 --> 00:12:21.317
+[SPEAKER_07] There's not like multiple tabs.
+
+00:12:21.577 --> 00:12:28.615
+[SPEAKER_07] And then the other killer feature that's kind of related to your discussion is like as a teacher you can set it up and share a link with students and that's it.
+
+00:12:28.634 --> 00:12:29.375
+[SPEAKER_07] There's no login.
+
+00:12:29.437 --> 00:12:30.619
+[SPEAKER_07] There's no password.
+
+00:12:31.341 --> 00:12:31.782
+[SPEAKER_07] It's just
+
+00:12:35.238 --> 00:12:37.640
+[SPEAKER_07] exactly what students will see when they open it.
+
+00:12:37.660 --> 00:12:52.879
+[SPEAKER_07] So to me, that's always been the killer feature, is no cost, no login, work time Chromebooks, and you can do quite a bit with it, as you saw, you can kind of... So if I share the link, and I change something on there, will they see it on their screen?
+
+00:12:53.280 --> 00:12:54.101
+[SPEAKER_11] No, okay.
+
+00:12:54.542 --> 00:12:56.504
+[SPEAKER_11] So re-share it every time, okay, cool.
+
+00:12:56.524 --> 00:13:04.114
+[SPEAKER_07] So think of it as sort of like a point in time, like you're freezing it, and then, and similarly with students, like when they access what you share in a link,
+
+00:13:04.094 --> 00:13:08.123
+[SPEAKER_07] They obviously can make changes without that influencing the parent, what's on your screen.
+
+00:13:08.143 --> 00:13:12.432
+[SPEAKER_07] So each kind of creates its own space once students put that link and start playing.
+
+00:13:14.696 --> 00:13:15.337
+[SPEAKER_07] Cool, yeah.
+
+00:13:15.577 --> 00:13:22.052
+[SPEAKER_07] So part of the back story of Data Classroom is the person that I mentioned earlier who was a former science teacher.
+
+00:13:22.859 --> 00:13:24.500
+[SPEAKER_07] has been a really, really good partner.
+
+00:13:24.682 --> 00:13:30.971
+[SPEAKER_07] But as this project has unfolded, we found that Code App is a little, generally a little bit- Easier.
+
+00:13:31.150 --> 00:13:32.091
+[SPEAKER_07] Accessible?
+
+00:13:32.111 --> 00:13:32.493
+[SPEAKER_03] Yeah.
+
+00:13:32.732 --> 00:13:33.394
+[SPEAKER_03] Easier, accessible.
+
+00:13:33.413 --> 00:13:34.195
+[SPEAKER_03] We're accessible, I like that word.
+
+00:13:34.215 --> 00:13:36.077
+[SPEAKER_07] David Crabs might disagree with all of us.
+
+00:13:36.097 --> 00:13:36.938
+[SPEAKER_06] David might disagree.
+
+00:13:36.958 --> 00:13:38.421
+[SPEAKER_07] David's a- Well, David's extra.
+
+00:13:39.863 --> 00:13:42.788
+[SPEAKER_01] Super energetic.
+
+00:13:42.807 --> 00:13:44.028
+[SPEAKER_01] His kids are even older as well.
+
+00:13:44.048 --> 00:13:44.791
+[SPEAKER_07] They're a little older, yeah.
+
+00:13:44.811 --> 00:13:45.812
+[SPEAKER_07] So I guess really
+
+00:13:48.525 --> 00:13:52.250
+[SPEAKER_07] the work we'll be doing over the next couple days and what we'll ask you to implement.
+
+00:13:52.350 --> 00:13:55.534
+[SPEAKER_07] Again, one lesson or more in your class over the next year.
+
+00:13:56.395 --> 00:13:57.476
+[SPEAKER_07] We're tool agnostic.
+
+00:13:57.496 --> 00:14:02.163
+[SPEAKER_07] We'll support you to use Google Sheets, Code App, Data Classroom.
+
+00:14:02.222 --> 00:14:08.210
+[SPEAKER_07] And part of what we're hoping to find out through this project is what works better and what works less well for different purposes.
+
+00:14:10.754 --> 00:14:12.676
+[SPEAKER_07] So yeah.
+
+00:14:12.716 --> 00:14:16.760
+[SPEAKER_07] Do you all have any thoughts or reactions or anything you want to share on tools?
+
+00:14:18.445 --> 00:14:20.368
+[SPEAKER_11] You can't use it on a tablet, just FYI.
+
+00:14:20.827 --> 00:14:21.970
+[SPEAKER_07] Code app, you can't use it on a tablet?
+
+00:14:21.990 --> 00:14:23.131
+[SPEAKER_07] The dragging probably is what?
+
+00:14:23.172 --> 00:14:24.833
+[SPEAKER_11] Yeah, you can't drag anything.
+
+00:14:25.095 --> 00:14:26.517
+[SPEAKER_07] OK, so Chromebook, yes.
+
+00:14:26.616 --> 00:14:28.259
+[SPEAKER_07] Tablet for data.
+
+00:14:28.278 --> 00:14:29.400
+[SPEAKER_07] For code app, not that.
+
+00:14:30.802 --> 00:14:34.288
+[SPEAKER_01] Alison was asking about Excel, but kids don't have it.
+
+00:14:34.807 --> 00:14:38.052
+[SPEAKER_07] Right, and very similar to Google Sheets?
+
+00:14:39.235 --> 00:14:40.115
+[SPEAKER_07] Pretty much.
+
+00:14:40.417 --> 00:14:42.538
+[SPEAKER_07] Google's getting there.
+
+00:14:42.698 --> 00:14:43.879
+[SPEAKER_03] Google's trying to get there.
+
+00:14:43.899 --> 00:14:47.764
+[SPEAKER_03] It's the shortcuts that's different, really.
+
+00:14:48.804 --> 00:14:49.525
+[SPEAKER_03] Shortcuts.
+
+00:14:49.645 --> 00:14:53.909
+[SPEAKER_03] But you can input your own shortcuts into Google Sheets, though.
+
+00:14:54.570 --> 00:14:54.890
+[SPEAKER_07] Cool.
+
+00:14:55.831 --> 00:14:56.672
+[SPEAKER_07] Yeah.
+
+00:14:58.153 --> 00:15:03.438
+[SPEAKER_07] So what I'm hearing is Sheets and Code App might be an interesting combination to explore students.
+
+00:15:03.458 --> 00:15:09.124
+[SPEAKER_07] I think maybe those of you who use Code App can say a little bit more on this, but it seems like once students get a feel for it,
+
+00:15:09.390 --> 00:15:13.655
+[SPEAKER_07] they kind of get over that initial barrier of what the heck is this, like dragging stuff.
+
+00:15:13.775 --> 00:15:15.778
+[SPEAKER_07] It can be pretty flexible for them.
+
+00:15:16.879 --> 00:15:23.346
+[SPEAKER_07] And another thing that stood out to me in addition to the nice sharing link in the login is it makes you think a little bit more.
+
+00:15:23.366 --> 00:15:26.792
+[SPEAKER_07] So with Google Sheets or Excel, you have the Graph Wizard, which can be nice.
+
+00:15:27.351 --> 00:15:32.337
+[SPEAKER_07] But it can sort of foreclose the thinking students have to do about what even is the x-axis?
+
+00:15:32.378 --> 00:15:34.320
+[SPEAKER_07] What are these numbers?
+
+00:15:34.360 --> 00:15:35.701
+[SPEAKER_07] Just having to drag them, maybe.
+
+00:15:36.003 --> 00:15:43.831
+[SPEAKER_07] asks them to think a little bit more about what should be on the x-axis, what should the colors be, instead of this kind of recommendation for the graph based on some algorithm.
+
+00:15:43.851 --> 00:15:45.573
+[SPEAKER_07] Basically, what kind of variables they are.
+
+00:15:46.554 --> 00:15:49.418
+[SPEAKER_07] So we'll talk a lot more about tools.
+
+00:15:49.477 --> 00:16:00.750
+[SPEAKER_07] We kind of deliberately wanted to keep the Kodak discussion kind of introductory today, because we're in DreamOut, and there's so much to do outside in this place.
+
+00:16:00.770 --> 00:16:03.234
+[SPEAKER_07] We don't want to spend all of our time on computers, and that would be more for follow-ups.
+
+00:16:03.254 --> 00:16:04.575
+[SPEAKER_07] We're going to introduce more of the tooling
+
+00:16:04.859 --> 00:16:07.442
+[SPEAKER_07] But I just want to kind of open the conversation up.
+
+00:16:07.621 --> 00:16:10.245
+[SPEAKER_07] All right.
+
+00:16:10.264 --> 00:16:13.369
+[SPEAKER_07] I think we spent enough time for there to be a somewhat break in the lightning.
+
+00:16:13.928 --> 00:16:15.510
+[SPEAKER_07] So how about this?
+
+00:16:15.551 --> 00:16:20.557
+[SPEAKER_07] If you all want to go grab some water, there's coffee still all day, tea.
+
+00:16:21.258 --> 00:16:27.524
+[SPEAKER_07] And if you don't mind to come back at 2.15, so a little over 10 minutes, and we'll
+
+00:16:27.707 --> 00:16:29.052
+[SPEAKER_07] Hopefully, we'll see if the rain stops.
+
+00:16:29.072 --> 00:16:30.917
+[SPEAKER_07] We'll see if we need ponchos and we'll plan for the next step.
+
+00:16:30.937 --> 00:16:33.846
+[SPEAKER_07] So just about 10 minutes, a little break.
+
+00:16:33.865 --> 00:16:34.326
+[SPEAKER_07] Come back here.
+
+00:16:34.388 --> 00:16:36.232
+[SPEAKER_07] Yeah, we'll come back here and then we'll leave from here.
+
+00:16:46.725 --> 00:16:49.227
+[SPEAKER_07] Put on your water shoes, yeah.
+
+00:16:49.488 --> 00:16:54.633
+[SPEAKER_10] I don't know how much halo that is today.
+
+00:16:54.732 --> 00:17:02.639
+[SPEAKER_10] But we got a, I have to find a picture of it because there's no better way to describe it than, it's just like a full body rain jacket.
+
+00:17:02.659 --> 00:17:05.722
+[SPEAKER_03] That sounds awesome for young children.
+
+00:17:06.063 --> 00:17:16.412
+[SPEAKER_10] Yes, well because we have a bunch of rain jackets, like jackets for her, but the problem is you take her outside and she just immediately sits down on the perch
+
+00:17:16.392 --> 00:17:20.442
+[SPEAKER_10] The most disgusting puddle that she finds is grounding.
+
+00:17:20.582 --> 00:17:21.443
+[SPEAKER_10] She's what?
+
+00:17:21.463 --> 00:17:22.066
+[SPEAKER_00] Grounding.
+
+00:17:22.125 --> 00:17:23.409
+[SPEAKER_10] How old is your kid?
+
+00:17:23.509 --> 00:17:24.151
+[SPEAKER_10] Five.
+
+00:17:24.230 --> 00:17:26.636
+[SPEAKER_10] Okay, I'm remembering.
+
+00:17:26.958 --> 00:17:29.683
+[SPEAKER_10] Is he trying to kind of rub him yet?
+
+00:17:29.804 --> 00:17:31.248
+[SPEAKER_10] Is he trying to rub him?
+
+00:17:31.268 --> 00:17:32.510
+[SPEAKER_10] Oh, that's a big one.
+
+00:17:32.490 --> 00:17:45.367
+[SPEAKER_10] So it's hard to get her to wear it unless it's really rainbow or coal.
+
+00:17:45.428 --> 00:17:48.451
+[SPEAKER_10] But in time, she's like, I'm not putting sand in my mouth.
+
+00:17:48.491 --> 00:17:55.140
+[SPEAKER_10] She'll go outside in there, which is another struggle in and of itself.
+
+00:17:55.119 --> 00:18:06.530
+[SPEAKER_10] I don't go outside mommy.
+
+00:18:08.366 --> 00:18:11.130
+[SPEAKER_10] But the shoes?
+
+00:18:11.490 --> 00:18:14.834
+[SPEAKER_01] The shoes?
+
+00:18:17.897 --> 00:18:21.923
+[SPEAKER_08] The famous last words from my daughter when I was a kid.
+
+00:18:22.182 --> 00:18:23.104
+[SPEAKER_07] Everything's a struggle.
+
+00:18:23.203 --> 00:18:24.444
+[SPEAKER_07] Everything's a forecast.
+
+00:18:24.526 --> 00:18:25.306
+[SPEAKER_07] No, my try.
+
+00:18:25.547 --> 00:18:29.371
+[SPEAKER_10] I don't want to climb up over the car seat.
+
+00:18:29.391 --> 00:18:32.755
+[SPEAKER_10] Just like every little thing is a problem.
+
+00:18:32.734 --> 00:18:57.290
+[SPEAKER_10] I used to have a whole body thing I used to have a whole body thing I used to have a whole body thing I used to have a whole body thing
+
+00:18:57.270 --> 00:19:20.998
+[SPEAKER_10] I was sad initially about coming and seeing the night, but then yesterday my husband went to sweat for one hour, just not that long.
+
+00:19:21.038 --> 00:19:22.839
+[SPEAKER_09] And during that time,
+
+00:19:22.819 --> 00:19:24.241
+[SPEAKER_10] She pooped in the bathroom.
+
+00:19:24.281 --> 00:19:25.243
+[SPEAKER_10] And I can carry my wife.
+
+00:19:25.344 --> 00:19:27.667
+[SPEAKER_10] I turned off the poop belt on the floor.
+
+00:19:27.768 --> 00:19:30.092
+[SPEAKER_10] She stepped in the bathroom.
+
+00:19:30.112 --> 00:19:32.355
+[SPEAKER_10] And then I had to clean all of that up and clean her up.
+
+00:19:33.116 --> 00:19:39.106
+[SPEAKER_10] And in that moment when I was cleaning more of the poop out from between the toes, I was like this.
+
+00:19:39.086 --> 00:19:40.869
+[SPEAKER_10] I love you.
+
+00:19:41.109 --> 00:19:45.876
+[SPEAKER_10] And I was like, because I'd come back in the morning to be like, I could drive home at night and see her.
+
+00:19:46.478 --> 00:19:51.665
+[SPEAKER_10] And after that, I went, Mommy's going to be gone for two sleeps.
+
+00:19:51.685 --> 00:19:55.771
+[SPEAKER_10] And I'm going to summer camp, is what I call it.
+
+00:19:55.791 --> 00:20:01.760
+[SPEAKER_10] And she goes to bed last night, and she goes, Daddy's getting me up in the morning because Mommy's going to summer camp.
+
+00:20:01.780 --> 00:20:03.603
+[SPEAKER_10] She said all that.
+
+00:20:03.623 --> 00:20:03.983
+[SPEAKER_10] Yes.
+
+00:20:04.163 --> 00:20:06.106
+[SPEAKER_10] Daddy, get me up.
+
+00:20:06.086 --> 00:20:08.650
+[SPEAKER_10] Mommy go to summer camp.
+
+00:20:08.670 --> 00:20:11.733
+[SPEAKER_10] And don't let him know how much you love him.
+
+00:20:14.817 --> 00:20:20.084
+[SPEAKER_10] Like first thing he walks in the door after he gets back from the grocery store.
+
+00:20:20.104 --> 00:20:23.188
+[SPEAKER_10] Things you can say when you greet someone, right?
+
+00:20:23.448 --> 00:20:25.730
+[SPEAKER_10] What are you gonna say to dad when he opens the door?
+
+00:20:25.790 --> 00:20:30.676
+[SPEAKER_10] Are you gonna say I missed you or I'm so glad you came back.
+
+00:20:30.656 --> 00:20:34.261
+[SPEAKER_10] And I was joking and I was about to tell her that you pooped on the floor.
+
+00:20:34.682 --> 00:20:38.769
+[SPEAKER_10] But I'm thinking she'll say, like, Daddy, I pooped on the floor.
+
+00:20:38.909 --> 00:20:41.752
+[SPEAKER_10] And she goes, Daddy, I pooped on the floor.
+
+00:20:41.772 --> 00:20:45.719
+[SPEAKER_10] And he's like, I don't know.
+
+00:20:45.739 --> 00:20:48.403
+[SPEAKER_06] Someone sitting here?
+
+00:20:48.423 --> 00:20:50.144
+[SPEAKER_10] Yeah, it's a friend.
+
+00:20:50.486 --> 00:20:51.586
+[SPEAKER_03] Yeah, no, very close.
+
+00:20:51.707 --> 00:20:53.871
+[SPEAKER_07] You have to remember that they're very close, basically.
+
+00:20:53.931 --> 00:20:56.714
+[SPEAKER_03] In August, there were two years.
+
+00:20:56.734 --> 00:20:56.934
+[SPEAKER_03] Oh, OK.
+
+00:20:57.386 --> 00:20:59.368
+[SPEAKER_07] Your story was related, but I was at the pool.
+
+00:20:59.528 --> 00:21:00.950
+[SPEAKER_07] Sorry if I'm talking about pool songs.
+
+00:21:00.970 --> 00:21:02.531
+[SPEAKER_07] It's a swim diaper, right?
+
+00:21:02.551 --> 00:21:06.375
+[SPEAKER_07] I didn't fully appreciate that if there's a swim diaper, you gotta change it there.
+
+00:21:06.454 --> 00:21:10.018
+[SPEAKER_07] The whole thing just plops out onto the frickin' pool.
+
+00:21:10.038 --> 00:21:11.759
+[SPEAKER_10] It's really a containment device.
+
+00:21:11.819 --> 00:21:18.986
+[SPEAKER_10] It doesn't... It's a protection device for the pool.
+
+00:21:19.026 --> 00:21:21.147
+[SPEAKER_03] How's the flight in here?
+
+00:21:21.167 --> 00:21:21.749
+[SPEAKER_03] Oh, you're swimming?
+
+00:21:22.809 --> 00:21:27.394
+[SPEAKER_03] This is one that already said, like, thanks to Howard for this.
+
+00:21:27.374 --> 00:21:38.107
+[SPEAKER_03] I'm missing your cell.
+
+00:21:42.974 --> 00:21:53.127
+[SPEAKER_01] Sorry.
+
+00:21:58.676 --> 00:22:07.826
+[SPEAKER_06] Do you guys need more copies of these?
+
+00:22:09.229 --> 00:22:13.453
+[SPEAKER_03] Because I have one at home.
+
+00:22:13.953 --> 00:22:18.318
+[SPEAKER_03] It's up to you.
+
+00:22:18.398 --> 00:22:28.109
+[SPEAKER_07] And give it to a teacher that's going to lose.
+
+00:22:29.406 --> 00:22:33.375
+[SPEAKER_09] I've had one of these on my wish list since I was in Josh's class.
+
+00:22:33.455 --> 00:22:35.842
+[SPEAKER_09] And now I have my own cup of tea.
+
+00:22:35.862 --> 00:22:37.224
+[SPEAKER_07] Where'd you get it before?
+
+00:22:37.645 --> 00:22:40.151
+[SPEAKER_07] You have to do it in class?
+
+00:22:40.352 --> 00:22:40.412
+[SPEAKER_09] No.
+
+00:22:47.023 --> 00:22:51.589
+[SPEAKER_05] What's next after you leave?
+
+00:22:51.950 --> 00:22:57.577
+[SPEAKER_05] Josh, we're going to switch to an hour.
+
+00:22:57.877 --> 00:23:03.204
+[SPEAKER_05] We'll show you the day-to-day stuff.
+
+00:23:03.265 --> 00:23:06.088
+[SPEAKER_05] That's a great one.
+
+00:23:06.169 --> 00:23:09.373
+[SPEAKER_05] That's a great one.
+
+00:23:09.594 --> 00:23:12.017
+[SPEAKER_03] It's okay with you.
+
+00:23:12.037 --> 00:23:13.638
+[SPEAKER_06] It's okay with you.
+
+00:23:13.618 --> 00:23:20.836
+[SPEAKER_03] All I have is two teacher's editions for the first unit and the second unit.
+
+00:23:20.915 --> 00:23:22.661
+[SPEAKER_03] They don't give me space.
+
+00:23:22.740 --> 00:23:23.182
+[SPEAKER_03] I know.
+
+00:23:23.382 --> 00:23:25.426
+[SPEAKER_03] I am not super smart.
+
+00:23:25.446 --> 00:23:26.650
+[SPEAKER_04] I'm not going to be a buyer even.
+
+00:23:26.848 --> 00:23:29.612
+[SPEAKER_04] I'm such a boomer.
+
+00:23:29.972 --> 00:23:42.205
+[SPEAKER_05] Don't do it, don't do it.
+
+00:23:44.788 --> 00:23:55.961
+[SPEAKER_10] Yeah, let's get it.
+
+00:24:05.340 --> 00:24:10.969
+[SPEAKER_03] They really enjoy seventh grade science.
+
+00:24:11.028 --> 00:24:17.156
+[SPEAKER_03] It's where you see a lot of their interests.
+
+00:24:17.758 --> 00:24:19.961
+[SPEAKER_03] And so we're competing.
+
+00:24:20.121 --> 00:24:25.647
+And it's like 20, oh, of course it is.
+
+00:24:26.288 --> 00:24:34.200
+[SPEAKER_07] Introducing knowledge from biology and setting up a stage for the depth of knowledge from biology.
+
+00:24:48.794 --> 00:24:55.877
+[SPEAKER_03] And it's pretty hard to learn.
+
+00:24:55.938 --> 00:24:59.631
+[SPEAKER_03] We didn't do much of that here.
+
+00:25:23.724 --> 00:25:27.045
+[SPEAKER_11] We can't see anyone.
+
+00:25:27.769 --> 00:25:29.500
+[SPEAKER_11] Wednesday.
+
+00:25:45.712 --> 00:25:51.001
+[SPEAKER_03] They had ponchos down there.
+
+00:25:51.022 --> 00:25:54.288
+[SPEAKER_08] If you want to grab a poncho, it's a big bucket of them.
+
+00:25:54.348 --> 00:25:56.692
+[SPEAKER_08] We're right at the bottom of the stairs.
+
+00:25:56.893 --> 00:25:58.395
+[SPEAKER_08] You know where the refill station is?
+
+00:25:59.458 --> 00:26:00.839
+[SPEAKER_00] The water bottle refill station?
+
+00:26:01.161 --> 00:26:07.451
+[SPEAKER_00] Just turn around.
+
+00:26:21.808 --> 00:26:23.570
+We're better than most of the things.
+
+00:26:23.590 --> 00:26:23.872
+Oh, right.
+
+00:26:23.951 --> 00:26:25.693
+[SPEAKER_01] So you're graduating, too.
+
+00:26:25.773 --> 00:26:27.596
+I would like to help.
+
+00:26:27.615 --> 00:26:28.538
+I think I have only some experience.
+
+00:26:28.577 --> 00:26:29.338
+Thanks for letting me do it.
+
+00:26:29.378 --> 00:26:30.019
+I'm glad we worked on it.
+
+00:26:30.059 --> 00:26:34.144
+[SPEAKER_05] There's like a sneaky and an extra assignment, like, by the week.
+
+00:26:34.204 --> 00:26:35.626
+[SPEAKER_05] And that's what we did last week.
+
+00:26:35.646 --> 00:26:42.394
+[SPEAKER_05] And then all of a sudden, on Wednesday, and then I'm sure we're going to be able to do that Sunday.
+
+00:26:42.414 --> 00:26:43.817
+And I think about it more easily.
+
+00:26:46.582 --> 00:26:50.054
+[SPEAKER_05] He's the one that kept sneaking in little projects.
+
+00:26:50.496 --> 00:26:54.971
+[SPEAKER_06] He's just a little scattered.
+
+00:26:59.980 --> 00:27:18.596
+[SPEAKER_10] Open them all up.
+
+00:27:18.576 --> 00:27:30.228
+[SPEAKER_03] Yeah, that was the one that was yours.
+
+00:27:30.248 --> 00:27:45.883
+[SPEAKER_02] Yes, but that was fun.
+
+00:27:48.444 --> 00:27:53.653
+[SPEAKER_09] I'm going to insert this that we do.
+
+00:27:54.335 --> 00:27:58.181
+[SPEAKER_08] And it's not letting me.
+
+00:27:58.320 --> 00:28:04.632
+[SPEAKER_08] I went up here because we're supposed to copy that.
+
+00:28:05.032 --> 00:28:08.719
+[SPEAKER_02] Since we have multiple columns, I don't know if it'll do that.
+
+00:28:08.739 --> 00:28:19.434
+[SPEAKER_02] OK, I wonder if you could just select.
+
+00:28:19.695 --> 00:28:28.189
+[SPEAKER_08] I don't think I can place three lines at the top made from clipboard.
+
+00:28:31.830 --> 00:28:44.710
+[SPEAKER_08] It's just what I copied and pasted.
+
+00:28:47.288 --> 00:29:08.132
+[SPEAKER_05] Now, can we show the curve?
+
+00:29:08.567 --> 00:29:10.672
+[SPEAKER_03] Connect the dot maybe.
+
+00:29:11.394 --> 00:29:15.040
+[SPEAKER_02] Connecting lines.
+
+00:29:15.141 --> 00:29:17.244
+[SPEAKER_02] I mean that gives you the line.
+
+00:29:17.266 --> 00:29:20.711
+[SPEAKER_05] I was just wondering if it would give you the relative.
+
+00:29:20.732 --> 00:29:21.815
+[SPEAKER_02] What is that?
+
+00:29:21.914 --> 00:29:24.721
+[SPEAKER_02] Let's see if that one doesn't show you.
+
+00:29:25.121 --> 00:29:27.926
+[SPEAKER_02] Oh, it shows you a linear.
+
+00:29:27.906 --> 00:29:29.250
+[SPEAKER_00] That's what I should figure out.
+
+00:29:29.270 --> 00:29:30.093
+[SPEAKER_00] That's so cool.
+
+00:29:30.273 --> 00:29:32.559
+[SPEAKER_02] What does it happen if you show up?
+
+00:29:32.599 --> 00:29:39.519
+[SPEAKER_03] It's just your margin of error, essentially.
+
+00:29:45.894 --> 00:29:59.060
+[SPEAKER_08] I wonder if I could insert another data set.

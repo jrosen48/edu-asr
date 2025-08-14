@@ -1,0 +1,255 @@
+
+SPEAKER_04:
+We have a CS class at the middle school and that's what our kids are required to use. 
+SPEAKER_01:
+It's like It could be cute. It's like a little game. It's like you gotta get the little guy to lay the egg. I'd give you observations last year, do the team rubric observations. And one of the classes I had to observe was our computer science teacher. And I would go in with the rubric and be like... And he's not allowed to make any of his own lessons, right? They just have him go on Kira, and the kids log on to Kira, and that's the whole class. It's like they log in to Kira, and they do the Kira lessons. And I'd be like, yeah, they are... This is gamified learning. That is a check on the room. That's a five in my book. That's a five in my book, so I really admire any way you do that. I should be doing that. 
+SPEAKER_04:
+Yeah, I totally bounced from that. I was telling her, I bounced from that to code.org, make code. 
+SPEAKER_01:
+Make code. Have you used Tinkercad at all? 
+SPEAKER_04:
+Yes, we use Tinkercad. When the 3D players were up and running, we really used it for the 6th graders, but they used Tinkercad just to design stuff. And I said, next year, the 7th, you'll get to use it. And they're like, yay. And I'm like, great. One less thing to deal with using Tinkercad. 
+SPEAKER_01:
+I think they used code.org. The kids don't like it. I already know they hate it. They hate it. 
+SPEAKER_04:
+And I also take my kids out to the garden too sometimes. Take us over to the garden and kill time. 
+SPEAKER_01:
+There was a really neat... It was with someone who works at UT. They did a cohort of how to use computer science in other subjects besides just computer science. We used MakeCode and used the little hummingbird kits. Have you heard of these? Yeah, so it's like a little circuit guy and And so it's like a little circuit and it's called a hummingbird. It connects to MakeCode and you can program it on the MakeCode website. And then you plug it in, like plug the hummingbird into the Chromebook. And it talks, the Chromebook talks to the hummingbird. And it can do a lot of different things. So like, the hummingbird has like an 8-bit LED. It's like just 8 little LED lights, right? And you can code it to make a message and flash a sign or like a happy face. or you can connect a motor to it and it'll do different things. And that was, my kids really enjoyed doing that because it was like, it's very different from Kira, whereas Kira is like, you need to get the duck to the egg. Whereas with MakeCode, I could be like, you can do literally anything. at all with this website and they enjoyed that a lot because they had the foundation of computer science that someone had already taught them, not me because it didn't go with my standards that good, but like when we did our biomes unit and so we made a soil humidity Tester. And all it is is like if there's water present in the circuit then it closes the circuit and then the light turns on. And if there's no water in the soil then the light won't turn on because it doesn't close the circuit. And we did that and it was like Computer science, but it was also science. It was like a bios lesson. Um, and it was it was a water sensor So I would look into that and we got a grant and I have a class that Like 25, you know, I have 16 maybe 12. So they would share like once a while 
+SPEAKER_02:
+don't know. 
+SPEAKER_01:
+It looks like this It's literally just a little circuit and it's really ugly but it's I always tell them like that's what the inside Yeah, so that's a hummingbird and it works with the the make code website and what's that other device there's something else that you can use that i'm going to plug up to the computer and you can code it that we had i cannot think of the name of it we had a few devices so this is what our moisture thingy looked like and it's literally just like we're trying to see the little lights And you would set it to be like, if there's water, then there's a happy face. Like, that's the code. It's really simple. Then you put the little guys in the plant, and if there's water, then the happy face comes up. If there's no water, then there's no happy face. 
+SPEAKER_04:
+See, we don't have a microwave, but I see what you're saying, because they make those things, they make code. But we did have, we had spheros. 
+SPEAKER_01:
+Oh, yeah, yeah, spheros. 
+SPEAKER_04:
+Yeah, we had those, so Spheroes are great. So sixth grade would be those for computer science sometimes. And if you use the coding activity, you can use your phones or the computers, whatever you want to have access to. And they will code the Spheroes into different actions. 
+SPEAKER_01:
+with different lessons Of like things you can do if you did have the micro bit and then also projects that you can do on just the make And in the lessons of materials that are needed as fun as Kira Yeah, so my best friend quit teaching this year, which I'm really sad about. She works in HR now and takes the same amount of money and gets to work from her house, so good for her. But she was the computer science teacher at our school. And so I would always go into her room and be like, hey, this is so much more fun than what I'm doing. So it's funny to hear you guys saying that you made it because I'm like, it sounds so fun. Just the way it lends itself to freak out. Like it's more project based and it's less like, I feel like our creation is really steered towards. We're going to take a test in the fall, we're going to take a test in the spring, and then we're going to take another test in the spring. And like that's kind of what I have to structure my whole year around is like, did you practice the test every day? Like what are you doing to practice for the test instead of like, did you think today? 
+SPEAKER_04:
+Are you talking about computer science? 
+SPEAKER_01:
+No, I teach sixth grade science. Science. Yeah, science, science, science. Does it have to be outside? 
+SPEAKER_04:
+Yeah, I don't want to fool with science. 
+SPEAKER_01:
+I'd rather it be computer science. 
+SPEAKER_04:
+Well, computer science is not that hard. It's just that what they give us to use is terrible. 
+SPEAKER_03:
+Oh, yeah. No, it's not enough at all. 
+SPEAKER_04:
+It's terrible. Honestly, I bounce around. I mean, we could do that with some plans. I have drones, so I pour STEM into computer science classes. 
+SPEAKER_02:
+What do they know about STEM? 
+SPEAKER_01:
+Have you done anything with them? Yeah, they need to be able to. 
+SPEAKER_04:
+No, but the previous teacher did, and since my class, but I've received the classroom since I was so many years old. 
+SPEAKER_01:
+Yeah, oh that's right, that's right. 
+SPEAKER_04:
+I'm kind of glad I switched it in. I love technology and have a degree in computer engineering, digital media, and all that, and social work, and got a master's in education in UT Tech. Anyway, that's all, whole story. But, um, so I liked it. I liked, especially it just happened so suddenly, and a previous teacher left a mess. So I took a whole school year. And then once that fence was cleaned up, they said, oh, we're going to find her. 
+SPEAKER_01:
+I'm just going to start running around. No, no, no. It's OK. Yes, they came. 
+SPEAKER_04:
+I would need to sort of hold up on my phone. I told her, but they came one day in September, so I'm coming around. 
+SPEAKER_01:
+Probably in the middle of your lesson, too. Oh, yeah. Yeah. 
+SPEAKER_04:
+And then we had cleared the room out so kids and stuff started to get stolen. 
+SPEAKER_01:
+And then they kind of finished it by a few months ago. 
+SPEAKER_04:
+Some of the studios still was not done. I emailed my principal about my TVs they took down and told us it's actually smashed but they restored another teacher. One fell into it and then another one started beating the mess out of it. They said it was broken, I might as well destroy it. So yeah, I really don't know if my room was even done really for real for right now. So I can't even tell you. But anyway, TV production kids love that. So they were working for the news since we have our own news station. We have at least 100 viewers. Sometimes it gets out to my peoples in North Carolina I used to work with. I've taught at that for a few years. So they love, they will do anything they want to do. So I hold that further ahead. 
+SPEAKER_01:
+So is it like streamed? Absolutely. I don't think so. We have a, like we have a study class data, but it's like a take from it. But a lot of our coordinated media, like the majority of our students don't have media release. And so we started posting it, and then it was very quickly like, oh no, that child's not supposed to be on there. And so we just share it in the morning on Fridays. No, I'm just saying that that kind of irrigation, there's got to be that. And it's, they will do anything to get in front of them. 
+SPEAKER_04:
+As long as they don't get a release. 
+SPEAKER_01:
+Yeah, as long as they don't leave. They'll do anything except get their mom to sign the release. I think that would be a good idea. 
+SPEAKER_04:
+Yeah, I had to go through the whole get the release. 
+SPEAKER_00:
+Maybe you could use it as a push this year though. 
+SPEAKER_01:
+Yes, yeah. Our arts media teacher really said she wants to push that this year with the parents on the way in. Your kid cannot participate in any of the things we do with the media first unless they have the real estate. 
+SPEAKER_04:
+And we send out a permission form and then the parents sign in all this stuff. And what a problem that happens is other teachers in the school start seeing their kids in right now. 
+SPEAKER_05:
+And I'm like the principal gave y'all permission to be in a club, so that's not on me. If y'all get something, that's someone else's. 
+SPEAKER_04:
+It's my studio, but you wanna try it? Anyway, but yeah, that's what I do. That's what I do with the club and the piercings. STEM does a lot more. We do photography, we have a lot of cameras that we got some friends for. We do, we do sphero, we do drones, we have those. We do sometimes, we have, we have data data outside and count the laps we walk on track. 
+SPEAKER_03:
+Which is really just to get them out of the classroom. 
+SPEAKER_04:
+Well, so, it's very interesting, but, 
+SPEAKER_01:
+I want to say five years ago to do first realize to choose and it was like And then they were like, okay, we gave you a mixture and like great good luck, which you know what? Apparently not enough to maintain a program. We just think it right The first program has a lot of really cool coding resources and It's pricey, but the scale down for the C6 and 7th version is called Lego League, and it's Lego. And so they code online, and then you just attach the motors to Lego cars instead of action. I'm trying to find a picture of what the 
+SPEAKER_04:
+On top of that, Sphero has that, it's called like the STEM kit. It costs a few thousand dollars. It has those things she mentioned, those motors. The kids are like in the book, and the book has a manual for it. They have lessons and tasks where they deal with certain things. 
+SPEAKER_01:
+So this is like the high school version, they're huge. But if you do the Lego League, it's like you can put them on this table and drive them around and you just, we used, when we did it, we used like PS5 controllers. 
+SPEAKER_04:
+The kids are very comfortable with this. 
+SPEAKER_00:
+So we've been talking, so you all have ideas about a potential unit for this year. 
+SPEAKER_04:
+I would have known, but they just met you. And said, hey, we just got your thing signed. But we just now noticed that your thing was in here. It's my bad. You still want to come in? And I was in Alabama when I met you. I'm like, OK. That's when I get home. 
+SPEAKER_01:
+I really like to do something with the water cycle or weather with my sixth graders this year. 
+SPEAKER_04:
+So what that means is you want to do that. What are you doing? 
+SPEAKER_00:
+So I'm still working with our urban loose program as well and so all of science is my jam anyway so this part of nature is part of our place and so I wouldn't, so I have access to be able to work with both of those. So I think we can work this out. And I think it even goes with the picture that Deborah painted down there about how they show the waterfall trickling on down to the community. And so the waterfall and then the community. It's a unit. And so there's multiple lessons. 
+SPEAKER_02:
+So we can just push in our thinking to be on task. 
+SPEAKER_00:
+That's all. What are your thoughts? 
+SPEAKER_01:
+You could do something with your TV class. You could do just identifying things on boards. 
+SPEAKER_04:
+Predict the weather or report the weather. 
+SPEAKER_01:
+Both. We're about to learn about that, too, in general. You could have a team that just predicts the weather, and then they write the forecast for the six months that it came down. 
+SPEAKER_04:
+Those are the database responses. Yeah, we can do that. I wish I had my computer, type seven, whatever. 
+SPEAKER_00:
+It's okay, and I think we can get those notes. I want to just show y'all the weather rule that John is going to show you. Then just give me a reason to really teach it because I learned about it last year, but I did not make time to teach, but if we create that it's part of our unit, then definitely. 
+SPEAKER_04:
+I'm trying to look for my garden, so I can kind of tell you, show you how they do it. 
+SPEAKER_00:
+This is my last year here. This is the video. So this is kind of like his report. But he does his wheel, where everything is, I guess, once the data is gathered, then he aligns everything here. But he uses, hold on. this little reporting sheet to get the data. So he'll do this in the morning and then once he gets the data come back and put it all on the wheel and it gives him like the weather report for the day. And there's a whole packet and everything so it's like a lot to learn but we can like one of our standards in sixth grade is the weather but then it's like 
+SPEAKER_01:
+Cool. I know what degrees it is, and I know what the humidity is, and I know what the humidity is, but what does that actually tell me about anything? Or how to read it, or how to just get in the data, or how to prepare for tomorrow based on what the weather is like today. 
+SPEAKER_04:
+Like we wonder why I still wear shorts and t-shirts when I know it's going to be thunderstorms. I get shocked if I do that in my room. 
+SPEAKER_01:
+Listen, I had a footsteps on this going into 9th grade this year. And that was like the biggest thing that we've thought about in the last year. Did he say something? He doesn't, like, why are you wearing a hoodie? 
+SPEAKER_00:
+That's a thing, this generational thing right now. 
+SPEAKER_04:
+It is, and it's stupid, but it's what I'm doing. 
+SPEAKER_00:
+And I'm just like, well, thanks. It's not just that they're comfortable, and they're like, man, this is what you're doing. They're really beautiful, pretty. And safe. Safety, I think, is the thing. 
+SPEAKER_01:
+I think that's really what it was. Safety. 
+SPEAKER_04:
+I needed to be able to hide. 
+SPEAKER_01:
+Well, next year, he won't be at my school anymore. 
+SPEAKER_04:
+He's going to high school, so. 
+SPEAKER_01:
+Yeah, that's 
+SPEAKER_05:
+Okay. 
+SPEAKER_00:
+You set everything up and everything? 
+SPEAKER_04:
+Well, that's where the Knoxville Garden Alliance, they come in and help with that. Then we have some other teachers that help. My mom, she will help if she feels like it. Okay. She feels like her retirement. She wants to get out of retirement for a few hours. 
+SPEAKER_03:
+Yeah, that's pretty much, I think that's a little more recent. 
+SPEAKER_04:
+And so with that, and they did, we did soil samples, we did all that kind of testing, pH levels. 
+SPEAKER_01:
+So Jen's gonna do, tomorrow we're doing aquatic water testing stuff. And then maybe that'll give us some more ideas also about. And we're gonna do the weather stuff. But Jen's gonna take us on the side and give us water quality testing kits. Just trying to think about like, there's a lot of different stuff in computer science in sixth grade science that you can collect data on. But then it's like, what would the advocates do with it, is what I keep thinking about. So that'll be neat to go and see how you do that. 
+SPEAKER_00:
+And that's fine. That's organic. We can develop it as we go along. It's something we can find out. Yeah. 
+SPEAKER_01:
+Test the water. 
+SPEAKER_00:
+And it's exciting that we're all going to get kids. It's just as simple. It's like they're like little dipsticks to do. quite different element testing. But if we're going to have the same materials in, we can definitely kind of. 
+SPEAKER_02:
+And if you think that if it's something you want to use, with the $100 project credit in this case, you can purchase it. 
+SPEAKER_01:
+It's pretty cheap. And if you're in Knoxville, you can get them from K-Test. 
+SPEAKER_03:
+K-TEST are free next to Birmingham. Yeah, they'll even come to your class and co-teach with you. And they're all like grad students and scientists. 
+SPEAKER_04:
+So I'm guessing that pricing stuff that the Knoxville Garden Line has probably done with them, I would say. Because they've already come to teach the kids with me. They're supposed to teach and I just supervise the behavior. 
+SPEAKER_02:
+It's great having them because... They have like little scientific conversations with them. And then the kids love the one-on-one. 
+SPEAKER_05:
+Yeah, maybe they're still worse. I always love thinking about that. 
+SPEAKER_00:
+It sounds about normal. 
+SPEAKER_01:
+I know Jen and I, we're going to do something eventually. We're gonna do something with the invasives. Right, and so, so basically, this is viewed by one. No, they told me I could still, I was like, I'm going to interview you. They were like, it's okay, you can still do invasives. Man, shoot. He said we maybe sleep a lot during the first two months. You're going to be so sleep deprived. You're not thinking about this. No, Derek and I sleep in chips. We take turns. Are they already scrambling to figure out who's going to cover your thigh? I know, I just told Nora to sleep. Yeah, they're saying, that's why I was asking a lot of questions. 
+SPEAKER_00:
+And you know, he was like, I don't know what I'm saying. Saying I come up with something that I was already doable to perform when we were already dressed. So this is just my first year. I remember, whatever. And so since you're I have never developed a lot of that stuff. And it's like not as sustainable. Like you just said yourself how the products and some of the stuff just don't work for what's happening in your home. And so I'm starting out and designing my own process. I have a lot of new ways so I can kind of, you know, I want even with like state mandates, I know how to please the state and do what I want. 
+SPEAKER_04:
+I have a half just for teaching teachers. Well, I mean, I guess because what you teach, you kind of have to. I mean, I do, too. 
+SPEAKER_00:
+I mean, I just like not to, you know, I just like to be able to prove why I need to keep my job, you know, so. 
+SPEAKER_04:
+My pastor, he's my Lord, Amy, and he's, so we can see eye to eye. And my mom goes to church, so my mom and him, they be ganging up on me. 
+SPEAKER_03:
+Yes. 
+SPEAKER_00:
+But yeah, you get it. So is there like a project that you would like to have done by the end of the year that you'd like to use this temptation? See if there's like something else that's affecting that mutation. 
+SPEAKER_04:
+The idea is is more so through a garden. 
+SPEAKER_00:
+I'm open for that because I'm in those spaces as well, so I'm able to integrate. 
+SPEAKER_04:
+So yeah, you never integrate that now, granted. These three days that we're doing this, these are supposed to be my days to go in the classroom and actually get it together. So, I guess with the way that you do the weather and all that, that could relate directly to the STEM. Because STEM is a lot more than this, we do other things. But depending on what you're trying to do with yours, 
+SPEAKER_00:
+I really brought up the weather for Audrey because she was talking about the weather and the water cycle, so I brought up the wheel, but I'm open to learning and utilizing it. There's something that affects all of us without it being a great skill for my kids and for me. So I'm open. We can use that. But don't feel like we're stuck in that department because I'm open. So you have a lot of resources. So let's talk about that. Like, what are you looking forward to using and doing? And then maybe I could kind of try to handle that. 
+SPEAKER_01:
+It doesn't specifically say it, but it was one of the things that we talked about. 
+SPEAKER_05:
+previous year came to the STEM portion. 
+SPEAKER_04:
+We have the garden, we have drones, so we'll be using the drone at some point. We have, of course we do a lot of TV prevention, so those are three big focuses in the classroom. Yes, we got more Legos and all that stuff, we're gonna probably mess with those two, but I think that'd be more related to sixth grade computer science courses. Seventh grade is for that as well. 
+SPEAKER_00:
+I like the TV production part too, so you could do something in there. It's really very awesome. I like the unique period that you have for your kids to get them to participate. 
+SPEAKER_04:
+And I think positive production can be a project in itself, but you are working with that because if we are producing new things, shows, for the masses and we include your science critique, your computer science skills. They also intersect, but still, it'd be superior. 
+SPEAKER_03:
+It's not fair how we want to do that. 
+SPEAKER_00:
+That's a good start of conversation. 
+SPEAKER_04:
+Yeah, it just, you know, just it's like, maybe I could do so much. 
+SPEAKER_03:
+I just based on your findings. 
+SPEAKER_04:
+I can see it though. I love doing teen production. 
+SPEAKER_00:
+I also have to do it from the app, from the phone, cameras. So let's talk about that. So teen production. OK, so of course you have it in your show. So I know you just talked about the new type of show you have for your school. 
+SPEAKER_04:
+G&A. I can like label the trees. 
+SPEAKER_00:
+What all does it cover? 
+SPEAKER_04:
+What all does it cover? The basic news, sports, weather. 
+SPEAKER_02:
+Maybe, this is an idea, because I have to get this done in nine weeks. 
+SPEAKER_04:
+And then sometimes we'll have like specials on. We have a ball game today, they have a meeting release, we have some clips of the game, you know, and stuff with our admins. But that's usually the grand scheme of things. But we want to do more about things like you said, weather, stuff that Especially if we learn how to do the weather. 
+SPEAKER_00:
+All right, so we could share our rhythm report. 
+SPEAKER_01:
+And even if every student doesn't have a rhythm release, or even if you didn't have a TV program, you could still do a podcast, have your students script a podcast, or have them write in scripted interviews. 
+SPEAKER_04:
+Yeah, we have kids that don't have, we have them in the interviews of the ones that are actually students. Or they collected that, those ones behind the scenes, 
+SPEAKER_01:
+more strict this year 
+SPEAKER_05:
+No, we're gonna go ahead and get this mini release form. 
+SPEAKER_00:
+Do y'all do any point system? Do y'all have like a house system or anything? Like incentive basis? Any incentives? 
+SPEAKER_04:
+Um, incentives for doing it? 
+SPEAKER_00:
+I'm just like anything. Like you could use a... Yeah, give a point for bringing it back. I give a grade. You need some points. Points push behavior. Give a teacher leverage. 
+SPEAKER_04:
+Snacks. But the problem is that, the snacks. 
+SPEAKER_00:
+See, points lead up to snacks and you don't have to give them every time. So you gotta leverage the points. Right? And then it. 
+SPEAKER_04:
+Do you want me to like grade points or? 
+SPEAKER_00:
+I use like Dojo, but like some people have house systems like where like kids belong to this group and like they earn points or like they're 

@@ -1,0 +1,2994 @@
+{
+  "file": "/Users/jrosenb8/edu_asr/scratch/2025-07-28-1119-am-back-right-corner-010.mov",
+  "segments": [
+    {
+      "id": null,
+      "start": 0.031,
+      "end": 1.512,
+      "text": "Why did we classify this as an insect?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1.913,
+      "end": 2.593,
+      "text": "Where's my person?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 3.054,
+      "end": 4.855,
+      "text": "Oh, why did we classify this as an insect?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 5.656,
+      "end": 7.077,
+      "text": "It has six legs.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 7.097,
+      "end": 9.579,
+      "text": "Yep, all right, beautiful.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 10.52,
+      "end": 11.2,
+      "text": "Other artifacts?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 12.542,
+      "end": 13.142,
+      "text": "Go ahead.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 13.302,
+      "end": 19.708,
+      "text": "I have a bunch of different types of leaves, but we had categorical, so we decided to categorize different types of leaves.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 20.368,
+      "end": 29.616,
+      "text": "So, compound leaf with several leaflets, that is just one leaf, single leaf, pine versus hemlock,",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 30.71,
+      "end": 35.457,
+      "text": "So bundles of needles versus single needles.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 36.238,
+      "end": 39.222,
+      "text": "And that kind of stuff.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 39.603,
+      "end": 39.743,
+      "text": "Nice.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 39.763,
+      "end": 40.063,
+      "text": "Artifacts?",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 40.143,
+      "end": 40.464,
+      "text": "Pictures?",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 40.564,
+      "end": 41.886,
+      "text": "Picture of a leaf.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 41.906,
+      "end": 43.188,
+      "text": "Just identifying a tree.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 43.208,
+      "end": 43.909,
+      "text": "Using my naturalist.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 44.109,
+      "end": 44.75,
+      "text": "Nice.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 44.77,
+      "end": 46.933,
+      "text": "I think it's a basswood tree.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 47.414,
+      "end": 47.674,
+      "text": "Nice.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 48.014,
+      "end": 49.336,
+      "text": "So was it just right out here?",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 49.356,
+      "end": 50.177,
+      "text": "Just right out there, yeah.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 50.198,
+      "end": 50.558,
+      "text": "Yeah, nice.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 51.466,
+      "end": 56.632,
+      "text": "We had an excellent picture of Virginia creeper versus poison ivy Side-by-side.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 56.793,
+      "end": 58.174,
+      "text": "What was your species richness?",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 58.294,
+      "end": 80.562,
+      "text": "Okay, so we were doing just a Survey in a 10 by 10 triangle seeing how high we could bump the species richness in a 10-minute Observation period see what you get to we got four mature species mature tree species we got probably eight to nine species of saplings and",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 81.301,
+      "end": 85.707,
+      "text": "We saw moss, but don't know species of moss.",
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "id": null,
+      "start": 85.768,
+      "end": 88.892,
+      "text": "It was green, and it was moss.",
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "id": null,
+      "start": 89.393,
+      "end": 92.197,
+      "text": "And then we found... Double digit ground cover.",
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "id": null,
+      "start": 92.217,
+      "end": 93.199,
+      "text": "Yeah, double digit.",
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "id": null,
+      "start": 93.219,
+      "end": 101.15,
+      "text": "We were at nine, we didn't know what type, but nine different species, and then add poison ivy and creeper to that, or add 11 ground cover species.",
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "id": null,
+      "start": 101.511,
+      "end": 102.492,
+      "text": "Nice, cool.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 102.512,
+      "end": 107.66,
+      "text": "So you started categorizing those as well, so different kinds and all that?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 108.141,
+      "end": 108.721,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 109.162,
+      "end": 109.823,
+      "text": "Nice, cool.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 110.242,
+      "end": 112.745,
+      "text": "What's your artifact?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 112.825,
+      "end": 120.515,
+      "text": "So we have fungi, and a lot of the time whenever I was going around and she was just like trying to identify them all with pictures, I was like, that's awesome.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 120.976,
+      "end": 122.218,
+      "text": "I was just like, I see a bunch of them.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 122.898,
+      "end": 130.849,
+      "text": "But one of the things that I've experienced is people, and I even have a hard time whenever it's a difference between like a lichen versus fungi.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 132.05,
+      "end": 135.835,
+      "text": "So this was just like one of the ones that I picked up that was kind of cool looking.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 136.556,
+      "end": 137.237,
+      "text": "Lichen or fungi?",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 137.818,
+      "end": 138.679,
+      "text": "Fungi.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 139.655,
+      "end": 140.797,
+      "text": "What were you taking pictures?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 140.897,
+      "end": 141.779,
+      "text": "What were you doing?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 141.92,
+      "end": 146.268,
+      "text": "I'm using Google lands, and I was also just getting our data.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 146.288,
+      "end": 146.529,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 146.569,
+      "end": 148.252,
+      "text": "Just like different photos.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 148.633,
+      "end": 148.893,
+      "text": "Yes.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 149.214,
+      "end": 149.575,
+      "text": "Beautiful.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 149.655,
+      "end": 152.721,
+      "text": "So then you could go back and have that information available to you.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 152.941,
+      "end": 153.302,
+      "text": "Beautiful.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 154.064,
+      "end": 154.344,
+      "text": "All right.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 154.424,
+      "end": 156.769,
+      "text": "Any other artifacts or pictures anyone want to share?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 160.057,
+      "end": 163.741,
+      "text": "All right.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 164.081,
+      "end": 164.501,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 164.521,
+      "end": 164.842,
+      "text": "All right.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 164.902,
+      "end": 167.104,
+      "text": "So how did it go?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 167.945,
+      "end": 168.225,
+      "text": "Everything.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 168.545,
+      "end": 169.927,
+      "text": "Were you able to find data in 10 minutes?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 170.567,
+      "end": 171.588,
+      "text": "Yeah, absolutely.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 171.608,
+      "end": 171.869,
+      "text": "Right.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 171.889,
+      "end": 173.13,
+      "text": "So we have time for that, right?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 173.25,
+      "end": 176.653,
+      "text": "Can you take 10 minutes out of your time to gather data?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 177.795,
+      "end": 178.135,
+      "text": "All right.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 178.155,
+      "end": 179.336,
+      "text": "One comment.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 179.356,
+      "end": 180.257,
+      "text": "Could you say what you said?",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 181.038,
+      "end": 186.283,
+      "text": "I was saying it was nice to go out for 10 minutes and see how much",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 188.744,
+      "end": 192.43,
+      "text": "when I think of like 10 minutes, I'm like, oh, it's not really enough time to do anything.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 192.53,
+      "end": 197.659,
+      "text": "But we got a lot, we saw a lot of insects out there in our 10 minutes.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 197.679,
+      "end": 199.502,
+      "text": "So that was cool.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 199.943,
+      "end": 203.388,
+      "text": "So we already kind of talked about what kind of data were you able to collect, right?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 203.408,
+      "end": 203.829,
+      "text": "Everyone shared.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 203.849,
+      "end": 205.071,
+      "text": "Does anyone else want to share their data?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 205.352,
+      "end": 206.634,
+      "text": "I didn't hear from this side very much.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 207.055,
+      "end": 210.921,
+      "text": "We were qualitative, so we just",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 212.048,
+      "end": 213.13,
+      "text": "What was around us?",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 213.29,
+      "end": 213.831,
+      "text": "Yeah, what'd you see?",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 215.193,
+      "end": 217.417,
+      "text": "There's a very dense canopy color.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 217.737,
+      "end": 227.613,
+      "text": "However, we had a lot of proximity to water, which helped with the large biodiversity in the area.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 228.414,
+      "end": 228.555,
+      "text": "Nice.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 228.575,
+      "end": 230.578,
+      "text": "There's a lot of carbon cycle going on.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 230.598,
+      "end": 230.778,
+      "text": "Nice.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 230.838,
+      "end": 231.92,
+      "text": "I like the carbon cycle.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 231.94,
+      "end": 233.983,
+      "text": "You also mentioned water, so we're making those connections.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 234.044,
+      "end": 234.705,
+      "text": "I like it.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 234.725,
+      "end": 234.985,
+      "text": "Cool.",
+      "speaker": null
+    },
+    {
+      "id": null,
+      "start": 235.522,
+      "end": 236.724,
+      "text": "Any challenges?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 237.585,
+      "end": 238.346,
+      "text": "We didn't have a question.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 238.867,
+      "end": 239.708,
+      "text": "You wanted a question.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 239.988,
+      "end": 241.53,
+      "text": "It would have been helpful to have a question.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 241.57,
+      "end": 241.891,
+      "text": "I gotcha.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 242.031,
+      "end": 242.832,
+      "text": "Like what?",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 242.852,
+      "end": 245.015,
+      "text": "Any question to answer.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 245.315,
+      "end": 246.137,
+      "text": "Okay, gotcha.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 246.157,
+      "end": 246.517,
+      "text": "Anyone.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 247.058,
+      "end": 251.444,
+      "text": "Instead of just a word response, like, oh, I know what I'm looking for instead of just like coming out.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 251.524,
+      "end": 253.126,
+      "text": "Yeah, and yours was kind of vague too.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 253.166,
+      "end": 258.053,
+      "text": "Yeah, well it's in relation to",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 258.573,
+      "end": 259.314,
+      "text": "What right?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 259.334,
+      "end": 267.904,
+      "text": "Yeah, and so some of the things were more specific that you guys kind of get a more general one So yeah, yeah, I feel that for sure But yeah, like a prompt or something to go with it.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 267.924,
+      "end": 268.485,
+      "text": "That's a good idea.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 268.605,
+      "end": 269.546,
+      "text": "I like that cool.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 270.147,
+      "end": 271.388,
+      "text": "All right, anyone else?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 271.849,
+      "end": 273.791,
+      "text": "Well, just setting parameters, right?",
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "id": null,
+      "start": 273.831,
+      "end": 277.395,
+      "text": "Scientific data should have some sort of repeatable parameters.",
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "id": null,
+      "start": 277.455,
+      "end": 278.797,
+      "text": "Okay, how big of a space?",
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "id": null,
+      "start": 278.837,
+      "end": 281.56,
+      "text": "Yeah, or what like we had species",
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "id": null,
+      "start": 285.995,
+      "end": 304.662,
+      "text": "totally those sort of things like those are the parameters the decisions that would have to be made beforehand right yeah absolutely to me this wasn't a challenge this was the beauty of working with someone else we isolated an area and then he immediately was it started counting off steps and was able to find a",
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "id": null,
+      "start": 304.878,
+      "end": 307.262,
+      "text": "like the actual area, the space.",
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "id": null,
+      "start": 308.143,
+      "end": 310.066,
+      "text": "And I wouldn't have thought to do that.",
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "id": null,
+      "start": 310.426,
+      "end": 312.149,
+      "text": "Yeah, so having different brains, I love that.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 312.169,
+      "end": 312.389,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 312.65,
+      "end": 319.961,
+      "text": "So just having someone else to throw that off of, I think actually eliminates challenges, if that makes sense.",
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "id": null,
+      "start": 319.981,
+      "end": 320.261,
+      "text": "Absolutely.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 320.321,
+      "end": 320.521,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 320.742,
+      "end": 320.982,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 321.082,
+      "end": 322.825,
+      "text": "So you'll have another brain, someone to talk to.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 322.885,
+      "end": 323.206,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 323.226,
+      "end": 324.728,
+      "text": "So that's what we kind of talked about too.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 324.768,
+      "end": 325.329,
+      "text": "Go ahead.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 325.489,
+      "end": 325.729,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 325.789,
+      "end": 329.315,
+      "text": "And I also liked the openness that it just said in text.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 329.475,
+      "end": 332.86,
+      "text": "And so it was more about like going out and",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 332.84,
+      "end": 339.998,
+      "text": "It made me explore a lot wider area of things and then I could come up with some questions.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 342.155,
+      "end": 346.34,
+      "text": "that I wouldn't have found if I had a more specific prompt.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 346.52,
+      "end": 346.94,
+      "text": "Agreed.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 347.141,
+      "end": 350.344,
+      "text": "And I think that's where we come back to like different ages and stuff too, right?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 350.364,
+      "end": 354.069,
+      "text": "So you're gonna talk about a little bit of the scaffolding and stuff like that in just a second.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 355.07,
+      "end": 360.696,
+      "text": "So like with high schoolers, like you can probably just give them a prompt and let their brains do their brain things, right?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 360.936,
+      "end": 366.223,
+      "text": "But then with middle school and other younger babies, they might need more scaffolding and that's okay.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 366.503,
+      "end": 367.784,
+      "text": "That's what we all know our babies, right?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 368.565,
+      "end": 368.966,
+      "text": "Part of it.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 369.907,
+      "end": 371.048,
+      "text": "All right, I think I might be done.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 371.753,
+      "end": 381.627,
+      "text": "So this is an example of how we would use an activity like this in the middle school classroom.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 382.288,
+      "end": 384.391,
+      "text": "Jen and I have both done this activity this year.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 384.451,
+      "end": 390.039,
+      "text": "It's focusing on the question of how do you know if you have a healthy ecosystem or not.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 390.199,
+      "end": 392.843,
+      "text": "And so we would do something really similar to what y'all just did.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 392.903,
+      "end": 394.605,
+      "text": "We would take the iNaturalist app.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 394.585,
+      "end": 409.53,
+      "text": "on our phones, or we have class sets of iPads to have the students share those, go outside, and just capture as many examples of biotic living things in the school yard as they could in a short amount of time within 15 minutes.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 411.293,
+      "end": 418.686,
+      "text": "There is a certain level of time that goes into cleaning the data so that it looks nice like this, and then it",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 419.037,
+      "end": 423.183,
+      "text": "would be a really simple activity with the middle school level.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 423.383,
+      "end": 425.667,
+      "text": "Like I said, I teach 11 and 12-year-olds.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 426.247,
+      "end": 429.352,
+      "text": "So when we're talking about graphing, it's very simple.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 429.492,
+      "end": 432.797,
+      "text": "It's very two column bar graph.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 433.217,
+      "end": 441.349,
+      "text": "We would give the students this list of species and give each student one or two different",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 441.903,
+      "end": 450.333,
+      "text": "data points so that they could then go and look and say is this native or is this invasive and then you could either do it on the computer.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 450.373,
+      "end": 458.023,
+      "text": "We use Google Sheets and I've been really impressed with how even my 11 and 12 year olds can learn to use Google Sheets in the classroom.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 458.763,
+      "end": 464.13,
+      "text": "We use Kodak to make this graph on the bottom left and just compare if we have",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 464.11,
+      "end": 474.795,
+      "text": "a really big invasive bar and a really tiny native bar, how could that help us answer the question of is this a healthy ecosystem or not?",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 475.788,
+      "end": 478.513,
+      "text": "I like, Audrey, that you have to just make the sticky notes.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 478.613,
+      "end": 479.875,
+      "text": "Yeah, so this is Jen's.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 480.276,
+      "end": 481.778,
+      "text": "Jen, you want to talk about your sticky notes?",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 482.359,
+      "end": 482.62,
+      "text": "Yes.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 482.72,
+      "end": 492.778,
+      "text": "So I had, very similar to what Audrey said, I had each kid pick, well, I had one class do native and one class do invasive.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 492.858,
+      "end": 497.526,
+      "text": "And then I had to research the species that I gave them.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 497.995,
+      "end": 500.32,
+      "text": "and had to get some certain information about it.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 500.36,
+      "end": 504.048,
+      "text": "So each of the cards is the kind of like the little mini research that they had done.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 504.068,
+      "end": 506.092,
+      "text": "I have them at the end of the day.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 506.192,
+      "end": 507.515,
+      "text": "It's like an enrichment class.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 507.595,
+      "end": 511.543,
+      "text": "So like what Audrey can do and what I can do are a little bit different.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 511.583,
+      "end": 512.726,
+      "text": "She has them earlier in the day.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 513.688,
+      "end": 518.097,
+      "text": "But this was very interactive and it was a really good visual.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 518.077,
+      "end": 520.92,
+      "text": "Because I think immediately they think everything is invasive.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 521.18,
+      "end": 525.485,
+      "text": "Once they've learned those concepts, they think everything outside is not good.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 526.205,
+      "end": 527.927,
+      "text": "They think it's trashy and horrible.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 527.947,
+      "end": 531.911,
+      "text": "But based on the data, it's not really like that.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 531.931,
+      "end": 533.974,
+      "text": "And once they look at the data, they're like, oh, wait a minute.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 533.994,
+      "end": 537.617,
+      "text": "We actually do have quite a lot of native species on campus.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 537.918,
+      "end": 540.36,
+      "text": "I'm surprised by how little invasives you have.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 541.001,
+      "end": 542.082,
+      "text": "Well, here's the thing, though.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 542.282,
+      "end": 543.403,
+      "text": "We might not have a lot.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 543.443,
+      "end": 547.147,
+      "text": "There's more diversity.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 547.267,
+      "end": 547.948,
+      "text": "Yes.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 547.928,
+      "end": 552.033,
+      "text": "But then we have a bunch of privet and a bunch of grass.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 552.393,
+      "end": 555.096,
+      "text": "English ivy.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 555.597,
+      "end": 557.979,
+      "text": "And we're going to go more into this.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 557.999,
+      "end": 562.845,
+      "text": "But looking at data bias, it depends on what the kids are interested in.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 562.865,
+      "end": 564.827,
+      "text": "Because this is from iNaturalist data.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 565.368,
+      "end": 567.57,
+      "text": "So what are they interested in snapping photos of?",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 567.63,
+      "end": 570.133,
+      "text": "It's usually the thing that stands out the most.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 570.574,
+      "end": 573.217,
+      "text": "But grass, they don't tend to take pictures of, right?",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 573.337,
+      "end": 577.041,
+      "text": "We talked about that a lot, actually.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 577.021,
+      "end": 587.319,
+      "text": "When they get to middle school, there's a really steep learning curve of them thinking that animals are alive, but not knowing that grass is alive.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 587.579,
+      "end": 594.632,
+      "text": "Not knowing that grass is something that you could collect data on or make an observation on because they think that it's just like the dirt.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 595.052,
+      "end": 597.597,
+      "text": "Yeah, it's like a rock or the clouds.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 597.997,
+      "end": 600.382,
+      "text": "Yes, super basic.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 600.402,
+      "end": 601.103,
+      "text": "Yes.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 601.123,
+      "end": 601.223,
+      "text": "Cool.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 601.203,
+      "end": 615.448,
+      "text": "So, some of you guys, if you've worked with Tremont before, you may have done something like this, but if you're starting from scratch, especially on a middle school level,",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 615.85,
+      "end": 620.797,
+      "text": "It's always good to invite them into play space learning with that space.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 621.257,
+      "end": 625.964,
+      "text": "And so I always do this activity with my students when we go outside for the first time.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 626.024,
+      "end": 630.911,
+      "text": "It's called the Level Up Challenge, and it's basically a list, and I'm gonna show a closeup of it in a second.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 631.371,
+      "end": 634.996,
+      "text": "But it's a list of different observational activities you can do with your kids.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 635.377,
+      "end": 641.385,
+      "text": "Some of them are super low stakes, some of them are a little more scientifically based.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 641.365,
+      "end": 644.509,
+      "text": "But you can make them seasonal.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 644.609,
+      "end": 647.493,
+      "text": "You can make them extremely localized and place-based.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 647.513,
+      "end": 649.416,
+      "text": "You can totally tie them to your standards.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 650.397,
+      "end": 652.2,
+      "text": "You can use iNaturalist as well.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 653.221,
+      "end": 656.385,
+      "text": "And then on a middle school level, we assign points to them.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 656.565,
+      "end": 659.309,
+      "text": "And I say, OK, you've got 45 minutes.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 659.409,
+      "end": 660.571,
+      "text": "Try to get 20 points.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 661.252,
+      "end": 662.734,
+      "text": "If you do, you get a prize.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 662.814,
+      "end": 664.797,
+      "text": "And the prize might be a high five.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 664.957,
+      "end": 671.085,
+      "text": "The prize is sometimes when I'm feeling really generous, like a little popsicle, something like that.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 671.453,
+      "end": 672.254,
+      "text": "Or nothing at all.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 672.434,
+      "end": 678.582,
+      "text": "And what I like about this is that with the diversity of students that I have, you've got artistic ones.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 678.642,
+      "end": 680.604,
+      "text": "You've got kids very scientifically minded.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 680.644,
+      "end": 684.389,
+      "text": "There's really something for everybody in this when you give them that choice.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 685.571,
+      "end": 687.032,
+      "text": "If you could go to the next slide.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 687.994,
+      "end": 688.174,
+      "text": "Yes.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 688.234,
+      "end": 689.516,
+      "text": "So this is kind of a close up.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 690.557,
+      "end": 693.621,
+      "text": "This is one that Annie used recently with the class.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 694.502,
+      "end": 698.727,
+      "text": "And I think you could totally do this with your high school class.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 699.095,
+      "end": 710.269,
+      "text": "Just take them anywhere outdoors and then maybe rephrase some of this with it depending on the type of observational challenges you want them to do.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 710.468,
+      "end": 712.651,
+      "text": "I just have a quick question about iNaturalist.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 712.932,
+      "end": 716.857,
+      "text": "If you're doing this in the classroom, do they have their individual accounts, or do you have a classroom account?",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 716.877,
+      "end": 719.401,
+      "text": "Is there a way to do a classroom account?",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 719.701,
+      "end": 721.424,
+      "text": "I was going to say, that's such a good question.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 721.484,
+      "end": 729.355,
+      "text": "The kids have to be 16 or older to have their own accounts, so I think high school, definitely, I would encourage them to do their own.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 729.757,
+      "end": 740.012,
+      "text": "Well, I don't know with the new law if that's even possible, but I do a group account of my own, and then I have them use iPads that I got from a grant.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 740.593,
+      "end": 741.735,
+      "text": "So that's what I do with them.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 741.755,
+      "end": 743.838,
+      "text": "Can you show us how to set that up at some point?",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 743.898,
+      "end": 744.199,
+      "text": "Yes.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 744.619,
+      "end": 748.084,
+      "text": "And I think Amanda's, are you doing a session on iNaturalist?",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 748.705,
+      "end": 749.126,
+      "text": "Oh, you're not.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 749.346,
+      "end": 750.688,
+      "text": "Well, then I will definitely show you that.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 750.849,
+      "end": 751.069,
+      "text": "Thank you.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 751.149,
+      "end": 752.251,
+      "text": "Yes, I'd be happy to do that.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 752.491,
+      "end": 757.198,
+      "text": "But anybody is welcome to reach out to me, and I will help with anything.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 757.297,
+      "end": 768.867,
+      "text": "Yeah, and you're such a pro at it, and there are so many nuanced things looking for data that you can find that, especially at a high school level, would be super beneficial for using place-based data.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 768.987,
+      "end": 771.87,
+      "text": "Awesome, thank you.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 773.411,
+      "end": 778.776,
+      "text": "Dick Krebs often uses sidewalk chalk a lot too, teaching like anatomy and stuff outside.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 778.836,
+      "end": 787.303,
+      "text": "So you could even get them, you know, he does like tasks and stuff like that, and you can give them lists and options of things that are low, low,",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 787.925,
+      "end": 797.052,
+      "text": "low stakes at first and then you can build up to things that are more content based or more challenging after, you know, after they're comfortable with the process and stuff like that.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 797.092,
+      "end": 800.241,
+      "text": "So I always get kids cause I always do a little survey.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 800.262,
+      "end": 801.124,
+      "text": "I'm like,",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 801.307,
+      "end": 802.268,
+      "text": "Do you like science?",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 802.289,
+      "end": 803.23,
+      "text": "And they all say no.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 803.53,
+      "end": 805.453,
+      "text": "And a lot of them say it because they just don't get it.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 805.473,
+      "end": 806.435,
+      "text": "They don't understand it.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 806.575,
+      "end": 809.8,
+      "text": "And so doing something like this engages them.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 810.02,
+      "end": 820.817,
+      "text": "I mean, even touch something weird can be such a like find something outside your comfort zone and touch it is a step towards science because you're making an observation.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 820.983,
+      "end": 822.144,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 822.164,
+      "end": 822.605,
+      "text": "All right.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 823.806,
+      "end": 828.951,
+      "text": "So another thing, this could maybe be a little more middle school, but motivating students to research.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 829.352,
+      "end": 841.164,
+      "text": "So the first one I got from the Beatles curriculum, which I know Tremont uses a lot, but it's a free resource, a lot of inquiry and observational type activities to get kids excited about being outdoors.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 841.765,
+      "end": 845.989,
+      "text": "So one is we find a mystery object outdoors.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 846.91,
+      "end": 849.893,
+      "text": "I usually bring it inside, and then we first",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 849.873,
+      "end": 865.857,
+      "text": "make a lot of observations like qualitative and quantitative observations and then the next step is then we start to ask questions and then based on that observational data we start to maybe hypothesize what it is and things like that.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 865.837,
+      "end": 876.873,
+      "text": "I've done mystery objects where I give them a story like this skull was found outside with all these footprints and then there were these feathers and I create this whole scenario.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 876.893,
+      "end": 884.925,
+      "text": "So at least on a middle school level it really entices them into the learning and then they're kind of hooked and they're willing to go through this process with me.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 885.412,
+      "end": 893.114,
+      "text": "Back in the day, when there was Facebook, I would do more of these little templates where we would do social media profiles and things like that.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 893.214,
+      "end": 899.472,
+      "text": "So going outdoors, using iNaturalist, finding something of interest, and then they would do a little research on it.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 900.211,
+      "end": 907.261,
+      "text": "And this is really good also for if the weather is terrible and you have planned your entire lesson around doing something outdoors.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 907.501,
+      "end": 914.551,
+      "text": "There was a year that Jen and I had planned this beautiful lesson and we were gonna have volunteers come from Discover Life in America.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 914.932,
+      "end": 922.062,
+      "text": "We had so many people come in to take our kids on hikes and do identifications in a quartering the whole time.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 922.643,
+      "end": 926.488,
+      "text": "And so we pivoted and did something more similar to this where we",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 926.468,
+      "end": 934.717,
+      "text": "brought samples in and it was still a really great learning experience and they had the experience of asking questions and making observations about what they had found.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 935.859,
+      "end": 946.37,
+      "text": "So thinking about how we can take that like motivation that we've kind of all grow up with curiosity, right?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 946.39,
+      "end": 954.079,
+      "text": "And like I'm really stuck on when I hear that kids don't like science, I'm really stuck on like",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 954.295,
+      "end": 956.303,
+      "text": "When did they decide to stop linking signs?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 956.384,
+      "end": 960.179,
+      "text": "It wasn't when they were like crawling around like looking for bugs under rocks, right?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 960.661,
+      "end": 962.77,
+      "text": "That's like a motivation piece that like...",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 963.121,
+      "end": 970.75,
+      "text": "As a high school teacher, when I see a student and they're looking at going to college and they're like, I'm not a science person when they come to my classroom.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 971.29,
+      "end": 972.392,
+      "text": "Since when or why?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 972.792,
+      "end": 979.58,
+      "text": "You've been influenced by one teacher, or maybe two, out of the world of science.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 979.66,
+      "end": 981.963,
+      "text": "That's such a small population size.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 982.023,
+      "end": 984.646,
+      "text": "But maybe as we teach, we think about that too.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 985.887,
+      "end": 991.153,
+      "text": "Based on our approach, maybe we're really influenced by the trajectory of that student.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 991.538,
+      "end": 1001.534,
+      "text": "So at the high school level, I like to start off with these small little bio blitzes where students are like motivated to learn just by like interacting with things around them.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1002.075,
+      "end": 1007.743,
+      "text": "And then we make lists of all the things we find and then I have them write down some observations, right?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1007.764,
+      "end": 1012.551,
+      "text": "And then eventually they turn those observations into like questions they have.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1012.801,
+      "end": 1018.087,
+      "text": "So if we see a hole in a tree, maybe we turn that observation into a question.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1018.107,
+      "end": 1020.85,
+      "text": "Well, I wonder how many animals live in that hole in the tree, right?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1021.15,
+      "end": 1026.196,
+      "text": "And right there and then we have the foundation for a lab design, right?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1026.776,
+      "end": 1037.408,
+      "text": "And so this is the type of stuff we do at the high school level after we make those motivational data collection points.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1039.43,
+      "end": 1042.976,
+      "text": "I think you can go to the next slide.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1042.996,
+      "end": 1049.167,
+      "text": "So after we come up with our research question, then we're like, okay, what kind of qualitative data can we collect?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1049.187,
+      "end": 1052.694,
+      "text": "What kind of quantitative data collection, what will that look like, right?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1053.255,
+      "end": 1059.666,
+      "text": "Based on our observations we had outside, what could we hope to collect data on based on that observation?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1060.152,
+      "end": 1065.118,
+      "text": "And so they make a list of things that they could qualitative and quantitatively collect.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1065.138,
+      "end": 1070.404,
+      "text": "Then we go back outside, and we see if that's viable in small little preliminary data plots.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1071.866,
+      "end": 1075.17,
+      "text": "Then we come back inside and collect the data.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1075.19,
+      "end": 1076.372,
+      "text": "You can go to the next slide.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1077.954,
+      "end": 1081.037,
+      "text": "And we wind up with this huge data sheet.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1082.139,
+      "end": 1085.943,
+      "text": "And we spend time cleaning it up, and then it winds up looking something like this.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1087.405,
+      "end": 1089.147,
+      "text": "And then I have the students.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1089.768,
+      "end": 1095.921,
+      "text": "use that research question to inform the direction of how they process that data.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1096.422,
+      "end": 1101.533,
+      "text": "So they aggregate it in however way they want to describe that data.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1102.171,
+      "end": 1104.956,
+      "text": "And so this process does take more than one day, right?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1104.976,
+      "end": 1106.879,
+      "text": "It takes like maybe three days at homework.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1107.48,
+      "end": 1108.341,
+      "text": "And if you go to the next slide.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1108.361,
+      "end": 1111.687,
+      "text": "So this is kind of like the final product here and here, right?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1111.707,
+      "end": 1115.473,
+      "text": "We wind up analyzing some of the raw data points.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1115.513,
+      "end": 1120.061,
+      "text": "We describe them with this like mean, this bar chart here.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1120.502,
+      "end": 1123.887,
+      "text": "We run a t-test and we see is there really a difference between the means?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1125.27,
+      "end": 1127.233,
+      "text": "And how I get them there is on the next slide.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1127.956,
+      "end": 1135.068,
+      "text": "So after they do their second observation, I have all the students run these little tiny slide decks, and they talk about their research question.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1135.388,
+      "end": 1136.59,
+      "text": "They go over all the basics.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1136.61,
+      "end": 1137.632,
+      "text": "What's your independent variable?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1137.652,
+      "end": 1139.054,
+      "text": "What's your dependent variable?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1139.656,
+      "end": 1148.13,
+      "text": "And then they think about all the control variables they gotta think of, and I have them draw out their procedure so they know what that sample size might look like.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1148.39,
+      "end": 1150.774,
+      "text": "So they'll know what kind of materials they'll need.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1151.26,
+      "end": 1155.889,
+      "text": "And then have them make a preliminary data table for collection.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1156.611,
+      "end": 1159.417,
+      "text": "And they also start to envision what their graph should look like.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1159.437,
+      "end": 1161.962,
+      "text": "So they know exactly what direction they're going in.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1165.108,
+      "end": 1168.375,
+      "text": "And following this, I can't remember what slide's next.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1168.979,
+      "end": 1174.504,
+      "text": "But we wind up with the option to use many different tools while playing with the data.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1174.944,
+      "end": 1182.131,
+      "text": "I'm obviously just using Google Sheets for data collection, data cleaning, but there are also other options for how to present that data.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1182.651,
+      "end": 1185.214,
+      "text": "So this is using Google Sheets.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1185.374,
+      "end": 1190.779,
+      "text": "This is another program that Josh mentioned earlier called Data Classroom, which I really love.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1191.52,
+      "end": 1197.585,
+      "text": "And then there's another one that Cody will be introducing called Code App.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1198.072,
+      "end": 1202.758,
+      "text": "And I guess I wound up using data classroom.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1202.798,
+      "end": 1210.809,
+      "text": "I lean towards it because it allows students to understand descriptive and inferential statistics without having to do all the math themselves.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1210.889,
+      "end": 1216.116,
+      "text": "It's like a point, click, and the presentation's really descriptive, right?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1217.959,
+      "end": 1225.429,
+      "text": "But I guess in addition to that, this one costs money, and this one doesn't.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1226.202,
+      "end": 1231.333,
+      "text": "And this one also might require a little more skills and grappling from students, which also could be good.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1232.956,
+      "end": 1240.752,
+      "text": "And then, as you'll be introduced to CodeApp, it's kind of a mixture of both as my position, and it's free.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1241.66,
+      "end": 1242.161,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1243.562,
+      "end": 1252.191,
+      "text": "I think as a science teacher, when I started at the 11th, 12th grade level, I was not prepared for the mathematics I'd be teaching.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1252.391,
+      "end": 1257.897,
+      "text": "And I spent a lot of time in seeking out Josh and other people in the community to help guide me along the way.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1257.917,
+      "end": 1260.9,
+      "text": "And I guess that's how I found myself here today.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1262.441,
+      "end": 1265.624,
+      "text": "So yeah, that's what we wind up doing at the high school level.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1266.225,
+      "end": 1271.11,
+      "text": "And I think the next slide, we talk a little bit about how we aggregate some ecological data.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1272.929,
+      "end": 1285.679,
+      "text": "So this is, so once again we have certain classes that lend themselves to gathering data, easier or more challenging.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1285.699,
+      "end": 1289.267,
+      "text": "So we have state standards, we gotta focus on our state standards.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1289.247,
+      "end": 1298.039,
+      "text": "And I have IV standards, I have to do my IV standards, right, like I'm tested, world tested, state tested, county tested, it doesn't matter, we all have standards.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1298.86,
+      "end": 1303.587,
+      "text": "So I'm lucky that it warns itself, these particular standards, to getting me outside.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1303.908,
+      "end": 1306.411,
+      "text": "But you can find ways to get you outside.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1306.431,
+      "end": 1310.997,
+      "text": "We already mentioned carbon cycle and water cycle, right, and looking at the balance of things and stuff like that.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1311.398,
+      "end": 1314.242,
+      "text": "So tomorrow we're gonna do,",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1314.222,
+      "end": 1320.031,
+      "text": "This is tomorrow, yeah, where we're actually gonna go out and be gathering biodiversity data.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1320.692,
+      "end": 1325.82,
+      "text": "And I've done this as far, and I'll set this for tomorrow, but this is our native garden.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1325.98,
+      "end": 1329.906,
+      "text": "That's great that we have a native garden, but you can do this activity without a native garden.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1329.946,
+      "end": 1337.758,
+      "text": "You can do it, the first time I did this, it was January, and we were freezing, and we were all outside gathering data about the grass, right?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1337.778,
+      "end": 1340.702,
+      "text": "Because we were seeing that there's different species in the grass.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1340.682,
+      "end": 1342.825,
+      "text": "by making those observations.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1343.125,
+      "end": 1345.688,
+      "text": "And they never knew that before.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1345.729,
+      "end": 1353.799,
+      "text": "So this lends itself to my curriculum, but I can also make those connections with any cycles or anything like that too.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1353.919,
+      "end": 1364.573,
+      "text": "So yeah, so that's what carrying out those investigations and this science and engineering practice, sometimes we have to scaffold that for our kids.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1364.673,
+      "end": 1369.98,
+      "text": "But I know that on the biology test now, there are far more,",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1370.703,
+      "end": 1376.491,
+      "text": "processing questions versus regurgitating questions, right?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1376.611,
+      "end": 1379.696,
+      "text": "And so we're trying to get back in this processing mindset.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1380.377,
+      "end": 1386.526,
+      "text": "COVID really knocked us all back a little bit, and now we're progressing back to we are scientists, how do we do science?",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1386.586,
+      "end": 1389.35,
+      "text": "So that's an activity that hopefully you'll look forward to tomorrow.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1390.291,
+      "end": 1392.795,
+      "text": "Let's talk a little more middle school.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1394.697,
+      "end": 1394.978,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1394.998,
+      "end": 1395.799,
+      "text": "All right.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1396.842,
+      "end": 1410.787,
+      "text": "After going through some data explorations, things like that, what I do on the middle school level, and these are a couple standards that I tie these with, is I try to find some meaning and some sort of action students can do with their data analysis.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1411.348,
+      "end": 1419.643,
+      "text": "So like looking at the native and invasive species, we see that we do have native, but we do have a lot of native.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1419.623,
+      "end": 1435.514,
+      "text": "So some of the things that we have done is I will look to see who's in the community who might help me out and have a discussion with the students about what might be helpful with this data and we decided to identify the invasives.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1436.035,
+      "end": 1439.742,
+      "text": "We contacted Keaton High School Beautiful and so these are pictures of us.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1440.076,
+      "end": 1443.16,
+      "text": "where we pulled a bunch of invasives, bagged them up.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1443.941,
+      "end": 1445.223,
+      "text": "We've done campus cleanups.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1445.263,
+      "end": 1447.085,
+      "text": "That's a super easy one to do.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1447.265,
+      "end": 1452.072,
+      "text": "I'll just take them out for about 30 minutes and we'll pick up trash that we see.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1452.132,
+      "end": 1463.727,
+      "text": "And I will say for middle school, this only works when there's buy-in where they're like, oh yeah, this is a problem and I'm willing to help, because oftentimes my middle schoolers don't want to pick up trash that somebody else has left.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1464.207,
+      "end": 1470.015,
+      "text": "But if we've talked about it in class and I've gotten them excited, they're like, oh yeah, I want to go outside, I'll do that.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1470.603,
+      "end": 1473.568,
+      "text": "And then what we've done recently, we got some grant money.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1473.588,
+      "end": 1478.497,
+      "text": "I had students use iNaturalist, identify some pollinator plants we could put in.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1479.118,
+      "end": 1483.605,
+      "text": "And we have now like a monarch way station with some really beautiful wildflowers.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1483.766,
+      "end": 1485.468,
+      "text": "But the kids did with Ms.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1485.509,
+      "end": 1487.532,
+      "text": "Parker's class and with my class.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1487.933,
+      "end": 1490.378,
+      "text": "I like you talking about the buy-in too.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1491.08,
+      "end": 1497.854,
+      "text": "I think the buy-in is important with anything, the data collection and the inquiry and the questions and getting them interested in all that.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1499.438,
+      "end": 1506.533,
+      "text": "Campus cleanups, one thing that we definitely teach about is runoff and fertilizer and things like that.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1506.513,
+      "end": 1513.406,
+      "text": "once they know about that, and they know that all drains go to the river, you know, and so yeah, I like that.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1513.426,
+      "end": 1516.712,
+      "text": "Yeah, I mean I've tried it where I'm like, let's just go out and clean, they're like, God no.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1517.253,
+      "end": 1522.703,
+      "text": "Yeah, but if they understand like where it will end up and what it will impact, yeah.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1523.604,
+      "end": 1526.209,
+      "text": "The core piece here I see is like,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1526.476,
+      "end": 1529.821,
+      "text": "We're not just collecting data, but there's a purpose and there's communication part.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1529.841,
+      "end": 1535.769,
+      "text": "Like not only did we learn about maybe what's native and non-native, but then we go and like we make a difference in the community, right?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1535.789,
+      "end": 1538.433,
+      "text": "Like that bigger picture, like embedding that in the system.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1539.114,
+      "end": 1544.261,
+      "text": "The students know like I participated in that and I understand why I did it.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1544.281,
+      "end": 1545.683,
+      "text": "And then maybe we could collect that on this.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1545.781,
+      "end": 1560.253,
+      "text": "I was in Yosemite National Park before this and one of the projects that one of the guys thought up there was to do a cleanup around Curry Village, which is the campsite where everybody stays in Yosemite Valley.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1560.273,
+      "end": 1562.338,
+      "text": "It's a big, giant campsite.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1562.318,
+      "end": 1567.283,
+      "text": "But they were collecting the trash, but keeping track of exactly what trash they found and where.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1568.264,
+      "end": 1577.975,
+      "text": "And they started to ask questions about it and found out that a lot of this trash is there because people who are cleaning the cabins are just sweeping a lot of stuff out of the cabins and sending them near the cabins.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1578.035,
+      "end": 1586.964,
+      "text": "And basically they ended up, so it enabled them to see an underlying system that was causing some of the trash and they were able to actually address that with the Curry Village staff.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1586.984,
+      "end": 1589.727,
+      "text": "So, I mean, cleanups are good just,",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1589.707,
+      "end": 1595.633,
+      "text": "keep things looking clean but there's also things to be learned from that too yeah i like that i learned",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1596.068,
+      "end": 1602.455,
+      "text": "from tracking trash so that almost all of our plastic ends up back in Malaysia.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1602.475,
+      "end": 1607.6,
+      "text": "So all the plastic bags that we recycle at Walmart and stuff, they get shipped overseas.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1608.241,
+      "end": 1610.023,
+      "text": "They put trackers in all these different Walmarts.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1610.063,
+      "end": 1612.886,
+      "text": "And then all the bags, all the trackers ended up in Malaysia.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1613.386,
+      "end": 1614.988,
+      "text": "So we put it on ships.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1615.188,
+      "end": 1618.732,
+      "text": "And then the lady in the interview, I remember her going, sorry, this is way off track.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1619.973,
+      "end": 1624.438,
+      "text": "I remember her saying, it seems like America, just keep your trash, please.",
+      "speaker": "SPEAKER_12"
+    },
+    {
+      "id": null,
+      "start": 1624.418,
+      "end": 1641.516,
+      "text": "So to support us in doing PlaySpace data collection, I'm going to go over a few free resources.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1641.918,
+      "end": 1643.781,
+      "text": "So this is more regional.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1644.462,
+      "end": 1646.785,
+      "text": "I think it's outside of Knoxville a little bit.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1646.825,
+      "end": 1648.628,
+      "text": "I don't think they go all the way to Memphis, Tennessee.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1649.709,
+      "end": 1651.632,
+      "text": "But this is something through iNaturalist.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1651.692,
+      "end": 1655.477,
+      "text": "They will turn your schoolyard into a big biodiversity plot.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1656.419,
+      "end": 1659.163,
+      "text": "So this QR code goes to my site here.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1660.064,
+      "end": 1663.769,
+      "text": "But when I have my students go outside, they identify species.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1663.909,
+      "end": 1665.191,
+      "text": "It's all calculated here.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1665.251,
+      "end": 1667.875,
+      "text": "These are the number of observations we've done.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1667.855,
+      "end": 1676.268,
+      "text": "And the other cool thing about it is people in the community who are in our forest can also take photos with INAT and that shows up here too.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1676.368,
+      "end": 1678.952,
+      "text": "So it's really like a community project.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1679.353,
+      "end": 1681.696,
+      "text": "There's a lot of cool data collection you can do with this.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1682.678,
+      "end": 1689.188,
+      "text": "So I would strongly encourage you to reach out to Discover Life in America if you are interested in that.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1689.168,
+      "end": 1691.915,
+      "text": "Back in the day, they would give you a free iPad too.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1692.557,
+      "end": 1694.963,
+      "text": "So yeah, Discover Life in America.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1695.444,
+      "end": 1704.949,
+      "text": "Julie Elfin is a new educational coordinator, so I think I have her email on one of the other slides, but she would be the person in contact.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1705.655,
+      "end": 1706.396,
+      "text": "Can I pop in here?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1706.516,
+      "end": 1707.257,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1707.277,
+      "end": 1724.561,
+      "text": "Amanda, I wonder if after this session, as we go to lunch or whatever, if you wouldn't mind showing us how to make a project at our school, and then maybe doing that other component, too, where we can have a classroom iNaturalist account or something like that, to those who are interested.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1725.322,
+      "end": 1726.383,
+      "text": "Yeah, that's fine.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1726.403,
+      "end": 1727.044,
+      "text": "I don't mind, too.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1727.745,
+      "end": 1728.847,
+      "text": "And I love iScience.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 1728.927,
+      "end": 1730.81,
+      "text": "I'm a part of that, too.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 1730.85,
+      "end": 1731.19,
+      "text": "I love it.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 1731.693,
+      "end": 1735.585,
+      "text": "And Jen and I use this as like a leaderboard to compete between our classes.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 1735.846,
+      "end": 1738.132,
+      "text": "Like I have my account set up for, it's just Ms.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 1738.152,
+      "end": 1739.075,
+      "text": "Parker's science class.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 1739.898,
+      "end": 1745.635,
+      "text": "And so when you go and you look at the button right here that says observers.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 1745.952,
+      "end": 1748.877,
+      "text": "It'll show you the number of observations that Ms.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 1748.897,
+      "end": 1750.86,
+      "text": "Parker's class has made versus Ms.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 1750.9,
+      "end": 1753.865,
+      "text": "Sauer's class versus the other sixth grade science teachers.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 1754.466,
+      "end": 1763.3,
+      "text": "And even if you aren't going to give them a popsicle for going out and making observations, that leaderboard is a really big motivator for the kids.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 1763.46,
+      "end": 1766.806,
+      "text": "Competition motivates middle schoolers more than anything I've ever found.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 1766.926,
+      "end": 1768.629,
+      "text": "This is very true.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 1768.649,
+      "end": 1768.809,
+      "text": "Nice.",
+      "speaker": "SPEAKER_11"
+    },
+    {
+      "id": null,
+      "start": 1769.851,
+      "end": 1771.774,
+      "text": "Fat and food.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 1772.53,
+      "end": 1799.061,
+      "text": "So again reaching out to community is a huge support for me, so All the different organizations listed here are great people to contact so I've done terrestrial counts aquatic bird counts with the aquatic count With water quality forum they even came out and brought like waiters for my eighth graders to wear and that was like the funniest thing ever to see them get into",
+      "speaker": "SPEAKER_08"
+    }
+  ]
+}

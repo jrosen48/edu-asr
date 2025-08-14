@@ -1,0 +1,20 @@
+1
+00:00:08,958 --> 00:00:32,747
+[SPEAKER_01] So when you said the link, do we just do the link or do we do the data?
+
+2
+00:00:32,767 --> 00:00:38,374
+[SPEAKER_01] All you need is the URL.
+
+3
+00:00:53,204 --> 00:00:54,574
+[SPEAKER_01] All you need is
+
+4
+00:02:23,198 --> 00:02:35,132
+[SPEAKER_00] tells you their location and longitude and latitude.
+
+5
+00:03:17,975 --> 00:03:18,452
+[SPEAKER_01] Thank you.
+

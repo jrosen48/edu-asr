@@ -1,0 +1,985 @@
+{
+  "file": "/Users/jrosenb8/edu_asr/scratch/2025-07-28-1106-am-go-pro-on-the-go-008.MP4",
+  "segments": [
+    {
+      "id": null,
+      "start": 7.523,
+      "end": 27.629,
+      "text": "Do you mind if we record your own conversation Okay, no, that's totally fine.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 33.137,
+      "end": 36.501,
+      "text": "Thank you",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 36.751,
+      "end": 59.991,
+      "text": "Okay, so I got a single leaf what we call simple leaf so that's one category.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 60.359,
+      "end": 60.8,
+      "text": "I guess.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 61.982,
+      "end": 68.193,
+      "text": "And this one is a compound leaf because it is many leaflets in one leaf.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 68.213,
+      "end": 73.022,
+      "text": "So I'm going to say we got one compound is what I'm going to say.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 73.784,
+      "end": 74.745,
+      "text": "That's category.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 80.055,
+      "end": 82.84,
+      "text": "What else could we find?",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 84.659,
+      "end": 90.089,
+      "text": "We could see if any of the trees are fruiting, so they maybe have seeds.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 90.95,
+      "end": 91.632,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 91.672,
+      "end": 93.054,
+      "text": "That would be another category.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 94.717,
+      "end": 95.418,
+      "text": "We can do that.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 97.482,
+      "end": 98.804,
+      "text": "You go a direction, too.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 98.905,
+      "end": 100.207,
+      "text": "I don't know if I'm doing this right.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 100.708,
+      "end": 102.852,
+      "text": "Well, that's not a red leaf.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 102.872,
+      "end": 103.553,
+      "text": "Is that a red leaf?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 103.934,
+      "end": 104.414,
+      "text": "No.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 105.056,
+      "end": 105.857,
+      "text": "I don't know.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 105.917,
+      "end": 106.218,
+      "text": "Is it?",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 106.638,
+      "end": 107.34,
+      "text": "That's a fungus.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 107.7,
+      "end": 108.642,
+      "text": "Yeah, let's not do that.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 109.432,
+      "end": 117.7,
+      "text": "It would be I mean we could write it down write it down.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 117.9,
+      "end": 123.746,
+      "text": "Yeah fungus leaf or fungus fungi mushroom.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 125.167,
+      "end": 132.754,
+      "text": "Here's another compound leaf, but this one's different because it's got multiple leaflets on different locations.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 133.235,
+      "end": 133.635,
+      "text": "Yes.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 134.356,
+      "end": 136.738,
+      "text": "So I don't know how you want to do that.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 137.107,
+      "end": 143.196,
+      "text": "So the one this one is a compound, but it stems from a single point where this one stems from different points.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 143.416,
+      "end": 143.957,
+      "text": "All right.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 144.077,
+      "end": 145.519,
+      "text": "So I'm just going to draw a picture.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 145.82,
+      "end": 146.1,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 146.641,
+      "end": 149.545,
+      "text": "Single point versus multi point.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 150.186,
+      "end": 150.366,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 161.903,
+      "end": 163.165,
+      "text": "Yeah, looks good to me.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 166.942,
+      "end": 169.209,
+      "text": "OK.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 169.229,
+      "end": 170.452,
+      "text": "Don't touch the poison ivy.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 171.876,
+      "end": 172.398,
+      "text": "So let's see.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 172.418,
+      "end": 173.401,
+      "text": "What else we got?",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 173.421,
+      "end": 173.882,
+      "text": "Let's see.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 181.263,
+      "end": 181.845,
+      "text": "I don't know.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 182.872,
+      "end": 185.958,
+      "text": "These are similar leaves we already saw or aren't.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 185.978,
+      "end": 187.821,
+      "text": "Yeah, they're just shapes different.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 188.102,
+      "end": 195.856,
+      "text": "These are simple leaves because there's the bud right there, but they're just bigger and shape more heart shape.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 196.036,
+      "end": 198.4,
+      "text": "You could do shapes of leaves.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 198.421,
+      "end": 199.783,
+      "text": "Another category, I guess.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 200.81,
+      "end": 201.631,
+      "text": "What heart shapes?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 201.872,
+      "end": 203.354,
+      "text": "Shapes of leaves, I guess.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 203.835,
+      "end": 204.095,
+      "text": "I don't know.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 204.115,
+      "end": 205.497,
+      "text": "Shapes.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 205.517,
+      "end": 209.103,
+      "text": "Because that one's more heart shaped than this simple leaf was.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 209.183,
+      "end": 210.265,
+      "text": "So the shapes of leaves.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 210.565,
+      "end": 211.066,
+      "text": "OK.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 211.086,
+      "end": 212.929,
+      "text": "Compound versus simple versus shape.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 224.307,
+      "end": 226.851,
+      "text": "This one's like a star shape.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 231.37,
+      "end": 233.253,
+      "text": "I guess I could draw one like that.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 233.553,
+      "end": 234.374,
+      "text": "So you're artist?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 234.835,
+      "end": 235.035,
+      "text": "No.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 235.796,
+      "end": 236.638,
+      "text": "By no means.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 237.018,
+      "end": 239.321,
+      "text": "I'm just drawing.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 239.341,
+      "end": 242.586,
+      "text": "Squiggles is what I'm drawing.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 242.606,
+      "end": 243.527,
+      "text": "Well, I'll let you have that.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 247.153,
+      "end": 247.353,
+      "text": "Let's see.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 247.373,
+      "end": 247.954,
+      "text": "What else?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 251.579,
+      "end": 253.181,
+      "text": "What other leaves are there?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 253.582,
+      "end": 254.523,
+      "text": "There's needle leaves.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 255.024,
+      "end": 257.167,
+      "text": "You could do needles like the.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 257.207,
+      "end": 257.708,
+      "text": "These right here?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 257.728,
+      "end": 259.31,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 259.33,
+      "end": 260.652,
+      "text": "That's a different category.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 262.336,
+      "end": 263.978,
+      "text": "I'm gonna pull a little piece off there.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 270.764,
+      "end": 271.465,
+      "text": "Needle leaves.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 277.091,
+      "end": 278.492,
+      "text": "Broadleaf, needle leaf.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 283.057,
+      "end": 289.863,
+      "text": "These are single, these are kinda like the single leaves where they're only like they're connected at one point.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 290.044,
+      "end": 290.484,
+      "text": "One point?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 290.524,
+      "end": 291.465,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 291.766,
+      "end": 293.109,
+      "text": "So go in that category.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 300.768,
+      "end": 305.64,
+      "text": "Pines have different needles.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 319.272,
+      "end": 325.06,
+      "text": "Show me a few spots a little different.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 325.08,
+      "end": 328.785,
+      "text": "I see if I see any other leaves that haven't really been our radar.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 328.805,
+      "end": 341.462,
+      "text": "I mean, yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 341.482,
+      "end": 346.208,
+      "text": "All these leaves are very similar in a sense.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 347.032,
+      "end": 348.756,
+      "text": "I haven't seen anything that's like just stuck out.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 349.116,
+      "end": 350.099,
+      "text": "Right, that's different.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 361.583,
+      "end": 364.028,
+      "text": "Oh, there's a pine of some kind.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 378.875,
+      "end": 380.317,
+      "text": "Let's see if there's anything.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 380.337,
+      "end": 382.499,
+      "text": "Oh, here we go.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 382.859,
+      "end": 385.983,
+      "text": "Oh, look a little.",
+      "speaker": null
+    },
+    {
+      "id": null,
+      "start": 386.003,
+      "end": 386.243,
+      "text": "Look at him.",
+      "speaker": null
+    },
+    {
+      "id": null,
+      "start": 386.263,
+      "end": 390.067,
+      "text": "Let him go, let him go, let him go.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 390.147,
+      "end": 390.607,
+      "text": "Let's see.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 390.668,
+      "end": 394.131,
+      "text": "So this one's a pine, but the needle leaves are different.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 394.151,
+      "end": 395.673,
+      "text": "Let's see if I can find a bundle.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 405.003,
+      "end": 405.203,
+      "text": "Let's see.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 407.157,
+      "end": 410.241,
+      "text": "I don't see a bundle in the ground.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 418.03,
+      "end": 428.322,
+      "text": "This sucker does not drop stuff, does it?",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 436.773,
+      "end": 438.195,
+      "text": "Okay, I can't see.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 438.215,
+      "end": 447.147,
+      "text": "This one actually looks like it has maybe three in a bundle.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 450.952,
+      "end": 456.259,
+      "text": "Like each little unit, like at the base where the needles stem out.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 456.719,
+      "end": 461.245,
+      "text": "This one looks like maybe it has three together that stem out from the same thing.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 462.507,
+      "end": 463.028,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 463.248,
+      "end": 463.789,
+      "text": "Maybe?",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 463.829,
+      "end": 465.891,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 465.911,
+      "end": 468.875,
+      "text": "Because this one, this one's vastly different than those.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 469.596,
+      "end": 470.637,
+      "text": "I just can't find one.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 470.657,
+      "end": 472.339,
+      "text": "So that is more spread out, almost.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 472.72,
+      "end": 474.862,
+      "text": "Right, like they're longer needles.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 474.983,
+      "end": 479.268,
+      "text": "So it's like a different category of a pine tree.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 479.548,
+      "end": 481.11,
+      "text": "Yeah, of a needle leaf.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 482.152,
+      "end": 483.673,
+      "text": "I can't find any, though.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 484.675,
+      "end": 486.557,
+      "text": "Not any that are together.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 489.322,
+      "end": 509.271,
+      "text": "there's one right there there's three oh there's three in one two three here we go all right how much original one we had well that's the single one with all those um yeah oh what was that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 514.735,
+      "end": 517.599,
+      "text": "Glad I didn't say no bad words.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 517.619,
+      "end": 518.74,
+      "text": "I kept it clean.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 525.47,
+      "end": 525.87,
+      "text": "OK.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 525.89,
+      "end": 527.933,
+      "text": "What group were you on?",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 528.955,
+      "end": 529.776,
+      "text": "Categorical.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 530.156,
+      "end": 531.398,
+      "text": "Oh, wow, that's a challenging.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 531.478,
+      "end": 534.843,
+      "text": "That's, I think, the most abstract.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 534.863,
+      "end": 535.704,
+      "text": "Yeah, probably.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 539.769,
+      "end": 540.17,
+      "text": "It's funny.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 540.19,
+      "end": 543.915,
+      "text": "When we talked about the different terms, I remember categorical was one that",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 544.368,
+      "end": 547.055,
+      "text": "It's very vague.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 548.058,
+      "end": 550.885,
+      "text": "It could be taken many different directions.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 551.668,
+      "end": 558.546,
+      "text": "It makes you be creative and kind of like create a category based on the look.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 559.066,
+      "end": 568.842,
+      "text": "As she said, single point, then you have multi-point when it came down to that with the leaves and whatnot.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 569.203,
+      "end": 572.849,
+      "text": "I like how Annie's like, it's very subtle.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 572.869,
+      "end": 575.133,
+      "text": "Like, I will raise my hand when I watch you.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 577.557,
+      "end": 579.56,
+      "text": "You have to create the category.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 579.921,
+      "end": 582.285,
+      "text": "It's kind of the labeling endeavor.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 582.305,
+      "end": 582.405,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 582.425,
+      "end": 582.525,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 584.8,
+      "end": 587.202,
+      "text": "which in some ways the natural world resists.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 587.983,
+      "end": 590.706,
+      "text": "Not everything falls into the same pot.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 590.906,
+      "end": 594.53,
+      "text": "Right, I mean even species, there's often a continuum between related.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 594.73,
+      "end": 596.893,
+      "text": "It's a spectrum, it's not a linear.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 607.784,
+      "end": 608.985,
+      "text": "Right.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 609.438,
+      "end": 618.625,
+      "text": "I think so.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 618.645,
+      "end": 620.089,
+      "text": "I think so.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 632.81,
+      "end": 635.197,
+      "text": "categorical and we decided to do leaves.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 636.04,
+      "end": 641.537,
+      "text": "And so we have single point, multi-point, and stuff of that sort.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 658.612,
+      "end": 666.09,
+      "text": "Oh you deserve",
+      "speaker": "SPEAKER_02"
+    }
+  ]
+}

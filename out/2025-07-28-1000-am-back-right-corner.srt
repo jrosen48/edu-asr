@@ -1,0 +1,348 @@
+1
+00:00:12,350 --> 00:00:21,094
+[SPEAKER_07] So we're going to talk to you all today about some ways that you can use data in your classroom, but also do that in a way that helps your students to make
+
+2
+00:02:11,605 --> 00:02:14,916
+[SPEAKER_06] and designate who your shoulder pressure is to make sure everyone has one.
+
+3
+00:02:57,269 --> 00:03:07,735
+[SPEAKER_03] Yeah, we do.
+
+4
+00:03:28,673 --> 00:03:36,382
+[SPEAKER_04] Then they have to run an experiment, draft the data, and then visualize it, and then use it to generate it.
+
+5
+00:03:36,402 --> 00:03:37,724
+[SPEAKER_03] Because none of them ever get it.
+
+6
+00:03:37,744 --> 00:03:41,348
+[SPEAKER_03] Because they got a point.
+
+7
+00:03:41,388 --> 00:03:43,090
+[SPEAKER_03] It's somewhere between 0.1 and 0.2.
+
+8
+00:03:43,370 --> 00:03:43,570
+[SPEAKER_03] Great.
+
+9
+00:03:43,630 --> 00:03:47,575
+[SPEAKER_03] If it's closer to 0.1 or closer to 0.2, it's somewhere in the middle.
+
+10
+00:03:47,615 --> 00:03:49,978
+[SPEAKER_01] How can we figure out what the acetone point is?
+
+11
+00:03:49,998 --> 00:03:51,019
+[SPEAKER_01] What can we do?
+
+12
+00:04:01,428 --> 00:04:11,139
+[SPEAKER_06] All right, so we'll do just two people share out.
+
+13
+00:04:11,200 --> 00:04:16,606
+[SPEAKER_06] First of all, check out this art over here that I just noticed because they put that board up to like cover it up.
+
+14
+00:04:16,625 --> 00:04:17,005
+[SPEAKER_06] It's really cool.
+
+15
+00:04:17,427 --> 00:04:18,348
+[SPEAKER_06] Does anyone know who did that?
+
+16
+00:04:19,269 --> 00:04:20,750
+[SPEAKER_09] Yes.
+
+17
+00:04:20,771 --> 00:04:21,190
+[SPEAKER_06] Who did it?
+
+18
+00:04:21,812 --> 00:04:24,896
+[SPEAKER_09] Well, you may meet her this week.
+
+19
+00:04:24,976 --> 00:04:31,063
+[SPEAKER_09] She's working on a project over on the dorm steps, on the far steps, if you go up those steps up to the upstairs.
+
+20
+00:04:31,718 --> 00:04:33,681
+[SPEAKER_09] But it's Deborah Cook is her name.
+
+21
+00:04:33,701 --> 00:04:40,369
+[SPEAKER_09] She's a retired high school teacher from Ohio who has been our summer artist-in-residence at Trimout for the last 17 years.
+
+22
+00:04:40,389 --> 00:04:46,116
+[SPEAKER_09] She comes down every summer and does amazing calligraphy and marker art.
+
+23
+00:04:46,577 --> 00:04:53,386
+[SPEAKER_09] You'll see also on the whiteboard down in the dining hall, you'll see more of her work, and you'll see around the campus, you'll see more of her type stuff.
+
+24
+00:04:53,406 --> 00:04:53,766
+[SPEAKER_06] Thanks.
+
+25
+00:04:53,786 --> 00:04:54,167
+[SPEAKER_06] Beautiful.
+
+26
+00:04:54,687 --> 00:04:55,468
+[SPEAKER_06] Awesome.
+
+27
+00:04:55,488 --> 00:04:56,730
+[SPEAKER_06] All right.
+
+28
+00:04:57,311 --> 00:04:59,093
+[SPEAKER_06] Who has collected data with their students?
+
+29
+00:05:03,494 --> 00:05:07,362
+[SPEAKER_06] What do you do with the data if you have collected it?
+
+30
+00:06:46,516 --> 00:06:47,668
+[SPEAKER_00] Thank you.
+
+31
+00:07:23,017 --> 00:07:23,518
+[SPEAKER_06] else?
+
+32
+00:07:23,638 --> 00:07:24,540
+[SPEAKER_06] What do you do with the data?
+
+33
+00:07:24,600 --> 00:07:25,381
+[SPEAKER_06] Does anyone do anything?
+
+34
+00:07:26,784 --> 00:07:38,064
+[SPEAKER_01] So in my apes class when we collect data like we'll do bubbles for survivorship curves and we'll count cars for biodiver like the Shannon Wiener index.
+
+35
+00:07:39,346 --> 00:07:43,894
+[SPEAKER_01] We throw it into Google Sheets, graph it, see what it looks like, analyze it from there.
+
+36
+00:07:51,637 --> 00:07:52,318
+[SPEAKER_06] to work through it.
+
+37
+00:07:53,760 --> 00:08:01,071
+[SPEAKER_06] I do some practice graphing with mindless data to, hey, let's practice using Google Sheets and stuff like that.
+
+38
+00:08:01,211 --> 00:08:01,932
+[SPEAKER_06] Nice.
+
+39
+00:08:01,952 --> 00:08:02,893
+[SPEAKER_06] Cool.
+
+40
+00:08:02,913 --> 00:08:05,016
+[SPEAKER_06] Has anyone else done that bubble survivorship curve thing?
+
+41
+00:08:06,579 --> 00:08:09,162
+[SPEAKER_06] It's really fun to watch your kids try and keep the bubbles alive.
+
+42
+00:08:11,245 --> 00:08:11,506
+[SPEAKER_06] Come on.
+
+43
+00:08:11,526 --> 00:08:13,248
+[SPEAKER_06] All right.
+
+44
+00:08:14,110 --> 00:08:14,430
+[SPEAKER_06] What else?
+
+45
+00:08:14,530 --> 00:08:16,753
+[SPEAKER_06] Anyone else want to share anything?
+
+46
+00:08:16,774 --> 00:08:17,074
+[SPEAKER_06] Yeah, go ahead.
+
+47
+00:08:17,094 --> 00:08:19,197
+[SPEAKER_04] What I like to do is
+
+48
+00:08:19,295 --> 00:08:21,641
+[SPEAKER_04] Isotonic point for potatoes.
+
+49
+00:08:21,861 --> 00:08:34,332
+[SPEAKER_04] Using various salt solutions to figure out the stretch content of a potato and graph it and try and figure out what the isotonic point is based off of just four data points.
+
+50
+00:09:04,148 --> 00:09:08,151
+[SPEAKER_06] There's another question at the bottom here.
+
+51
+00:09:23,943 --> 00:09:36,619
+[SPEAKER_01] But even my upperclassmen are resistant to Google Sheets at first, until they do that first formula row, and they see all that calculation just magically happen, and then they're kind of sold on it.
+
+52
+00:09:36,639 --> 00:09:44,209
+[SPEAKER_01] But when they're fumbling through learning how to do the dollar signs to hold sales and stuff like that and all the magic that it takes, they're really resistant.
+
+53
+00:09:44,229 --> 00:09:46,672
+[SPEAKER_01] They're like, I can hand calculate this quicker.
+
+54
+00:09:46,712 --> 00:09:47,473
+[SPEAKER_01] I'm like, no, you can't.
+
+55
+00:09:47,973 --> 00:09:48,494
+[SPEAKER_01] I promise.
+
+56
+00:09:48,554 --> 00:09:49,295
+[SPEAKER_01] Just stay with me.
+
+57
+00:09:49,555 --> 00:09:51,638
+[SPEAKER_05] In biology, I do.
+
+58
+00:09:54,807 --> 00:09:55,749
+[SPEAKER_01] Well, that's what I'm saying.
+
+59
+00:09:55,769 --> 00:09:59,557
+[SPEAKER_01] It seems like, one, in chemistry, we don't necessarily teach it either.
+
+60
+00:09:59,677 --> 00:10:06,792
+[SPEAKER_01] So it seems like when they get to my class, mine's the first AP upper level class because I teach sophomores through seniors.
+
+61
+00:10:23,039 --> 00:10:27,948
+[SPEAKER_04] Have half the class calculated by hand and have the other class set up a data sheet and say who does it first.
+
+62
+00:10:28,709 --> 00:10:30,673
+[SPEAKER_04] Oh look, I'm done with my tenth one.
+
+63
+00:10:30,693 --> 00:10:31,935
+[SPEAKER_04] You guys haven't even done your first.
+
+64
+00:10:33,157 --> 00:10:33,698
+[SPEAKER_04] Oh look, we're done.
+
+65
+00:10:33,738 --> 00:10:34,720
+[SPEAKER_04] You're still on the eleventh one.
+
+66
+00:10:34,920 --> 00:10:35,561
+[SPEAKER_01] I'd be scared.
+
+67
+00:10:35,582 --> 00:10:36,944
+[SPEAKER_01] I got some really high math kids.
+
+68
+00:10:37,064 --> 00:10:39,208
+[SPEAKER_01] They might be able to smoke the Google Sheets kids.
+
+69
+00:11:00,046 --> 00:11:02,370
+[SPEAKER_06] On the count of three, everyone open up their hat paper.
+
+70
+00:11:04,834 --> 00:11:06,577
+[SPEAKER_06] And on the count of three, say what your paper says.
+
+71
+00:11:06,777 --> 00:11:07,879
+[SPEAKER_06] One, two, three.
+
+72
+00:11:09,542 --> 00:11:09,902
+[SPEAKER_06] Beautiful.
+
+73
+00:11:09,922 --> 00:11:12,006
+[SPEAKER_06] So someone said the same thing as you in this room.
+
+74
+00:11:12,026 --> 00:11:16,233
+[SPEAKER_06] And you have to find that person who said the same thing.
+
+75
+00:11:16,253 --> 00:11:20,440
+[SPEAKER_06] Hey, this is going to be very open ended.
+
+76
+00:11:20,881 --> 00:11:22,523
+[SPEAKER_06] We're going to go outside for 10 minutes.
+
+77
+00:11:22,543 --> 00:11:23,445
+[SPEAKER_06] We're going to start a timer.
+
+78
+00:11:23,725 --> 00:11:25,969
+[SPEAKER_06] What sound are you going to make?
+
+79
+00:11:40,867 --> 00:11:43,792
+[SPEAKER_06] And then you're going to go outside.
+
+80
+00:11:43,812 --> 00:11:45,215
+[SPEAKER_06] You're going to gather that data.
+
+81
+00:11:45,715 --> 00:11:46,597
+[SPEAKER_06] So you might need your journal.
+
+82
+00:11:47,018 --> 00:11:48,961
+[SPEAKER_06] You might need a phone if you're going to take pictures.
+
+83
+00:11:49,001 --> 00:11:52,447
+[SPEAKER_06] Whatever you want to do, draw pictures, bring back an artifact.
+
+84
+00:11:52,728 --> 00:11:55,332
+[SPEAKER_06] Don't go murdering things, right?
+
+85
+00:12:02,753 --> 00:12:10,036
+[SPEAKER_07] And if you opened your paper and you have no idea what that thing is that's on your paper, feel free to wave one of us down.
+
+86
+00:12:10,056 --> 00:12:11,541
+[SPEAKER_07] We'd be happy to help you with it.
+
+87
+00:12:11,561 --> 00:12:16,577
+[SPEAKER_07] I know that my experience teaching 11-year-olds is a lot different, and I didn't know what.
+

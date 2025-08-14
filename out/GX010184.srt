@@ -1,0 +1,716 @@
+1
+00:00:37,679 --> 00:00:44,453
+[SPEAKER_09] So Josh, is the goal to have a place-based curriculum ready for 2033?
+
+2
+00:00:46,638 --> 00:00:48,843
+[SPEAKER_09] That's our next adoption.
+
+3
+00:00:49,644 --> 00:00:53,713
+[SPEAKER_07] 2033, so it's eight years.
+
+4
+00:01:17,622 --> 00:01:19,846
+[SPEAKER_09] But in eight years, I think you could do a curriculum.
+
+5
+00:01:20,226 --> 00:01:22,770
+[SPEAKER_09] Like, I think it would be good to sell one to all of Tennessee.
+
+6
+00:01:23,432 --> 00:01:35,471
+[SPEAKER_09] Well, and if you could integrate them with chemistry and biology, they're all going to be readopted in 2033.
+
+7
+00:01:37,635 --> 00:01:41,301
+[SPEAKER_09] And I think place-based education is good for the kids.
+
+8
+00:01:41,551 --> 00:01:45,215
+[SPEAKER_09] But we're going towards these storyline-based things.
+
+9
+00:01:45,415 --> 00:01:52,423
+[SPEAKER_09] The problems that we have is they don't have a lot of labs in them, the one that we purchased, which is making the kids actually get out and do less.
+
+10
+00:01:59,150 --> 00:02:00,231
+[SPEAKER_09] But they're doing less.
+
+11
+00:02:00,251 --> 00:02:02,254
+[SPEAKER_09] It's all paperwork.
+
+12
+00:02:02,834 --> 00:02:05,297
+[SPEAKER_09] And that's not good for kids.
+
+13
+00:04:36,460 --> 00:04:36,903
+[SPEAKER_09] I got it.
+
+14
+00:04:36,924 --> 00:04:38,536
+[SPEAKER_09] I just had the wrong thing selected.
+
+15
+00:04:39,181 --> 00:04:40,632
+[SPEAKER_09] Like I know I knew how to do this.
+
+16
+00:06:13,762 --> 00:06:16,515
+[SPEAKER_09] Okay.
+
+17
+00:07:14,613 --> 00:07:17,437
+[SPEAKER_09] collaboration in co-design?
+
+18
+00:07:18,838 --> 00:07:30,233
+[SPEAKER_12] Can you just swap them?
+
+19
+00:07:33,077 --> 00:07:37,603
+[SPEAKER_09] No, no, no, we're not staying in the friendship circle.
+
+20
+00:07:38,224 --> 00:07:40,567
+[SPEAKER_10] Yes.
+
+21
+00:07:40,587 --> 00:07:43,911
+[SPEAKER_09] Yeah, we're going into a river.
+
+22
+00:07:44,093 --> 00:07:47,317
+[SPEAKER_09] Which, but I mean.
+
+23
+00:07:47,357 --> 00:07:51,121
+[SPEAKER_04] Leave the poncho behind and just commit to it.
+
+24
+00:07:51,242 --> 00:07:53,704
+[SPEAKER_04] And just go swimming.
+
+25
+00:07:55,607 --> 00:08:07,581
+[SPEAKER_07] Multiple times this week I've gotten that little pew pew.
+
+26
+00:08:07,641 --> 00:08:09,984
+[SPEAKER_00] We're high enough in the mountains, we're not.
+
+27
+00:08:10,004 --> 00:08:10,945
+[SPEAKER_00] We're uphill.
+
+28
+00:09:03,727 --> 00:09:06,852
+[SPEAKER_09] So those lab safety things were driving me nuts.
+
+29
+00:09:06,872 --> 00:09:09,416
+[SPEAKER_09] The day I was doing it, it kept on click.
+
+30
+00:09:09,476 --> 00:09:19,091
+[SPEAKER_09] I'm like, I got to the point where I took a picture of the answer that I put and then pushed submit because I couldn't get one to stay.
+
+31
+00:09:19,131 --> 00:09:25,341
+[SPEAKER_09] And I submitted my answer and them telling me that it was the right answer because I could only get a 90 on that one.
+
+32
+00:09:25,361 --> 00:09:26,663
+[SPEAKER_09] I think it's like number three.
+
+33
+00:09:31,081 --> 00:09:51,098
+[SPEAKER_06] However many times you have to take it to get 100 but made me look like an idiot that I took it four times to try to get this 100 when I was getting it right every time.
+
+34
+00:10:23,933 --> 00:10:39,141
+[SPEAKER_12] I had them make the graph that the data table together and then I put it in
+
+35
+00:11:14,862 --> 00:11:15,363
+[SPEAKER_00] Okay, that's cool.
+
+36
+00:11:15,623 --> 00:11:17,266
+[SPEAKER_12] That's cool, art and data, okay, that's cool.
+
+37
+00:11:18,869 --> 00:11:27,724
+[SPEAKER_12] How many of you, I know some of you used it last year, how many of you used Code App at all with the students before?
+
+38
+00:11:27,744 --> 00:11:30,629
+[SPEAKER_12] This last year, Jen last year, cool.
+
+39
+00:11:31,971 --> 00:11:34,035
+[SPEAKER_12] Any other tools that you've used around,
+
+40
+00:11:45,727 --> 00:11:50,421
+[SPEAKER_06] Yeah, it's easy for them to get lost.
+
+41
+00:12:32,842 --> 00:12:39,105
+[SPEAKER_10] know what we get.
+
+42
+00:13:18,185 --> 00:13:19,269
+[SPEAKER_12] I'm super energetic.
+
+43
+00:14:08,843 --> 00:14:12,889
+[SPEAKER_09] Allison was asking about Excel, but kids don't have it.
+
+44
+00:14:12,909 --> 00:14:13,250
+[SPEAKER_12] Right.
+
+45
+00:14:13,270 --> 00:14:17,356
+[SPEAKER_12] And very similar to Google Sheets.
+
+46
+00:14:17,376 --> 00:14:17,897
+[SPEAKER_12] Pretty much.
+
+47
+00:14:19,118 --> 00:14:20,781
+[SPEAKER_10] Google's getting there.
+
+48
+00:14:20,861 --> 00:14:21,923
+[SPEAKER_10] Google's trying to get there.
+
+49
+00:14:22,063 --> 00:14:24,506
+[SPEAKER_10] It's the shortcuts that's different, really.
+
+50
+00:14:24,526 --> 00:14:25,468
+[SPEAKER_10] Shortcuts.
+
+51
+00:14:25,848 --> 00:14:30,656
+[SPEAKER_10] But you can input your own shortcuts into Google Sheets, though.
+
+52
+00:14:31,557 --> 00:14:34,782
+[SPEAKER_10] So it's pretty useful.
+
+53
+00:14:34,802 --> 00:14:34,902
+[SPEAKER_12] Yeah.
+
+54
+00:15:51,376 --> 00:15:55,058
+[SPEAKER_12] So how about this, if you wanna go.
+
+55
+00:16:21,312 --> 00:16:35,288
+[SPEAKER_09] It's all going in there all that just makes my soul happy
+
+56
+00:16:37,478 --> 00:16:38,199
+[SPEAKER_09] I love that.
+
+57
+00:16:38,339 --> 00:16:38,940
+[SPEAKER_09] Right?
+
+58
+00:16:38,960 --> 00:16:40,783
+[SPEAKER_09] And then so they could all see it.
+
+59
+00:16:40,803 --> 00:16:46,752
+[SPEAKER_09] Like, if your grade band was all studying, like, you want our butterflies, everybody goes out on this day.
+
+60
+00:16:46,792 --> 00:16:49,476
+[SPEAKER_09] That's crazy, Mom.
+
+61
+00:16:49,596 --> 00:16:50,538
+[SPEAKER_09] Yeah.
+
+62
+00:16:50,558 --> 00:16:57,889
+[SPEAKER_09] But if you had a curriculum that we all shared that Tennessee adopted that was play-spaced and data-driven.
+
+63
+00:16:58,890 --> 00:17:02,075
+[SPEAKER_09] They should be able to fit it in there if they wanted to.
+
+64
+00:17:02,416 --> 00:17:02,796
+[SPEAKER_09] Right?
+
+65
+00:17:04,319 --> 00:17:05,599
+[SPEAKER_09] Like, think about storylines.
+
+66
+00:17:05,901 --> 00:17:07,282
+[SPEAKER_09] Everybody's doing it.
+
+67
+00:17:09,659 --> 00:17:12,462
+[SPEAKER_09] We could make this more interactive.
+
+68
+00:17:12,482 --> 00:17:14,624
+[SPEAKER_06] And it doesn't matter if you're inner city.
+
+69
+00:17:15,285 --> 00:17:19,910
+[SPEAKER_09] You're representing the city demographic.
+
+70
+00:17:20,010 --> 00:17:25,295
+[SPEAKER_09] And you can, whatever bugs, you identify everything that you see that day at your school.
+
+71
+00:17:25,315 --> 00:17:26,896
+[SPEAKER_09] And so does every other school.
+
+72
+00:17:27,217 --> 00:17:29,119
+[SPEAKER_09] And then the next day, everybody goes back.
+
+73
+00:17:30,681 --> 00:17:37,928
+[SPEAKER_09] And you could see the difference between Farragut and West, or Farragut and Nashville,
+
+74
+00:17:42,481 --> 00:17:52,062
+[SPEAKER_09] He said that wasn't part of his plan.
+
+75
+00:17:52,564 --> 00:17:53,666
+[SPEAKER_09] Just giving resources.
+
+76
+00:17:53,686 --> 00:17:58,617
+[SPEAKER_03] Want to write a curriculum?
+
+77
+00:18:02,343 --> 00:18:10,232
+[SPEAKER_09] But a series of Tennessee wants to adopt something that a new teacher can just pick up.
+
+78
+00:18:11,033 --> 00:18:16,280
+[SPEAKER_03] Which is scripted and it's killing me.
+
+79
+00:18:16,400 --> 00:18:17,141
+[SPEAKER_09] Poor Allison.
+
+80
+00:18:17,361 --> 00:18:19,704
+[SPEAKER_09] She came to the opening training with me.
+
+81
+00:18:19,724 --> 00:18:21,986
+[SPEAKER_09] And she's like, doesn't that take all the art out of teaching?
+
+82
+00:18:22,046 --> 00:18:24,790
+[SPEAKER_09] And I'm like, I feel so good.
+
+83
+00:18:24,870 --> 00:18:30,156
+[SPEAKER_10] I graduated from UT in December of 2022.
+
+84
+00:18:30,136 --> 00:18:35,035
+[SPEAKER_05] So I came in right whenever they were wrapping up the standards that we were on board.
+
+85
+00:18:35,055 --> 00:18:38,087
+[SPEAKER_10] And I was like, oh, so this is what it's like to be a teacher.
+
+86
+00:18:40,379 --> 00:18:42,562
+[SPEAKER_09] Well, I moved here two years ago.
+
+87
+00:18:42,582 --> 00:18:43,863
+[SPEAKER_09] They gave us pre-AP.
+
+88
+00:18:44,825 --> 00:18:47,128
+[SPEAKER_09] And so I was the first one to teach it.
+
+89
+00:18:47,508 --> 00:18:49,591
+[SPEAKER_09] I went through it all.
+
+90
+00:18:49,611 --> 00:18:52,535
+[SPEAKER_09] I added things in for the implementation, lined up all the notes.
+
+91
+00:18:52,995 --> 00:18:55,318
+[SPEAKER_09] And then they go and change editions.
+
+92
+00:18:55,338 --> 00:18:56,920
+[SPEAKER_09] And this one's so scripted.
+
+93
+00:18:57,080 --> 00:19:00,545
+[SPEAKER_09] And the stuff we learn here is so cool.
+
+94
+00:19:00,705 --> 00:19:04,510
+[SPEAKER_09] And to not be able to implement any of it hurts.
+
+95
+00:19:04,730 --> 00:19:06,252
+[SPEAKER_09] So I'm in mornings.
+
+96
+00:19:12,222 --> 00:19:25,216
+[SPEAKER_09] But I think this group could write a group.
+
+97
+00:19:25,316 --> 00:19:30,002
+[SPEAKER_09] And write one that went from middle school through high school.
+
+98
+00:19:30,062 --> 00:19:35,007
+[SPEAKER_09] So what you do builds on what we do.
+
+99
+00:19:40,201 --> 00:19:42,103
+[SPEAKER_09] Like they're doing all this research.
+
+100
+00:19:42,143 --> 00:19:44,206
+[SPEAKER_09] I feel like it should go into curriculum planning.
+
+101
+00:19:57,201 --> 00:20:03,008
+[SPEAKER_09] And I agree that it should just be lessons to implement that all go together.
+
+102
+00:20:03,028 --> 00:20:09,516
+[SPEAKER_09] I mean, I like the idea of a phenomenon that leads all the instruction and the kids finding out things and problem-based learning.
+
+103
+00:20:12,027 --> 00:20:16,773
+[SPEAKER_09] to like the science of the moment, like what the kids asked.
+
+104
+00:20:16,913 --> 00:20:20,477
+[SPEAKER_09] Like there's no leeway in what we've got right now.
+
+105
+00:20:22,280 --> 00:20:28,347
+[SPEAKER_09] And I swear if they'd chosen to stickleback fish, like my kids would want to like jump off the bridge.
+
+106
+00:20:28,367 --> 00:20:32,512
+[SPEAKER_01] Because six weeks talking about a stickleback fish, we can't leave.
+
+107
+00:20:32,733 --> 00:20:40,262
+[SPEAKER_10] I have like 15 lessons worth, and there's sometimes more than one day for each lesson about bath bombs.
+
+108
+00:20:44,866 --> 00:21:02,993
+[SPEAKER_09] Getting them through the full period.
+
+109
+00:21:15,190 --> 00:21:19,799
+[SPEAKER_10] there goes a little too much into it.
+
+110
+00:21:20,420 --> 00:21:25,029
+[SPEAKER_10] A lot of these kids already know what an atom is, or they know what molecules are.
+
+111
+00:21:25,670 --> 00:21:31,140
+[SPEAKER_10] Whenever we're talking about platforms, we have to sit there and not say the word atom or molecule.
+
+112
+00:21:38,090 --> 00:21:57,972
+[SPEAKER_09] It's word we earn.
+
+113
+00:22:08,380 --> 00:22:08,801
+[SPEAKER_00] Kitem.
+
+114
+00:22:10,082 --> 00:22:19,316
+[SPEAKER_10] Kitem has organized all of our content into one platform, but it's all of the sci-ed stuff, like storylines and everything.
+
+115
+00:22:22,641 --> 00:22:27,788
+[SPEAKER_10] But they've just organized it into Kitem, and we're supposed to be getting these workbooks for them to work out of.
+
+116
+00:22:27,808 --> 00:22:32,515
+[SPEAKER_03] And I...
+
+117
+00:22:37,456 --> 00:22:41,340
+[SPEAKER_10] that they were going to be giving us them.
+
+118
+00:22:44,083 --> 00:22:51,130
+[SPEAKER_10] My thing is I would like to see it now and they haven't given us a copy of what the students will look like.
+
+119
+00:22:52,191 --> 00:22:58,978
+[SPEAKER_10] All I have is two teachers editions for the first unit and the second unit.
+
+120
+00:22:58,998 --> 00:23:03,042
+[SPEAKER_10] They haven't given us anything else.
+
+121
+00:23:13,417 --> 00:23:15,563
+[SPEAKER_01] think it's just
+
+122
+00:23:49,546 --> 00:23:52,186
+[SPEAKER_10] They really enjoy seventh grade science.
+
+123
+00:23:52,207 --> 00:23:55,270
+[SPEAKER_10] That's where you see a lot of their growth.
+
+124
+00:25:01,822 --> 00:25:11,798
+[SPEAKER_10] Wednesday the other two science teachers from my grade at my school are meeting
+
+125
+00:26:24,728 --> 00:26:27,432
+[SPEAKER_08] He's the one that keeps sneaking in little projects.
+
+126
+00:26:27,452 --> 00:26:28,553
+[SPEAKER_08] I'm like, stop it, man.
+
+127
+00:26:28,593 --> 00:26:30,315
+[SPEAKER_08] He's just a little scattered, I think.
+
+128
+00:26:30,676 --> 00:26:31,096
+[SPEAKER_08] Yeah.
+
+129
+00:26:31,557 --> 00:26:33,119
+[SPEAKER_04] He's got a seven-year-old kid.
+
+130
+00:26:34,681 --> 00:26:35,302
+[SPEAKER_08] I mean, I get it.
+
+131
+00:26:35,462 --> 00:26:36,463
+[SPEAKER_08] I met him during.
+
+132
+00:26:36,564 --> 00:26:38,106
+[SPEAKER_08] I was still like, seriously?
+
+133
+00:26:38,126 --> 00:26:38,466
+[SPEAKER_08] Come on.
+
+134
+00:26:38,486 --> 00:26:41,170
+[SPEAKER_08] Just open them all up at the beginning of the semester.
+
+135
+00:26:41,290 --> 00:26:45,816
+[SPEAKER_08] And the other teacher I have, I opened them all up, but she has a really strict policy.
+
+136
+00:26:46,016 --> 00:26:46,737
+[SPEAKER_08] You can turn it.
+
+137
+00:26:52,167 --> 00:27:00,884
+[SPEAKER_08] Do them all ahead of time, just don't submit them.
+
+138
+00:27:01,465 --> 00:27:09,822
+[SPEAKER_09] You would also probably enjoy their fishy climate training.
+
+139
+00:28:51,271 --> 00:29:08,233
+[SPEAKER_09] Drag it over to Nick's new because it's gigantic and I don't
+
+140
+00:29:30,758 --> 00:29:36,079
+[SPEAKER_09] He's just gonna accumulate stuff.
+
+141
+00:29:36,380 --> 00:29:39,452
+[SPEAKER_05] So yeah, take the time, drag everything you don't use.
+
+142
+00:31:24,378 --> 00:31:33,568
+[SPEAKER_02] I don't really have an idea who this is, but what I love, and I say this to my staff, is the norms are great, and almost everybody can come up with a good set of norms.
+
+143
+00:31:34,870 --> 00:31:44,400
+[SPEAKER_02] The living within those norms is tricky, because oftentimes, and one of our usual norms is, take ownership over the impacts that you have.
+
+144
+00:31:44,741 --> 00:31:49,626
+[SPEAKER_02] And usually everyone's like, of course I do that, but you don't always know the impacts that you have.
+
+145
+00:31:50,180 --> 00:31:56,970
+[SPEAKER_02] And sometimes you can hurt somebody's feelings, never know that you did, because you certainly didn't intend to.
+
+146
+00:31:57,511 --> 00:32:02,218
+[SPEAKER_02] But something you said or a way that you said it caught somebody wrong.
+
+147
+00:32:03,440 --> 00:32:06,044
+[SPEAKER_02] And in those moments, you'd never know.
+
+148
+00:32:06,124 --> 00:32:12,113
+[SPEAKER_02] Like the person would be hurt, the person who did it would never know, and we'd all go on, and the system remains the same.
+
+149
+00:32:13,035 --> 00:32:18,583
+[SPEAKER_02] But in our situation, and what I like about our staff and what I like about this group already is,
+
+150
+00:32:20,150 --> 00:32:30,968
+[SPEAKER_02] sharing that sense that I got my feelings stepped on, or this happened and I just wanted to bring it up.
+
+151
+00:32:30,988 --> 00:32:32,270
+[SPEAKER_02] So it came to me.
+
+152
+00:32:32,791 --> 00:32:36,357
+[SPEAKER_02] And so I just want us to know, this stuff is happening.
+
+153
+00:32:36,898 --> 00:32:39,182
+[SPEAKER_02] And we don't mean it, and we don't intend it, typically.
+
+154
+00:32:41,025 --> 00:32:41,466
+[SPEAKER_02] So.
+
+155
+00:32:53,545 --> 00:33:05,091
+[SPEAKER_02] Really focus on how we respond to things how we talk about things language that we use and
+
+156
+00:33:13,846 --> 00:33:15,189
+[SPEAKER_02] Don't sit there.
+
+157
+00:33:15,249 --> 00:33:16,011
+[SPEAKER_02] Don't suffer.
+
+158
+00:33:16,071 --> 00:33:21,204
+[SPEAKER_02] Don't think, oh, it's just because of this or that, or they didn't mean it, so I'm just not going to say anything.
+
+159
+00:33:21,244 --> 00:33:22,787
+[SPEAKER_02] If you had that moment, just say it.
+
+160
+00:33:22,807 --> 00:33:26,296
+[SPEAKER_02] I mean, this is probably the most friendly group of people you're going to work with.
+
+161
+00:33:26,476 --> 00:33:29,002
+[SPEAKER_02] I mean, these are people that really want to do the best by everybody.
+
+162
+00:33:29,784 --> 00:33:30,546
+[SPEAKER_02] So this is how we learn.
+
+163
+00:33:31,107 --> 00:33:32,310
+[SPEAKER_02] And this is what happens in classrooms.
+
+164
+00:33:44,305 --> 00:33:49,578
+[SPEAKER_02] We're going to be working together all afternoon, all evening, tomorrow, and then hopefully later on after we leave here.
+
+165
+00:33:49,598 --> 00:33:52,304
+[SPEAKER_02] And I want everybody to feel good about ourselves.
+
+166
+00:33:52,324 --> 00:33:55,211
+[SPEAKER_02] This is not like, this is not John's calling somebody else.
+
+167
+00:33:55,291 --> 00:33:59,682
+[SPEAKER_02] He's just recognizing that somewhere along the line, we didn't quite live up to our boundaries.
+
+168
+00:34:10,681 --> 00:34:15,447
+[SPEAKER_02] But maybe, I mean, we may spend a little more time even in the next couple of days just unpacking, like what does this look like?
+
+169
+00:34:15,467 --> 00:34:17,110
+[SPEAKER_02] What does this look like when it doesn't happen?
+
+170
+00:34:17,130 --> 00:34:21,775
+[SPEAKER_02] Have you ever had it happen that you got something hurt and the person didn't know?
+
+171
+00:34:21,795 --> 00:34:23,717
+[SPEAKER_02] They didn't know?
+
+172
+00:34:25,561 --> 00:34:26,983
+[SPEAKER_02] Were you able to bring it up?
+
+173
+00:34:27,003 --> 00:34:29,266
+[SPEAKER_02] Was there enough safety there to bring something?
+
+174
+00:34:29,286 --> 00:34:30,568
+[SPEAKER_02] Like that's tricky.
+
+175
+00:34:30,588 --> 00:34:33,972
+[SPEAKER_02] I'm just glad to know that this is that kind of place.
+
+176
+00:34:33,992 --> 00:34:35,935
+[SPEAKER_02] So these are sitting over there.
+
+177
+00:34:36,375 --> 00:34:37,617
+[SPEAKER_02] We wrote them down.
+
+178
+00:35:11,887 --> 00:35:35,346
+[SPEAKER_02] What time do you think that will end up being?
+
+179
+00:35:59,660 --> 00:36:02,515
+[SPEAKER_02] We'll take another look at the weather then.
+

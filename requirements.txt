@@ -1,0 +1,21 @@
+# Whisper + diarization stack
+whisperx==3.4.2
+faster-whisper==1.1.1
+# Align with whisperx>=3.4.2 which requires torch>=2.5.1
+torch==2.5.1
+torchaudio==2.5.1
+pyannote.audio==3.3.2
+ffmpeg-python==0.2.0
+webvtt-py==0.5.1
+pysrt==1.1.2
+pyyaml==6.0.1
+numpy>=1.24
+soundfile==0.12.1
+librosa==0.10.2.post1
+tqdm==4.66.4
+watchdog==4.0.1
+pandas>=2.1
+
+# Testing dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0

@@ -1,0 +1,803 @@
+{
+  "file": "/Users/jrosenb8/edu_asr/scratch/Outdoor Hoop Activity.m4a",
+  "segments": [
+    {
+      "id": null,
+      "start": 1.55,
+      "end": 3.113,
+      "text": "What did we call these little guys?",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 3.473,
+      "end": 4.515,
+      "text": "They're like throughout.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 9.003,
+      "end": 11.548,
+      "text": "No, this says no.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 11.688,
+      "end": 12.289,
+      "text": "This says 100%.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 12.45,
+      "end": 13.752,
+      "text": "I don't know about that.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 14.734,
+      "end": 16.337,
+      "text": "That wasn't what we identified.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 17.258,
+      "end": 18.481,
+      "text": "Oh, White Avons.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 21.486,
+      "end": 22.187,
+      "text": "What do you use?",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 23.39,
+      "end": 24.492,
+      "text": "This is the iNaturalist.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 25.053,
+      "end": 25.313,
+      "text": "Oh.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 26.626,
+      "end": 27.647,
+      "text": "Oh, that's better.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 28.488,
+      "end": 30.631,
+      "text": "Where it says White Avons, it's actually Pennywort.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 31.112,
+      "end": 33.996,
+      "text": "Marsh Pennywort, which makes more sense.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 34.276,
+      "end": 34.897,
+      "text": "So, change it.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 35.478,
+      "end": 36.679,
+      "text": "So, White Avons?",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 38.321,
+      "end": 41.245,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 41.265,
+      "end": 41.465,
+      "text": "Pennywort.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 41.485,
+      "end": 42.767,
+      "text": "So, it's not this.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 42.787,
+      "end": 48.615,
+      "text": "So, it's F of F. So, anywhere these little guys are F of F. They're kind of throughout.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 49.736,
+      "end": 54.522,
+      "text": "Just put F there.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 54.542,
+      "end": 56.565,
+      "text": "There's little and Pennywort spreads.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 58.317,
+      "end": 74.96,
+      "text": "It's like vines.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 74.98,
+      "end": 75.901,
+      "text": "Other things you want to write?",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 78.985,
+      "end": 84.233,
+      "text": "What other things from our list do you feel are jumping out at you as important in this area?",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 85.254,
+      "end": 88.138,
+      "text": "So we got white clover.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 96.826,
+      "end": 104.719,
+      "text": "You mentioned the ariotic or ariotic dazed flower, but I'm not familiar with it.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 104.86,
+      "end": 106.142,
+      "text": "I don't know either.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 106.182,
+      "end": 109.467,
+      "text": "It could have been a wrong identification because of only a partial plant.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 109.487,
+      "end": 109.648,
+      "text": "Okay.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 109.668,
+      "end": 110.569,
+      "text": "We can just ignore it.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 110.729,
+      "end": 111.07,
+      "text": "I don't know.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 111.391,
+      "end": 111.671,
+      "text": "Okay.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 111.871,
+      "end": 113.113,
+      "text": "I think we're good.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 113.254,
+      "end": 114.416,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 114.436,
+      "end": 115.257,
+      "text": "Everyone's wrapping up.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 132.179,
+      "end": 158.727,
+      "text": "Let's go upstairs, wrap it up, give them a five and a half.",
+      "speaker": "SPEAKER_06"
+    },
+    {
+      "id": null,
+      "start": 158.707,
+      "end": 161.892,
+      "text": "All right, y'all, if we could circle up real quick.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 162.533,
+      "end": 172.61,
+      "text": "Our teacher leaders are discussing a slight adjustment to this schedule, but I wanted to ask you all, just really quick, think to yourself either a yes or no and why.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 173.892,
+      "end": 183.769,
+      "text": "Is what we created here together either yes, a data visualization, or no, think to yourself and then why?",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 186.567,
+      "end": 190.111,
+      "text": "Is this a data visualization?",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 192.053,
+      "end": 192.293,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 192.314,
+      "end": 193.815,
+      "text": "Turn and talk to the person next to you.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 193.835,
+      "end": 194.997,
+      "text": "Why, yes, no, why?",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 195.918,
+      "end": 206.91,
+      "text": "I say yes because you got different visual representations but also different descriptions that cover even the flowering stages that are not pictured right now.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 206.97,
+      "end": 212.957,
+      "text": "Raise your hand if you said yes.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 213.477,
+      "end": 213.958,
+      "text": "It is.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 215.322,
+      "end": 216.985,
+      "text": "Raise your hand if you said no, it is not.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 218.087,
+      "end": 219.31,
+      "text": "We're kind of like you.",
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "id": null,
+      "start": 219.39,
+      "end": 220.031,
+      "text": "Hey, great.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 220.131,
+      "end": 220.893,
+      "text": "Love it.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 220.913,
+      "end": 222.917,
+      "text": "Why is it?",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 223.217,
+      "end": 226.344,
+      "text": "If you said yes.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 226.364,
+      "end": 227.947,
+      "text": "Qualitative data.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 227.967,
+      "end": 229.931,
+      "text": "Qualitative data.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 229.951,
+      "end": 231.514,
+      "text": "You've got to take quantitative data.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 231.534,
+      "end": 234.399,
+      "text": "Is this qualitative or quantitative data?",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 234.419,
+      "end": 235.221,
+      "text": "Qualitative.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 235.505,
+      "end": 239.13,
+      "text": "We didn't have any measurements.",
+      "speaker": "SPEAKER_10"
+    },
+    {
+      "id": null,
+      "start": 239.151,
+      "end": 242.456,
+      "text": "We heard another voice over here that said what?",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 242.776,
+      "end": 246.161,
+      "text": "So it could be a bit of quantitative data?",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 246.502,
+      "end": 248.545,
+      "text": "This is mixed methods.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 249.005,
+      "end": 251.75,
+      "text": "Mixed methods in here?",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 251.77,
+      "end": 252.31,
+      "text": "What about no?",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 252.371,
+      "end": 254.233,
+      "text": "Why do you say it's not?",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 254.253,
+      "end": 261.304,
+      "text": "Well, mostly because it's not accurate representation of what we're finding out in the field.",
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "id": null,
+      "start": 261.324,
+      "end": 262.626,
+      "text": "It's not the same amount.",
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "id": null,
+      "start": 262.977,
+      "end": 266.0,
+      "text": "Is a bar graph accurate information?",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 267.261,
+      "end": 267.382,
+      "text": "Maybe.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 267.402,
+      "end": 268.403,
+      "text": "It can be.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 268.423,
+      "end": 274.749,
+      "text": "But the information that you're talking about, that includes the way of data collection, right?",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 274.949,
+      "end": 281.796,
+      "text": "So accurate representation may also involve how you collect data.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 281.816,
+      "end": 290.085,
+      "text": "If we count how many types each plot has, then the data would change.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 290.105,
+      "end": 292.107,
+      "text": "And data visualization will also change.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 292.559,
+      "end": 293.64,
+      "text": "So what are the limitations?",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 294.261,
+      "end": 299.366,
+      "text": "The limitations, is that like the way of data collection?",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 299.386,
+      "end": 305.513,
+      "text": "I know visually some kids would not really see this as something that would be eye-catching.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 305.533,
+      "end": 313.121,
+      "text": "Like data visual, they would just kind of see this as something uninteresting.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 313.141,
+      "end": 316.124,
+      "text": "That's why I don't think it's very data visual like just because.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 317.145,
+      "end": 320.508,
+      "text": "The aesthetics are important to data biz for sure, absolutely.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 320.929,
+      "end": 322.11,
+      "text": "What were you saying?",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 323.238,
+      "end": 333.29,
+      "text": "data about each individual to help you identify it in situ so that we can get our accurate counts.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 333.31,
+      "end": 341.46,
+      "text": "It's data about each of the, they're not actually necessarily species, but maybe groups, types that we're looking at.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 341.48,
+      "end": 345.065,
+      "text": "We tried for species, but I'm sure we got a couple down there.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 346.186,
+      "end": 349.23,
+      "text": "It is data visualization.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 349.31,
+      "end": 351.793,
+      "text": "We're presenting a case for",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 352.01,
+      "end": 368.027,
+      "text": "the data that defines each of our groups whether they're species or genus or whatever and it's what was most commonly found amongst all of us right so like the things that we had the most when we all came back so even though it's not necessarily",
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "id": null,
+      "start": 368.378,
+      "end": 395.145,
+      "text": "representative of oh we saw 50 percent this 80 right a is not the most common b second c third right but it is that these are the most common things that we as a group found in the hole in right and then everything else is there does it tell us information we can't find in a book yes and about a specific place did we use a computer no a technology",
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "id": null,
+      "start": 395.918,
+      "end": 397.982,
+      "text": "These are just things to point out to students.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 398.002,
+      "end": 401.289,
+      "text": "Data visualization can mean a lot of different things and can tell us information.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 401.73,
+      "end": 405.317,
+      "text": "So I just wanted to call this out because I thought it was a beautiful little thing for you.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 405.337,
+      "end": 409.185,
+      "text": "I think the cool thing that I think about this is it makes science less scary.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 409.368,
+      "end": 427.513,
+      "text": "For a lot of kids, because a lot of kids don't think in numbers, a lot of kids just see what they see outside and they're like well I'm not a scientist because I'm just grouping things together and you know when you're seven you make potions with your grass and I got this kind and this kind and this makes this potion right?",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 428.094,
+      "end": 431.038,
+      "text": "So I'm thinking in my like 10 year old brain of my daughter",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 431.693,
+      "end": 432.656,
+      "text": "That's science to her.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 433.739,
+      "end": 438.632,
+      "text": "Especially to be able to have that word data without it being this like, oh my gosh, that's math.",
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "id": null,
+      "start": 438.752,
+      "end": 441.219,
+      "text": "I have no idea what that means.",
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "id": null,
+      "start": 441.239,
+      "end": 443.044,
+      "text": "That's a whole different kind of math.",
+      "speaker": "SPEAKER_07"
+    },
+    {
+      "id": null,
+      "start": 443.084,
+      "end": 445.551,
+      "text": "This is still science.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 446.071,
+      "end": 447.313,
+      "text": "needs to be tightened up.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 447.934,
+      "end": 459.53,
+      "text": "Yeah and I think that was like talking about those different levels too of different grades is you can do this and then they can make their presentations and be done with it or you can take to the next level that we'll be trying to do later on this afternoon.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 459.63,
+      "end": 466.841,
+      "text": "So we did we did some subscripts on f because we didn't have a lot of a through e so we have f of whatever because we had lettered ours to begin with.",
+      "speaker": "SPEAKER_09"
+    },
+    {
+      "id": null,
+      "start": 466.981,
+      "end": 469.885,
+      "text": "Nice that's good okay pass it over to Jen.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 470.59,
+      "end": 473.174,
+      "text": "Okay, so I think we need a break.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 473.194,
+      "end": 474.996,
+      "text": "Does coming to break sound good?",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 475.417,
+      "end": 475.697,
+      "text": "Yes.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 475.878,
+      "end": 480.605,
+      "text": "So we're going to be outside again except this time we're going to collect some water quality data.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 481.906,
+      "end": 484.17,
+      "text": "Meet over here in about 10 minutes.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 484.23,
+      "end": 491.741,
+      "text": "You're going to need your journal, clipboard, pencil, and I would definitely recommend a mat to sit on and I have them over there.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 491.761,
+      "end": 495.967,
+      "text": "Where do you want to put our... Bring them over.",
+      "speaker": "SPEAKER_08"
+    },
+    {
+      "id": null,
+      "start": 496.187,
+      "end": 497.509,
+      "text": "Bring the hoops over.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 497.759,
+      "end": 499.945,
+      "text": "You want him on the rock where the rest are?",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 499.965,
+      "end": 506.081,
+      "text": "Yeah, on the rock.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 506.101,
+      "end": 507.465,
+      "text": "Ten minute break.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 507.485,
+      "end": 508.427,
+      "text": "He's in the pavilion.",
+      "speaker": "SPEAKER_05"
+    }
+  ]
+}

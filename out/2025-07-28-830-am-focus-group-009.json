@@ -1,0 +1,1860 @@
+{
+  "file": "/Users/jrosenb8/edu_asr/scratch/2025-07-28-830-am-focus-group-009.mov",
+  "segments": [
+    {
+      "id": null,
+      "start": 1.735,
+      "end": 2.637,
+      "text": "Parking tag?",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 2.657,
+      "end": 3.559,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 3.579,
+      "end": 6.084,
+      "text": "They probably won't tell me in the next half an hour.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 6.345,
+      "end": 10.734,
+      "text": "No, we have like academic tags we can get to from two month staff.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 10.774,
+      "end": 12.217,
+      "text": "Well, they gave me a parking tag.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 12.237,
+      "end": 13.72,
+      "text": "I just haven't run it down.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 13.801,
+      "end": 14.462,
+      "text": "No, I don't think so.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 18.661,
+      "end": 19.342,
+      "text": "Hi.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 19.362,
+      "end": 20.503,
+      "text": "What is your name?",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 20.844,
+      "end": 21.404,
+      "text": "I'm Tanya.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 21.704,
+      "end": 21.965,
+      "text": "Hi.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 21.985,
+      "end": 23.346,
+      "text": "Oh, welcome.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 23.386,
+      "end": 25.269,
+      "text": "You know each other from Megabytes?",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 25.429,
+      "end": 25.669,
+      "text": "Yes.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 25.889,
+      "end": 27.371,
+      "text": "Yeah, good to have you here.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 28.072,
+      "end": 29.133,
+      "text": "A different project.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 29.473,
+      "end": 32.377,
+      "text": "We'll talk a little bit about why we're here.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 32.597,
+      "end": 36.902,
+      "text": "Sorry to talk later, but thank you all for being here.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 36.922,
+      "end": 37.082,
+      "text": "Hi.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 37.322,
+      "end": 38.083,
+      "text": "Is it gone?",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 38.103,
+      "end": 38.524,
+      "text": "All good.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 38.544,
+      "end": 44.15,
+      "text": "Hey, did you hear, by chance, two days ago they reported two cases of lacrosse in Knox County?",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 44.41,
+      "end": 44.871,
+      "text": "No.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 47.011,
+      "end": 48.094,
+      "text": "No, that was on the news.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 49.277,
+      "end": 50.219,
+      "text": "We'll talk later.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 51.201,
+      "end": 57.056,
+      "text": "But yeah, it's like it wasn't there at all during our project and they just announced it on the radio.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 58.299,
+      "end": 60.244,
+      "text": "I was actually going to email her.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 63.228,
+      "end": 68.957,
+      "text": "Hi, my name is Amanda and I'm very happy to be here with you today.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 68.997,
+      "end": 71.761,
+      "text": "I'm going to go through some logistical stuff that I have to say.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 71.801,
+      "end": 74.044,
+      "text": "Thank you for being here today.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 74.064,
+      "end": 80.474,
+      "text": "I'm going to be facilitating this focus group and I really appreciate you taking the time to share your thoughts before we jump into the full experience of Tremont.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 81.095,
+      "end": 87.565,
+      "text": "Today's conversation is a part of our research on how educators engage with data, place-based learning, and probabilistic thinking.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 87.545,
+      "end": 103.171,
+      "text": "Since some of you are returning from year one and others are just joining, we want to take some time to understand where everyone is starting from, what prior experiences you've had, how you currently approach data or place-based practices, and what drew you to this PD in the first place.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 103.231,
+      "end": 112.827,
+      "text": "This is a chance to hear your stories, your questions, and what you're hoping to get out of the experience, and your insight will help us shape the program and better understand how to support teachers across different backgrounds.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 113.465,
+      "end": 117.869,
+      "text": "So this session is being recorded so we can go back and accurately capture what was shared.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 118.209,
+      "end": 119.51,
+      "text": "It's only for research purposes.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 119.57,
+      "end": 124.935,
+      "text": "Everything you say will be kept confidential, and we will remove names or identify details during analysis and reporting.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 125.395,
+      "end": 126.696,
+      "text": "It's a voluntary conversation.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 126.736,
+      "end": 134.103,
+      "text": "You're welcome to skip any question or topic that doesn't feel relevant or that you'd rather not talk about, and you can leave the group at any time, no questions asked.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 134.443,
+      "end": 142.83,
+      "text": "To get us started, if you can just go around and share your name, your role, whether this is your first year with Project Credible or if you're returning,",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 143.182,
+      "end": 144.364,
+      "text": "and your school.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 144.984,
+      "end": 146.146,
+      "text": "We can start there.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 146.166,
+      "end": 146.867,
+      "text": "I'm Tanya.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 148.249,
+      "end": 150.191,
+      "text": "This is my first year in this program.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 150.892,
+      "end": 157.781,
+      "text": "I was interested because I've worked with Josh before on a frog ectotherm project.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 158.262,
+      "end": 163.289,
+      "text": "And I've worked with UT before with what he was talking about the megabytes is a mosquito study.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 164.03,
+      "end": 165.812,
+      "text": "So I just like the collaborative work.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 166.213,
+      "end": 167.194,
+      "text": "So ectotherm ER?",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 167.855,
+      "end": 168.335,
+      "text": "Was that last?",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 168.476,
+      "end": 168.696,
+      "text": "Yes.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 169.377,
+      "end": 170.779,
+      "text": "Yeah, I did that last summer.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 170.799,
+      "end": 172.581,
+      "text": "Yeah, I did it summer before last.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 173.371,
+      "end": 183.928,
+      "text": "I'm Justin this is my first year and I got emailed by another Knox County teacher out of the blue and thought that sounds kind of cool.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 184.268,
+      "end": 200.374,
+      "text": "Teaching is my third or fourth career depending on how you count it and so I worked in zoos and aquariums before this and so getting people interested in anything related to animals and conservation is something that I want to look into and work with.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 201.097,
+      "end": 201.958,
+      "text": "I'm Lisa Jacobs.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 202.379,
+      "end": 204.862,
+      "text": "I teach biology and anatomy at Hardin Valley.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 204.882,
+      "end": 227.593,
+      "text": "It's my first year with this project and I heard about it from Ann who works with Tremont and I've been really interested in finding more local sources of data, things to kind of tie my kids into local things that they care more about within my biology classes.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 228.856,
+      "end": 230.057,
+      "text": "I'm Allison Sieber.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 230.137,
+      "end": 232.4,
+      "text": "I'm a student intern with Michelle Hughes.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 232.42,
+      "end": 234.182,
+      "text": "She'll be my mentor at Farragut High School.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 234.422,
+      "end": 236.004,
+      "text": "It'll be for ninth grade biology.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 236.244,
+      "end": 239.648,
+      "text": "I'm currently at UTK for grad school and science education.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 240.289,
+      "end": 244.594,
+      "text": "I just got back for conservation work with jaguars and black bears.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 245.274,
+      "end": 249.339,
+      "text": "So she thought I would definitely enjoy this, especially being out in the Smokies.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 249.499,
+      "end": 256.467,
+      "text": "And I really just want to see how wildlife and conservation work in the Smokies can tie into teaching education.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 257.442,
+      "end": 260.068,
+      "text": "I'm Michelle Platt and I work at Farragut High School.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 260.088,
+      "end": 263.255,
+      "text": "I'm a ninth grade biology teacher and it's my second year with Tremont.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 263.716,
+      "end": 269.449,
+      "text": "I started the same as Lisa to try to integrate more place-based learning into my biology classes.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 270.251,
+      "end": 272.155,
+      "text": "I think it makes the students more interested.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 272.536,
+      "end": 274.641,
+      "text": "The closer you can keep it to home.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 275.33,
+      "end": 275.951,
+      "text": "Can we go around?",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 276.071,
+      "end": 277.332,
+      "text": "How long have you taught?",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 277.492,
+      "end": 279.093,
+      "text": "And you told us your school.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 279.133,
+      "end": 280.214,
+      "text": "So how long did you teach?",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 281.496,
+      "end": 282.937,
+      "text": "Well, I've taught a lot of things.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 282.977,
+      "end": 283.838,
+      "text": "My husband was military.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 284.118,
+      "end": 286.38,
+      "text": "I've had my teaching degree for 13 years.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 287.401,
+      "end": 287.641,
+      "text": "OK.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 287.941,
+      "end": 293.587,
+      "text": "I taught second, then third, then fifth, then eighth, and now I'm on my third year of ninth grade biology.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 294.708,
+      "end": 294.808,
+      "text": "Nice.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 294.828,
+      "end": 297.01,
+      "text": "And you said that you're a student intern?",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 297.63,
+      "end": 297.73,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 299.072,
+      "end": 299.212,
+      "text": "OK.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 299.312,
+      "end": 305.117,
+      "text": "I started teaching about 28 years ago, but this is my 15th year that I'm starting.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 305.452,
+      "end": 306.833,
+      "text": "teaching.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 306.853,
+      "end": 307.854,
+      "text": "And what school are you at?",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 307.874,
+      "end": 308.435,
+      "text": "Hardin Valley.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 309.997,
+      "end": 318.325,
+      "text": "I'm at Halls and this is my fourth full year, fifth year teaching biology, chemistry, and AP biology.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 321.348,
+      "end": 322.93,
+      "text": "I've been teaching since 2003.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 322.99,
+      "end": 334.682,
+      "text": "At Bearden I teach wildlife conservation, AP environmental, CP environmental, and AP research.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 335.894,
+      "end": 340.389,
+      "text": "And like you, I was a zookeeper and it was zookeeping that got me into education.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 342.176,
+      "end": 346.41,
+      "text": "I was like the only keeper that liked doing the talks with people.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 348.719,
+      "end": 351.643,
+      "text": "Well, I mean, there's a lot of varied experience here, for sure.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 351.664,
+      "end": 357.953,
+      "text": "And I'll tell you, like, I've been a teacher for a long time, and now I want to be a zookeeper, so maybe I can... It's a pay cut.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 358.093,
+      "end": 360.637,
+      "text": "Yeah, I was just getting ready to say... I got into teaching for the money.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 360.938,
+      "end": 361.959,
+      "text": "Yeah, seriously.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 361.979,
+      "end": 363.321,
+      "text": "It's not a joke.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 363.341,
+      "end": 365.204,
+      "text": "Seriously, it's not a joke at all.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 365.505,
+      "end": 371.414,
+      "text": "No, I've looked into it, like, because I grew up on a farm and had some experience with that, and I was like, oh.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 371.434,
+      "end": 374.258,
+      "text": "Well, you get to, like, be around animals all day.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 374.659,
+      "end": 376.802,
+      "text": "I started in research, so this is my cut.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 378.149,
+      "end": 387.022,
+      "text": "So our first question is, before joining Project Credible, what experiences have you had with place-based education or teaching with community resources?",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 390.166,
+      "end": 392.45,
+      "text": "Why don't we start over there, because mine is mostly Project Credible.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 393.371,
+      "end": 395.394,
+      "text": "And you talked a little bit about Megabytes.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 396.035,
+      "end": 401.423,
+      "text": "Yeah, just through UT really is how I've heard about all the collaborative opportunities.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 402.124,
+      "end": 406.35,
+      "text": "The Megabytes was a mosquito research, and our students",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 407.528,
+      "end": 412.274,
+      "text": "Um, literally set up mosquito traps to collect the eggs.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 413.476,
+      "end": 421.126,
+      "text": "So anyway, most of my, with the community has been through UT, um, and then the frogs, the ectotherm ER.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 421.967,
+      "end": 427.013,
+      "text": "Um, so it sounds like you jump on all the opportunities we have here as well.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 427.434,
+      "end": 431.379,
+      "text": "And that's where, to me, I'm fortunate with the wildlife class.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 431.479,
+      "end": 432.861,
+      "text": "I don't have a state test.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 433.499,
+      "end": 435.421,
+      "text": "I taught biology for 15 years.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 435.481,
+      "end": 438.024,
+      "text": "I'm so glad I'm over that.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 438.124,
+      "end": 440.227,
+      "text": "I mean, it's just the whole state testing thing.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 441.528,
+      "end": 445.092,
+      "text": "So I have the time to be able to do that where a lot of classes don't.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 446.354,
+      "end": 451.86,
+      "text": "And so, like she had said, I just like being able to connect my kids to things that are local.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 452.121,
+      "end": 456.446,
+      "text": "I bring students up here every year to Tremont for a weekend trip.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 457.647,
+      "end": 458.528,
+      "text": "And I don't know.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 458.744,
+      "end": 459.946,
+      "text": "Just Tremont's amazing.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 460.006,
+      "end": 464.294,
+      "text": "So anything that involves Tremont along with a collaboration with UT, I'm all in.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 465.316,
+      "end": 469.544,
+      "text": "I don't know if they let schools borrow things, but we were all in on the ectotherm ER.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 469.924,
+      "end": 472.289,
+      "text": "Our curriculum's changing, but we bought a bunch of eye buttons.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 473.311,
+      "end": 473.651,
+      "text": "Okay.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 473.671,
+      "end": 477.879,
+      "text": "If you ever need to borrow them, I don't know if they let them let us swap out.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 477.899,
+      "end": 478.58,
+      "text": "I know Bartlett.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 478.801,
+      "end": 480.043,
+      "text": "He was at Bearden for",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 481.12,
+      "end": 497.408,
+      "text": "over a decade i'm sure bartlett would allow it yeah as long as they came back they're expensive of course so who else what else kind of community um i i'm fairly new to teaching like i said this is my my fourth full year um i this will be my",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 497.388,
+      "end": 503.917,
+      "text": "third year teaching AP Biology and so I'm trying to incorporate more hands-on experiences with that.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 504.098,
+      "end": 512.209,
+      "text": "We go to a local beaver pond out there on Norris Freeway right there next to the Walmart and we do a stream survey but it's like a one-day thing.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 513.03,
+      "end": 524.627,
+      "text": "I'm trying to work up to getting more students so that I can maybe do something like coming out here or when I was in high school I went to the, it's now called the Chesapeake Bay Field Station down in Wallops Island, Virginia.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 524.607,
+      "end": 531.598,
+      "text": "and did like a weekend of field ecology and intertidal zones and that's kind of why I ended up working in aquariums for 15 years.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 532.319,
+      "end": 538.689,
+      "text": "And so doing that stuff and getting into that and trying to incorporate more of that into my teaching.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 539.07,
+      "end": 543.096,
+      "text": "You should look for Fishy Climate next spring with Dr. Zingley.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 543.877,
+      "end": 544.879,
+      "text": "You'd like that one too.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 545.139,
+      "end": 547.763,
+      "text": "It's about stream surveys and such.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 548.198,
+      "end": 573.092,
+      "text": "We have started bringing a few classes up here up to the Smokies for their like we do salamanders and lichen counts for like an afternoon and we've done a lesson with the Chesapeake Bay which is not local but it's the kids really enjoy it even though it's not here having that place to kind of be like oh",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 573.95,
+      "end": 578.965,
+      "text": "something attached to that data that we've done that has gone really well.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 579.046,
+      "end": 582.597,
+      "text": "So I'd love to see something even closer that they can identify with.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 582.897,
+      "end": 583.74,
+      "text": "Awesome.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 584.8,
+      "end": 605.403,
+      "text": "So I obviously have not taught anybody or anything like that but I think for my own education what I would try to do is I knew my interests were in like wildlife and biology so I took classes at Scholl's Marine Laboratory and it's where undergrads or anybody who's wanting to take a college level course is able to access the first marine lab in the U.S.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 605.864,
+      "end": 608.547,
+      "text": "and it's off the coast of Maine at Appledore Island",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 608.695,
+      "end": 614.825,
+      "text": "And it's just like nestled with a bunch of islands, but you're at a field station and really focused on conservation.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 614.945,
+      "end": 624.019,
+      "text": "And it like tries to have a lot of diverse professors from different institutions that do like their own research, or maybe they're just not even professing anymore.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 624.1,
+      "end": 628.567,
+      "text": "And they're like actually out in the field working and they'll come and teach classes for about two weeks.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 628.587,
+      "end": 632.773,
+      "text": "So I was able to take like field animal behavior and shark biology and conservation.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 633.314,
+      "end": 633.915,
+      "text": "So it's really cool.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 633.995,
+      "end": 635.057,
+      "text": "I got to meet like.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 635.459,
+      "end": 639.986,
+      "text": "Two of the most renowned like shark biologists are doing stress physiology on the blood work of sharks.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 640.807,
+      "end": 642.029,
+      "text": "We didn't get any sharks.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 642.369,
+      "end": 649.299,
+      "text": "So that was a bummer, but it's like, they like try to like broadcast it for like a wide range of students.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 649.4,
+      "end": 650.361,
+      "text": "And it was very interesting.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 650.401,
+      "end": 654.507,
+      "text": "I got to meet a lot of students from Cornell university and university in New Hampshire.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 654.988,
+      "end": 655.088,
+      "text": "Cool.",
+      "speaker": null
+    },
+    {
+      "id": null,
+      "start": 656.249,
+      "end": 662.883,
+      "text": "I am in my second year of Tremont, and as I've said, I've acquired a lot of different classes.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 662.943,
+      "end": 672.925,
+      "text": "I've gone to Fishy Climate with Dr. Zingley, and then I did the Ectotherm ER through UT, as well as Tremont last year.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 673.107,
+      "end": 681.818,
+      "text": "I feel like a lot of us are interested in place-based learning and bringing the kids to conservation because of experiences we've had.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 682.178,
+      "end": 695.035,
+      "text": "Like I can remember in elementary school going to a nature's classroom and we spent a week there and there's a lot, I'm from New England, so we did a lot of sea-based stuff as well that was all place-based.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 695.055,
+      "end": 697.137,
+      "text": "And I think maybe those things just stuck with me.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 697.618,
+      "end": 700.161,
+      "text": "And so if you teach kids",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 700.141,
+      "end": 707.67,
+      "text": "early on about where they live, it stays with them, whether they realize it or not.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 707.69,
+      "end": 708.431,
+      "text": "It's very connected.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 708.451,
+      "end": 710.413,
+      "text": "You're saying it makes you connect relevant.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 710.573,
+      "end": 713.036,
+      "text": "Yeah, it's very relevant.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 713.056,
+      "end": 713.156,
+      "text": "Cool.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 713.176,
+      "end": 718.482,
+      "text": "Again, a lot of varied experiences with like play space, lots of different critters and watersheds.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 720.685,
+      "end": 724.409,
+      "text": "Now let's do a little switch over to data and data literacy and working with data.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 724.87,
+      "end": 729.355,
+      "text": "So how have you approached data literacy or working with data in your classroom so far?",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 730.87,
+      "end": 746.609,
+      "text": "me personally, I, unfortunately, time wise, I tend to get a data set that's already made, like one I find online, like, more study and range of tolerance.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 746.629,
+      "end": 750.274,
+      "text": "There are these really cool data sets about two different fish.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 750.734,
+      "end": 756.181,
+      "text": "And, you know, this fish can survive at low temperatures, this fish survives at high temperatures.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 756.261,
+      "end": 758.163,
+      "text": "And so the data sets already there.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 759.345,
+      "end": 759.645,
+      "text": "And",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 759.929,
+      "end": 779.78,
+      "text": "allowing the students to be able to interpret data, try to figure out from the data table what's happening, and then I use Google Sheets to have them input the data and then highlight it and turn that into a graph.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 779.8,
+      "end": 782.865,
+      "text": "And so they can visualize the data",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 783.031,
+      "end": 785.646,
+      "text": "but they're not coming up with it.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 786.189,
+      "end": 790.392,
+      "text": "I haven't found, other than the wildlife class,",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 792.295,
+      "end": 799.887,
+      "text": "With other classes, I feel like I don't have the time to actually do the experiment to collect the data than to analyze the data.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 800.007,
+      "end": 802.151,
+      "text": "I just it's too time restrictive.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 803.052,
+      "end": 817.054,
+      "text": "But having good data sets that might already be out there from the Smokies and just bringing that in and then being able to look and analyze, you know, what's happening to our population.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 817.658,
+      "end": 818.741,
+      "text": "of salamanders.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 818.881,
+      "end": 822.251,
+      "text": "Is the fungus that's affecting frogs affecting salamanders?",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 822.331,
+      "end": 832.039,
+      "text": "And having data that's already there for them to analyze would be very helpful to me, but that's how I tend to use it.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 834.466,
+      "end": 838.811,
+      "text": "There's been a switch recently in Knox County towards storylines.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 838.831,
+      "end": 842.415,
+      "text": "In fact, we're going all storylines with the new biology curriculum.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 843.216,
+      "end": 850.545,
+      "text": "And a lot of those include controlled lab situations where they generate data and they have to graph the data.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 851.566,
+      "end": 856.132,
+      "text": "And so there's some of that with biology, particularly the honors classes that I teach.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 856.212,
+      "end": 858.495,
+      "text": "It's a little more limited with the CP classes.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 859.275,
+      "end": 861.418,
+      "text": "But with AP biology, it's a lot of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 862.225,
+      "end": 866.59,
+      "text": "25% of the time is supposed to be lab time, 25% of the class, rather.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 866.971,
+      "end": 885.673,
+      "text": "And so between osmosis and all of the data that we need to generate and chi-squared and all of these things, standard deviation, all of these labs that we do working toward understanding those numbers, they generate their data, they analyze their data, they graph their data, and working on that is primarily where we use it.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 886.474,
+      "end": 890.359,
+      "text": "But like I tell the kids in my biology class, so much of the state test is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 890.693,
+      "end": 893.655,
+      "text": "reading and understanding what they give you.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 893.675,
+      "end": 895.489,
+      "text": "You don't have to memorize",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 895.975,
+      "end": 902.104,
+      "text": "science facts, you have to be able to read a graph or read a paragraph and pull out the pertinent data.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 902.645,
+      "end": 905.989,
+      "text": "And so it's not just true for the state test, it's true for the ACT.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 906.089,
+      "end": 909.414,
+      "text": "If you take the science portion, it's all reading and comprehension and graph.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 910.195,
+      "end": 916.364,
+      "text": "And so being able to use that is an important tool that I like to try and press on them.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 916.484,
+      "end": 924.075,
+      "text": "And so, especially with the storylines, they've been getting more and more graph reading and literacy and understanding and interpreting these graphs.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 925.439,
+      "end": 932.778,
+      "text": "Yeah, I would, I mean that's just a great compilation of all the things that I feel like is going on in my room.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 933.76,
+      "end": 942.503,
+      "text": "Having that data because we don't, there's just not time to be able to collect all the data and have a robust sort of data set so.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 942.483,
+      "end": 954.539,
+      "text": "Definitely what attracted us to the Chesapeake Bay story was the data that they had that was just, there it is, we can look at it, we can graph it, we can try to make sense of it.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 954.619,
+      "end": 965.153,
+      "text": "So again, going back to that idea of looking at what you have and being able to make sense of it and pull meaning out of it has definitely been our focus.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 967.096,
+      "end": 969.439,
+      "text": "So for me, once again, was not a teacher.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 969.499,
+      "end": 971.562,
+      "text": "However, I think",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 971.626,
+      "end": 978.817,
+      "text": "From what I recall in high school, I had no exposure to anything really with data, doing graphs or anything like that.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 978.857,
+      "end": 988.031,
+      "text": "It was just like definition based the entire time and then just regurgitating the information out on the test and then like expecting good results that way.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 988.392,
+      "end": 993.86,
+      "text": "So I safe to say, I don't recall anything from biology and undergrad or not undergrad and high school.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 994.341,
+      "end": 996.925,
+      "text": "And then I got exposure in college.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 997.613,
+      "end": 1000.236,
+      "text": "became, in my opinion, data-like literate.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1000.436,
+      "end": 1012.79,
+      "text": "I could read it, I could pull information from the paragraph, understand models, and then I got better at it actually this summer, because I worked in an actual carnivore lab and doing all the data stuff, and I got exposure to Excel.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1014.752,
+      "end": 1020.118,
+      "text": "Knowing how formulas work and like that, but unfortunately in high school, no exposure really whatsoever.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1020.439,
+      "end": 1023.402,
+      "text": "And that was eight years ago, I think.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1025.035,
+      "end": 1031.105,
+      "text": "I definitely agree with the time crunch, but I disagree with just using crunched data sets.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 1031.285,
+      "end": 1037.656,
+      "text": "I think part of the kids taking ownership is getting some of that data itself.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 1038.838,
+      "end": 1044.327,
+      "text": "Though when they get their own data, the big problem is them learning how to use whatever",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 1045.673,
+      "end": 1053.541,
+      "text": "data analytic you're using, whether it be data classroom or Google Sheets, getting the kids to learn how to function in that.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 1054.081,
+      "end": 1062.289,
+      "text": "But I think when it's their own data, they have more buy-in, and I like to try to get them doing as much of it themselves.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 1063.791,
+      "end": 1075.242,
+      "text": "We do have a lot of data that we are already given, and we do canned graphs and interpreting graphs, but I like to make sure that I build in labs where they're collecting their own data.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 1076.352,
+      "end": 1079.597,
+      "text": "Well, and the next question, we've kind of covered this at the beginning.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1079.997,
+      "end": 1087.208,
+      "text": "Is there anything that you all want to add about why you decided to participate in Project Credible and what you're hoping to gain?",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1087.889,
+      "end": 1090.873,
+      "text": "So we talked a little bit when you introduced yourself about like why you're here.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1090.913,
+      "end": 1096.521,
+      "text": "Is there anything else you want to add to that about why you chose this and what you hope to get out of it?",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1099.724,
+      "end": 1117.686,
+      "text": "I'd like to get a field experience that I can bring my AP bio students for and like figure out like maybe maybe I can find something around here that we can like work on because as it is I take them for like a three-hour trip to a beaver pond which is you know pretty nice but there's a lot more we could do.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "id": null,
+      "start": 1119.188,
+      "end": 1120.87,
+      "text": "You're in the right place for that.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1121.47,
+      "end": 1127.858,
+      "text": "Yeah I would like to know too if there like with the exotherm ER that we did",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 1128.8,
+      "end": 1140.134,
+      "text": "knowing, like being, I guess being given a project where we could make those frogs, take the temperatures, collect that data, like having something- Contribute to something bigger.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 1140.194,
+      "end": 1141.015,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 1141.876,
+      "end": 1157.454,
+      "text": "And plus that gave, instead of having to spend the time to go out and find all the research, if there's something that could say, hey, we need help with this and help me focus to help my students and say, this is what we need help with.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 1157.495,
+      "end": 1158.756,
+      "text": "Here's what you could do.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "id": null,
+      "start": 1159.529,
+      "end": 1164.438,
+      "text": "And they really liked that that was connected to a larger problem that they were actually contributing to that data.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 1164.538,
+      "end": 1165.52,
+      "text": "They like to contribute.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 1166.382,
+      "end": 1168.265,
+      "text": "They like to feel like what they're doing is meaningful.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 1168.626,
+      "end": 1170.529,
+      "text": "Like citizen science projects.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1170.91,
+      "end": 1171.872,
+      "text": "Yes, exactly.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 1172.413,
+      "end": 1172.853,
+      "text": "Exactly.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 1173.775,
+      "end": 1174.897,
+      "text": "Well, again, right place.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1175.719,
+      "end": 1177.622,
+      "text": "We're in the best place for that, right?",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1178.092,
+      "end": 1183.02,
+      "text": "The last thing I have is a statement on whether you agree or disagree and how you feel about it.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1183.921,
+      "end": 1191.933,
+      "text": "Some people might say that things like place-based learning and data science are nice extras in the science class, but that learning science is really about understanding universal concepts.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1191.993,
+      "end": 1193.255,
+      "text": "How do you feel about that statement?",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1195.599,
+      "end": 1196.64,
+      "text": "I don't think it's extra.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 1196.861,
+      "end": 1202.209,
+      "text": "I think it's part of the universal concepts of science is that idea of",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 1202.813,
+      "end": 1209.912,
+      "text": "What are I mean, none of that other stuff would be there if we weren't collecting any data and working with that data and taking meaning from that data.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "id": null,
+      "start": 1210.593,
+      "end": 1211.817,
+      "text": "Science isn't isolated.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 1212.559,
+      "end": 1213.922,
+      "text": "You need to make connections.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 1213.962,
+      "end": 1217.853,
+      "text": "Science is all about connecting with the natural world and understanding it better.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 1218.013,
+      "end": 1219.557,
+      "text": "I don't think you can separate the two.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "id": null,
+      "start": 1222.996,
+      "end": 1231.429,
+      "text": "I know for me when we would learn things that were like more personal to our area, it like made me feel more connected with the, not just the community, but also like science.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1231.449,
+      "end": 1234.253,
+      "text": "And for me, I was more engaged with my learning.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1234.513,
+      "end": 1236.236,
+      "text": "So like give us something about the Smokies.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1236.256,
+      "end": 1238.68,
+      "text": "I was like, Oh, that's like, I live right there.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1239.1,
+      "end": 1241.884,
+      "text": "Like I just now recently learned about the synchronous fireflies.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1241.904,
+      "end": 1243.186,
+      "text": "I had no clue.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1243.246,
+      "end": 1244.048,
+      "text": "And I'm like, that's cool.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1244.068,
+      "end": 1245.45,
+      "text": "That's like on my doorstep.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1245.47,
+      "end": 1246.371,
+      "text": "So.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1246.351,
+      "end": 1254.722,
+      "text": "like play space learning is something I never really got too much and I think it would be very interesting to learn on how to like do an education matter behind it.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "id": null,
+      "start": 1257.946,
+      "end": 1259.007,
+      "text": "Okay.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1259.027,
+      "end": 1259.888,
+      "text": "Well, thank you.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1260.089,
+      "end": 1261.631,
+      "text": "Is there anything else we want to add?",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1261.671,
+      "end": 1263.032,
+      "text": "That's all I've got for today.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1263.052,
+      "end": 1266.417,
+      "text": "Thank you for taking the time to speak with me today.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1266.437,
+      "end": 1271.403,
+      "text": "The recording and transcript will be kept on the university's Google Drive and will be password protected.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1271.463,
+      "end": 1275.328,
+      "text": "If you have any questions, just feel free to contact me or Dr. Rosenberg.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "id": null,
+      "start": 1276.355,
+      "end": 1278.197,
+      "text": "Thank you Commander Josh.",
+      "speaker": "SPEAKER_03"
+    }
+  ]
+}
