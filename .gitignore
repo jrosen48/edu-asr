@@ -83,3 +83,7 @@ Thumbs.db
 .cache/
 
 scratch/
+
+# Secrets
+hf
+hf/
