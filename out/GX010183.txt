@@ -1,7 +1,0 @@
-
-SPEAKER_01:
-So when you said the link, do we just do the link or do we do the data? All you need is the URL. All you need is 
-SPEAKER_00:
-tells you their location and longitude and latitude. 
-SPEAKER_01:
-Thank you. 

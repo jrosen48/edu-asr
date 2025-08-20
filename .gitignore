@@ -87,3 +87,5 @@ scratch/
 # Secrets
 hf
 hf/
+
+out/
