@@ -91,6 +91,32 @@ def create_parser():
     )
     stats_parser.add_argument("--db", required=True, help="Database file path")
     
+    # CSV export subcommand
+    csv_parser = subparsers.add_parser(
+        "export-csv",
+        help="Export JSON transcripts to CSV format for Excel/Sheets"
+    )
+    csv_parser.add_argument("--output-dir", required=True, help="Directory containing JSON transcript files")
+    csv_parser.add_argument("--force", action="store_true", help="Force overwrite existing CSV files")
+    
+    # Summarize subcommand
+    summarize_parser = subparsers.add_parser(
+        "summarize",
+        help="Generate summaries of transcripts using LM Studio"
+    )
+    summarize_parser.add_argument("--output-dir", required=True, help="Directory containing JSON transcript files")
+    summarize_parser.add_argument("--config", help="Summarizer configuration file (YAML or JSON)")
+    summarize_parser.add_argument("--force", action="store_true", help="Force overwrite existing summaries")
+    summarize_parser.add_argument("--test", action="store_true", help="Test connection to LM Studio")
+    
+    # Collate summaries subcommand
+    collate_parser = subparsers.add_parser(
+        "collate-summaries",
+        help="Collate all summaries into a single markdown file"
+    )
+    collate_parser.add_argument("--output-dir", required=True, help="Directory containing summary files")
+    collate_parser.add_argument("--output-file", help="Output markdown file (default: all_summaries.md)")
+    
     return parser
 
 
@@ -167,6 +193,36 @@ def main():
                 duration = format_time(t['duration_seconds'])
                 print(f"   {i}. {t['filename']} ({duration})")
         return 0
+    
+    elif args.command == "export-csv":
+        from .transcribe_batch import batch_export_csv
+        batch_export_csv(args.output_dir, args.force)
+        return 0
+    
+    elif args.command == "summarize":
+        from .summarizer import batch_summarize, LMStudioSummarizer, load_summarizer_config
+        from pathlib import Path
+        
+        if args.test:
+            # Test connection to LM Studio
+            config = load_summarizer_config(Path(args.config) if args.config else None)
+            summarizer = LMStudioSummarizer(config)
+            if summarizer.test_connection():
+                print("✅ LM Studio connection test successful!")
+                return 0
+            else:
+                print("❌ LM Studio connection test failed!")
+                return 1
+        else:
+            # Run batch summarization
+            batch_summarize(args.output_dir, args.config, args.force)
+            return 0
+    
+    elif args.command == "collate-summaries":
+        from .summarizer import collate_summaries_to_markdown
+        
+        success = collate_summaries_to_markdown(args.output_dir, args.output_file)
+        return 0 if success else 1
     
     return 0
 

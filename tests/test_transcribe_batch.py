@@ -11,7 +11,8 @@ from eduasr.transcribe_batch import (
     load_config, get_disk_free_gb, wait_for_disk_space,
     list_remote_files, sync_single_file, find_local_files,
     is_already_processed, is_already_processed_remote, mark_as_processed,
-    cleanup_file, format_time, format_time_vtt, write_srt, write_vtt, write_txt
+    cleanup_file, format_time, format_time_vtt, write_srt, write_vtt, write_txt,
+    get_hf_token, load_diarization_model, perform_diarization, assign_speakers_to_segments
 )
 
 
@@ -415,3 +416,188 @@ class TestMainFunctionMocking:
                         result = main()
         
         assert result == 0  # Success exit code
+
+
+class TestDiarizationFunctions:
+    """Test diarization functionality."""
+    
+    @patch.dict('os.environ', {'HF_TOKEN': 'test_token'})
+    def test_get_hf_token_from_env(self):
+        """Test getting HF token from environment variable."""
+        config = {'hf_token_env': 'HF_TOKEN'}
+        token = get_hf_token(config)
+        assert token == 'test_token'
+    
+    @patch.dict('os.environ', {}, clear=True)
+    @patch('eduasr.transcribe_batch.Path.home')
+    def test_get_hf_token_from_user_file(self, mock_home, temp_dir):
+        """Test getting HF token from user profile file."""
+        mock_home.return_value = temp_dir
+        
+        # Create .eduasr directory and hf_token file
+        eduasr_dir = temp_dir / '.eduasr'
+        eduasr_dir.mkdir()
+        token_file = eduasr_dir / 'hf_token'
+        token_file.write_text('user_token')
+        
+        config = {}
+        token = get_hf_token(config)
+        assert token == 'user_token'
+    
+    @patch.dict('os.environ', {}, clear=True)
+    @patch('eduasr.transcribe_batch.Path.home')
+    @patch('eduasr.transcribe_batch.Path')
+    def test_get_hf_token_from_local_file(self, mock_path_constructor, mock_home, temp_dir):
+        """Test getting HF token from local project file."""
+        mock_home.return_value = temp_dir / 'nonexistent'  # User file doesn't exist
+        
+        # Mock the local hf file Path construction and methods
+        mock_local_file = Mock()
+        mock_local_file.exists.return_value = True
+        mock_local_file.read_text.return_value = 'local_token'
+        mock_path_constructor.return_value = mock_local_file
+        
+        config = {}
+        token = get_hf_token(config)
+        assert token == 'local_token'
+    
+    @patch.dict('os.environ', {}, clear=True)
+    def test_get_hf_token_none_found(self):
+        """Test when no HF token is found."""
+        config = {}
+        with patch('eduasr.transcribe_batch.Path') as mock_path:
+            mock_path.home.return_value = Path('/nonexistent')
+            mock_path.return_value.exists.return_value = False
+            
+            token = get_hf_token(config)
+            assert token is None
+    
+    @patch('eduasr.transcribe_batch.get_hf_token')
+    def test_load_diarization_model_no_token(self, mock_get_token):
+        """Test diarization model loading without HF token."""
+        mock_get_token.return_value = None
+        
+        config = {}
+        with pytest.raises(RuntimeError, match="Failed to load diarization model"):
+            load_diarization_model(config)
+    
+    @patch('eduasr.transcribe_batch.get_hf_token')
+    @patch('pyannote.audio.Pipeline')
+    def test_load_diarization_model_success(self, mock_pipeline_class, mock_get_token):
+        """Test successful diarization model loading."""
+        mock_get_token.return_value = 'test_token'
+        mock_diarization_pipeline = Mock()
+        mock_pipeline_class.from_pretrained.return_value = mock_diarization_pipeline
+        
+        config = {}
+        result = load_diarization_model(config, device='cpu')
+        
+        assert result == mock_diarization_pipeline
+        mock_pipeline_class.from_pretrained.assert_called_once_with(
+            "pyannote/speaker-diarization-3.1",
+            use_auth_token='test_token'
+        )
+    
+    def test_assign_speakers_to_segments(self):
+        """Test speaker assignment to transcription segments."""
+        transcription_segments = [
+            {'start': 0.0, 'end': 2.0, 'text': 'Hello'},
+            {'start': 2.0, 'end': 4.0, 'text': 'World'},
+            {'start': 4.0, 'end': 6.0, 'text': 'How are you?'}
+        ]
+        
+        speaker_segments = [
+            {'start': 0.0, 'end': 3.0, 'speaker': 'SPEAKER_00'},
+            {'start': 3.0, 'end': 6.0, 'speaker': 'SPEAKER_01'}
+        ]
+        
+        result = assign_speakers_to_segments(transcription_segments, speaker_segments)
+        
+        assert len(result) == 3
+        assert result[0]['speaker'] == 'SPEAKER_00'  # Overlap with first speaker segment
+        assert result[1]['speaker'] == 'SPEAKER_00'  # Still overlaps with first speaker
+        assert result[2]['speaker'] == 'SPEAKER_01'  # Overlaps with second speaker
+        
+        # Verify original data is preserved
+        assert result[0]['text'] == 'Hello'
+        assert result[1]['text'] == 'World'
+        assert result[2]['text'] == 'How are you?'
+    
+    def test_assign_speakers_to_segments_no_overlap(self):
+        """Test speaker assignment when no overlap exists."""
+        transcription_segments = [
+            {'start': 10.0, 'end': 12.0, 'text': 'Isolated segment'}
+        ]
+        
+        speaker_segments = [
+            {'start': 0.0, 'end': 5.0, 'speaker': 'SPEAKER_00'}
+        ]
+        
+        result = assign_speakers_to_segments(transcription_segments, speaker_segments)
+        
+        assert len(result) == 1
+        assert result[0]['speaker'] == 'SPEAKER_UNKNOWN'
+        assert result[0]['text'] == 'Isolated segment'
+
+
+class TestDiarizationOutputFormats:
+    """Test output format writers with diarization."""
+    
+    def test_write_srt_with_speakers(self, temp_dir):
+        """Test SRT file writing with speaker labels."""
+        result = {
+            'segments': [
+                {'start': 0.0, 'end': 2.5, 'text': 'Hello world.', 'speaker': 'SPEAKER_00'},
+                {'start': 2.5, 'end': 5.0, 'text': 'How are you?', 'speaker': 'SPEAKER_01'}
+            ]
+        }
+        
+        srt_file = temp_dir / 'test.srt'
+        write_srt(result, srt_file)
+        
+        content = srt_file.read_text()
+        assert '[SPEAKER_00] Hello world.' in content
+        assert '[SPEAKER_01] How are you?' in content
+    
+    def test_write_vtt_with_speakers(self, temp_dir):
+        """Test VTT file writing with speaker labels."""
+        result = {
+            'segments': [
+                {'start': 0.0, 'end': 2.5, 'text': 'Hello world.', 'speaker': 'SPEAKER_00'},
+                {'start': 2.5, 'end': 5.0, 'text': 'How are you?', 'speaker': 'SPEAKER_01'}
+            ]
+        }
+        
+        vtt_file = temp_dir / 'test.vtt'
+        write_vtt(result, vtt_file)
+        
+        content = vtt_file.read_text()
+        assert content.startswith('WEBVTT\n\n')
+        assert '[SPEAKER_00] Hello world.' in content
+        assert '[SPEAKER_01] How are you?' in content
+    
+    def test_write_txt_with_speakers(self, temp_dir):
+        """Test TXT file writing with speaker changes."""
+        result = {
+            'segments': [
+                {'text': 'Hello there.', 'speaker': 'SPEAKER_00'},
+                {'text': 'More from speaker 0.', 'speaker': 'SPEAKER_00'},
+                {'text': 'Now speaker 1 talks.', 'speaker': 'SPEAKER_01'},
+                {'text': 'Speaker 1 continues.', 'speaker': 'SPEAKER_01'},
+                {'text': 'Back to speaker 0.', 'speaker': 'SPEAKER_00'}
+            ]
+        }
+        
+        txt_file = temp_dir / 'test.txt'
+        write_txt(result, txt_file)
+        
+        content = txt_file.read_text()
+        
+        # Should have speaker labels for each speaker change
+        assert '[SPEAKER_00]' in content
+        assert '[SPEAKER_01]' in content
+        
+        # Should contain all the text
+        assert 'Hello there.' in content
+        assert 'Now speaker 1 talks.' in content
+        assert 'Back to speaker 0.' in content

@@ -148,7 +148,136 @@ def mark_as_processed(audio_file: str, output_dir: str):
     done_file.touch()
 
 
-def transcribe_file(audio_file: str, output_dir: str, config: Dict[str, Any], model, model_a=None, metadata=None) -> Dict[str, Any]:
+def get_hf_token(config: Dict[str, Any]) -> Optional[str]:
+    """Get Hugging Face token from environment or config."""
+    # First try environment variable
+    hf_token_env = config.get('hf_token_env', 'HF_TOKEN')
+    token = os.environ.get(hf_token_env)
+    if token:
+        return token.strip()
+    
+    # Try loading from user profile
+    try:
+        hf_token_file = Path.home() / ".eduasr" / "hf_token"
+        if hf_token_file.exists():
+            token = hf_token_file.read_text().strip()
+            if token:
+                return token
+    except Exception:
+        pass
+    
+    # Try loading from local project file
+    try:
+        local_hf_file = Path("hf")
+        if local_hf_file.exists():
+            token = local_hf_file.read_text().strip()
+            if token:
+                return token
+    except Exception:
+        pass
+    
+    return None
+
+
+def load_diarization_model(config: Dict[str, Any], device: str = "cpu"):
+    """Load pyannote diarization model."""
+    try:
+        from pyannote.audio import Pipeline
+        
+        # Get HF token
+        hf_token = get_hf_token(config)
+        if not hf_token:
+            raise ValueError("Hugging Face token required for diarization. Set HF_TOKEN environment variable or save token to ~/.eduasr/hf_token")
+        
+        print("Loading diarization model...")
+        diarization_pipeline = Pipeline.from_pretrained(
+            "pyannote/speaker-diarization-3.1",
+            use_auth_token=hf_token
+        )
+        
+        # Move to specified device
+        if device != "cpu":
+            try:
+                diarization_pipeline = diarization_pipeline.to(device)
+            except Exception as e:
+                print(f"Warning: Could not move diarization model to {device}, using CPU: {e}")
+                device = "cpu"
+        
+        return diarization_pipeline
+        
+    except ImportError as e:
+        raise ImportError(f"pyannote.audio not available: {e}")
+    except Exception as e:
+        raise RuntimeError(f"Failed to load diarization model: {e}")
+
+
+def perform_diarization(audio_file: str, diarization_pipeline, config: Dict[str, Any]) -> Dict[str, Any]:
+    """Perform speaker diarization on audio file."""
+    try:
+        print("Performing speaker diarization...")
+        
+        # Run diarization
+        diarization = diarization_pipeline(audio_file)
+        
+        # Convert to list of speaker segments
+        speaker_segments = []
+        for turn, _, speaker in diarization.itertracks(yield_label=True):
+            speaker_segments.append({
+                'start': turn.start,
+                'end': turn.end,
+                'speaker': speaker
+            })
+        
+        # Sort by start time
+        speaker_segments.sort(key=lambda x: x['start'])
+        
+        print(f"Found {len(set(seg['speaker'] for seg in speaker_segments))} speakers")
+        
+        return {
+            'segments': speaker_segments,
+            'speakers': list(set(seg['speaker'] for seg in speaker_segments))
+        }
+        
+    except Exception as e:
+        print(f"Warning: Diarization failed: {e}")
+        return {'segments': [], 'speakers': []}
+
+
+def assign_speakers_to_segments(transcription_segments: List[Dict], speaker_segments: List[Dict]) -> List[Dict]:
+    """Assign speakers to transcription segments based on temporal overlap."""
+    result_segments = []
+    
+    for trans_seg in transcription_segments:
+        trans_start = trans_seg['start']
+        trans_end = trans_seg['end']
+        trans_mid = (trans_start + trans_end) / 2
+        
+        # Find the speaker segment that contains the midpoint of the transcription segment
+        assigned_speaker = "SPEAKER_UNKNOWN"
+        best_overlap = 0
+        
+        for speaker_seg in speaker_segments:
+            speaker_start = speaker_seg['start']
+            speaker_end = speaker_seg['end']
+            
+            # Calculate overlap
+            overlap_start = max(trans_start, speaker_start)
+            overlap_end = min(trans_end, speaker_end)
+            overlap_duration = max(0, overlap_end - overlap_start)
+            
+            if overlap_duration > best_overlap:
+                best_overlap = overlap_duration
+                assigned_speaker = speaker_seg['speaker']
+        
+        # Create new segment with speaker information
+        new_segment = trans_seg.copy()
+        new_segment['speaker'] = assigned_speaker
+        result_segments.append(new_segment)
+    
+    return result_segments
+
+
+def transcribe_file(audio_file: str, output_dir: str, config: Dict[str, Any], model, model_a=None, metadata=None, diarization_pipeline=None) -> Dict[str, Any]:
     """Transcribe a single audio file."""
     import whisperx
     
@@ -169,9 +298,21 @@ def transcribe_file(audio_file: str, output_dir: str, config: Dict[str, Any], mo
         result = whisperx.align(result["segments"], model_a, metadata, audio, device="cpu", return_char_alignments=False)
     
     # Diarization if enabled
-    if config.get('diarization', False) and config.get('diarization_backend') == 'pyannote':
-        # This would require additional setup for pyannote models
-        print("Note: Diarization not implemented in this version")
+    if config.get('diarization', False) and config.get('diarization_backend') == 'pyannote' and diarization_pipeline is not None:
+        try:
+            diarization_result = perform_diarization(audio_file, diarization_pipeline, config)
+            if diarization_result['segments']:
+                # Assign speakers to transcription segments
+                result["segments"] = assign_speakers_to_segments(result["segments"], diarization_result['segments'])
+                result["speakers"] = diarization_result['speakers']
+                print(f"Diarization complete: {len(diarization_result['speakers'])} speakers identified")
+            else:
+                print("Warning: Diarization found no speakers")
+        except Exception as e:
+            print(f"Warning: Diarization failed: {e}")
+            # Continue without diarization
+    elif config.get('diarization', False) and diarization_pipeline is None:
+        print("Note: Diarization requested but model not loaded")
     
     # Write outputs
     base_name = audio_path.stem
@@ -208,6 +349,12 @@ def write_srt(result: Dict, output_file: Path):
             start = format_time(segment['start'])
             end = format_time(segment['end'])
             text = segment['text'].strip()
+            
+            # Add speaker label if available
+            if 'speaker' in segment and segment['speaker']:
+                speaker_label = segment['speaker']
+                text = f"[{speaker_label}] {text}"
+            
             f.write(f"{i}\n{start} --> {end}\n{text}\n\n")
 
 
@@ -219,14 +366,57 @@ def write_vtt(result: Dict, output_file: Path):
             start = format_time_vtt(segment['start'])
             end = format_time_vtt(segment['end'])
             text = segment['text'].strip()
+            
+            # Add speaker label if available
+            if 'speaker' in segment and segment['speaker']:
+                speaker_label = segment['speaker']
+                text = f"[{speaker_label}] {text}"
+            
             f.write(f"{start} --> {end}\n{text}\n\n")
 
 
 def write_txt(result: Dict, output_file: Path):
     """Write plain text file."""
     with open(output_file, 'w') as f:
+        current_speaker = None
         for segment in result.get('segments', []):
-            f.write(segment['text'].strip() + ' ')
+            text = segment['text'].strip()
+            
+            # Add speaker label if it changes
+            if 'speaker' in segment and segment['speaker']:
+                if segment['speaker'] != current_speaker:
+                    current_speaker = segment['speaker']
+                    f.write(f"\n\n[{current_speaker}]\n")
+            
+            f.write(text + ' ')
+
+
+def write_csv(result: Dict, output_file: Path):
+    """Write CSV file with timestamps, speaker, and text columns."""
+    import csv
+    
+    with open(output_file, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        
+        # Write header
+        writer.writerow(['start_time', 'end_time', 'speaker', 'text'])
+        
+        # Write segments
+        for segment in result.get('segments', []):
+            start_time = segment.get('start', 0)
+            end_time = segment.get('end', 0)
+            speaker = segment.get('speaker')
+            text = segment.get('text', '').strip()
+            
+            # Handle None values safely
+            if start_time is None:
+                start_time = 0
+            if end_time is None:
+                end_time = 0
+            if speaker is None:
+                speaker = 'N/A'
+            
+            writer.writerow([start_time, end_time, speaker, text])
 
 
 def format_time(seconds: float) -> str:
@@ -243,6 +433,72 @@ def format_time_vtt(seconds: float) -> str:
     minutes = int((seconds % 3600) // 60)
     secs = seconds % 60
     return f"{hours:02d}:{minutes:02d}:{secs:06.3f}"
+
+
+def export_json_to_csv(json_file: Path, csv_file: Path = None):
+    """Export a single JSON transcript file to CSV format."""
+    import json
+    
+    if csv_file is None:
+        csv_file = json_file.with_suffix('.csv')
+    
+    try:
+        with open(json_file, 'r') as f:
+            data = json.load(f)
+        
+        write_csv(data, csv_file)
+        print(f"✅ Exported {json_file.name} -> {csv_file.name}")
+        return True
+        
+    except Exception as e:
+        print(f"❌ Error exporting {json_file.name}: {e}")
+        return False
+
+
+def batch_export_csv(output_dir: str, force: bool = False):
+    """Export all JSON transcript files in a directory to CSV format."""
+    output_path = Path(output_dir)
+    
+    if not output_path.exists():
+        print(f"❌ Output directory '{output_dir}' does not exist")
+        return
+    
+    json_files = list(output_path.glob("*.json"))
+    if not json_files:
+        print(f"❌ No JSON transcript files found in '{output_dir}'")
+        return
+    
+    print(f"🔄 Found {len(json_files)} JSON transcript files")
+    
+    exported_count = 0
+    skipped_count = 0
+    error_count = 0
+    
+    for json_file in json_files:
+        csv_file = json_file.with_suffix('.csv')
+        
+        # Skip if CSV already exists and not forcing
+        if csv_file.exists() and not force:
+            print(f"⏭️  Skipping {json_file.name} (CSV already exists, use --force to overwrite)")
+            skipped_count += 1
+            continue
+        
+        if export_json_to_csv(json_file, csv_file):
+            exported_count += 1
+        else:
+            error_count += 1
+    
+    print(f"\n📊 CSV Export Summary:")
+    print(f"   ✅ Exported: {exported_count}")
+    print(f"   ⏭️  Skipped: {skipped_count}")
+    print(f"   ❌ Errors: {error_count}")
+    
+    if exported_count > 0:
+        print(f"\n💡 CSV files are ready for Excel/Google Sheets with columns:")
+        print(f"   • start_time: Segment start time in seconds")
+        print(f"   • end_time: Segment end time in seconds") 
+        print(f"   • speaker: Speaker ID (N/A if no diarization)")
+        print(f"   • text: Transcript text")
 
 
 def cleanup_file(file_path: str):
@@ -427,6 +683,15 @@ def main():
         except Exception as e:
             print(f"Warning: Could not load alignment model: {e}")
     
+    # Load diarization model if needed
+    diarization_pipeline = None
+    if config.get('diarization', False) and config.get('diarization_backend') == 'pyannote':
+        try:
+            diarization_pipeline = load_diarization_model(config, device)
+        except Exception as e:
+            print(f"Warning: Could not load diarization model: {e}")
+            print("Continuing without diarization...")
+    
     # Process files
     stats = {
         'timestamp': time.strftime('%Y-%m-%d %H:%M:%S'),
@@ -461,7 +726,7 @@ def main():
                 process_file_path = file_ref
                 local_file_path = file_ref
             
-            result = transcribe_file(process_file_path, args.output_dir, config, model, model_a, metadata)
+            result = transcribe_file(process_file_path, args.output_dir, config, model, model_a, metadata, diarization_pipeline)
             
             stats['files_processed'] += 1
             stats['total_duration'] += result['duration']

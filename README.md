@@ -10,7 +10,8 @@ A comprehensive toolkit for transcribing educational audio/video content and per
 - 🗄️ **SQLite database** with full-text search (FTS5)
 - 🔍 **Advanced search capabilities** including keyword-in-context (KWIC)
 - ⏰ **Smart resume** - skips already processed files
-- 💾 **Multiple output formats** - JSON, SRT, VTT, TXT
+- 💾 **Multiple output formats** - JSON, SRT, VTT, TXT, CSV
+- 🤖 **AI summarization** - Generate summaries via LM Studio
 - 📊 **Processing statistics** and progress tracking
 
 ## 🚀 Quick Start
@@ -40,8 +41,7 @@ python -m eduasr.cli transcribe \
 
 **Remote files (SharePoint/OneDrive via rclone):**
 ```bash
-# Set your remote path
-export REMOTE_PATH='General/2025-07-28-2025-07-30-Tremont PD Data/PD Sessions/Video/2025-07-28'
+export REMOTE_PATH='General/2025-07-28-2025-07-30-Tremont PD Data/PD Sessions/Video/2025-07-30'
 
 python -m eduasr.cli transcribe \
   --rclone-remote "mysharepoint" \
@@ -71,12 +71,12 @@ python -m eduasr.cli import \
 # Full-text search
 python -m eduasr.cli search \
   --db "out/edu_asr.sqlite" \
-  --query "student engagement"
+  --query "qualitative"
 
 # Keyword in context analysis
 python -m eduasr.cli kwic \
   --db "out/edu_asr.sqlite" \
-  --query "formative assessment" \
+  --query "data" \
   --context 10
 
 # Database statistics
@@ -84,6 +84,46 @@ python -m eduasr.cli stats --db "out/edu_asr.sqlite"
 
 # List all transcripts
 python -m eduasr.cli list --db "out/edu_asr.sqlite"
+```
+
+### 5. Export to CSV for Excel/Sheets
+
+```bash
+# Export all JSON transcripts to CSV format
+python -m eduasr.cli export-csv \
+  --output-dir "out" \
+  --force  # Optional: overwrite existing CSV files
+```
+
+### 6. Generate AI Summaries (LM Studio)
+
+```bash
+# First, test connection to LM Studio
+python -m eduasr.cli summarize \
+  --test \
+  --output-dir "out" \
+  --config "summarizer_config.yaml"
+
+# Generate 1-3 paragraph summaries for all transcripts
+python -m eduasr.cli summarize \
+  --output-dir "out" \
+  --config "summarizer_config.yaml" \
+  --force  # Optional: overwrite existing summaries
+
+# Collate all summaries into a single markdown document
+python -m eduasr.cli collate-summaries \
+  --output-dir "out" \
+  --output-file "all_summaries.md"  # Optional: custom filename
+```
+
+### 7. Build Static Site
+
+```bash
+python build_static_index.py \
+  --out-dir "./" \
+  --static-dir "./static_site" \
+  --title "Transcript Browser" \
+  --inline
 ```
 
 ## 📖 Detailed Usage
@@ -111,6 +151,9 @@ python -m eduasr.cli transcribe --help
 | `kwic` | Keyword in context analysis | `python -m eduasr.cli kwic --db "db.sqlite" --query "learning"` |
 | `list` | List all transcripts with metadata | `python -m eduasr.cli list --db "db.sqlite" --limit 20` |
 | `stats` | Show database statistics | `python -m eduasr.cli stats --db "db.sqlite"` |
+| `export-csv` | Export JSON transcripts to CSV | `python -m eduasr.cli export-csv --output-dir "out" --force` |
+| `summarize` | Generate AI summaries via LM Studio | `python -m eduasr.cli summarize --output-dir "out" --config "summarizer_config.yaml"` |
+| `collate-summaries` | Collate summaries into markdown | `python -m eduasr.cli collate-summaries --output-dir "out"` |
 
 ### Configuration
 
@@ -153,7 +196,11 @@ edu_asr/
 │   ├── *.srt           # Subtitle files
 │   ├── *.vtt           # WebVTT files
 │   ├── *.txt           # Plain text
+│   ├── *.csv           # Excel/Sheets compatible format
+│   ├── *.summary.json  # AI-generated summaries
 │   ├── *.done          # Processing markers
+│   ├── all_summaries.json  # Batch summary file
+│   ├── all_summaries.md    # Collated markdown summary
 │   ├── run_log.csv     # Processing statistics
 │   └── edu_asr.sqlite  # Search database
 └── eduasr/             # Python module
@@ -266,7 +313,58 @@ python -m eduasr.cli import --transcripts-dir "out/" --db "corpus.sqlite"
 
 # Search across all batches
 python -m eduasr.cli search --db "corpus.sqlite" --query "assessment strategies"
+
+# Export to CSV for qualitative analysis in Excel/Sheets
+python -m eduasr.cli export-csv --output-dir "out"
+
+# Generate AI summaries using LM Studio
+python -m eduasr.cli summarize --output-dir "out" --config "summarizer_config.yaml"
+
+# Create a single markdown document with all summaries
+python -m eduasr.cli collate-summaries --output-dir "out"
 ```
+
+## 🤖 AI Summarization Setup
+
+The summarization feature uses [LM Studio](https://lmstudio.ai/) to generate concise 1-3 paragraph summaries of educational transcripts, similar to Otter AI's meeting summaries.
+
+### Prerequisites
+
+1. **Download and install LM Studio** from https://lmstudio.ai/
+2. **Load a model** - Recommended: Any 3B parameter instruct model (e.g., Phi-3.5-mini-instruct, Qwen2.5-3B-Instruct)
+3. **Start the local server** in LM Studio (Server tab → Start Server)
+
+### Configuration
+
+Edit `summarizer_config.yaml` to match your setup:
+
+```yaml
+summarizer:
+  lm_studio_url: "http://127.0.0.1:1234"  # Default LM Studio URL
+  model_name: "meta-llama-3.1-8b-instruct"               # Adjust to your loaded model
+  max_tokens: 512                         # Summary length
+  temperature: 0.7                        # Creativity (0.0-1.0)
+```
+
+### Usage
+
+```bash
+# Test connection first
+python -m eduasr.cli summarize --test --output-dir "out" --config "summarizer_config.yaml"
+
+# Generate summaries for all transcripts
+python -m eduasr.cli summarize --output-dir "out" --config "summarizer_config.yaml"
+
+# Force regenerate existing summaries
+python -m eduasr.cli summarize --output-dir "out" --config "summarizer_config.yaml" --force
+```
+
+### Output Files
+
+- `*.summary.json` - Individual summary files
+- `all_summaries.json` - Batch summary with metadata
+- `all_summaries.md` - Collated markdown document (use `collate-summaries` command)
+- Each summary focuses on educational content, themes, and key interactions
 
 ## 🛠️ Troubleshooting
 
@@ -292,6 +390,12 @@ python -m eduasr.cli search --db "corpus.sqlite" --query "assessment strategies"
 5. **Search not working**
    - Re-import transcripts: `--force` flag
    - Check database path exists
+
+6. **Summarization not working**
+   - Test LM Studio connection: `python -m eduasr.cli summarize --test --output-dir "out"`
+   - Ensure LM Studio is running and has a model loaded
+   - Check the model name in `summarizer_config.yaml` matches your loaded model
+   - Verify the LM Studio server URL (default: http://localhost:1234)
 
 ## 📊 Output Formats
 
@@ -332,6 +436,65 @@ Welcome to today's lesson
 Simple text output for reading:
 ```
 Welcome to today's lesson. Today we'll explore...
+```
+
+### CSV (Excel/Sheets Compatible)
+Structured data format for analysis in Excel or Google Sheets:
+```csv
+start_time,end_time,speaker,text
+0.5,3.2,SPEAKER_00,"Welcome to today's lesson"
+3.2,6.8,SPEAKER_01,"Thank you for having us"
+6.8,10.5,N/A,"Today we'll explore data analysis"
+```
+
+**Columns:**
+- `start_time`: Segment start time in seconds
+- `end_time`: Segment end time in seconds  
+- `speaker`: Speaker ID (N/A if no diarization)
+- `text`: Transcript text
+
+### Summary JSON (AI-Generated)
+Educational summaries generated by LM Studio:
+```json
+{
+  "file": "/path/to/transcript.json",
+  "filename": "lesson-001.json",
+  "summary": "This educational session focused on data analysis techniques in the classroom. The instructor introduced various methods for students to collect, visualize, and interpret data through hands-on experiments. Key activities included partner-based data collection exercises and collaborative analysis of results.\n\nThe discussion emphasized the importance of student-centered learning approaches, with participants exploring how data literacy can be integrated across different subject areas. The session concluded with strategies for helping students develop critical thinking skills through data interpretation and evidence-based reasoning.",
+  "total_segments": 156,
+  "total_duration_seconds": 1847.3,
+  "speaker_count": 4,
+  "speakers": ["SPEAKER_00", "SPEAKER_01", "SPEAKER_02", "SPEAKER_03"],
+  "generated_at": "2024-01-15 14:30:22"
+}
+```
+
+### Markdown Summary (Collated)
+All summaries combined in a single readable document:
+```markdown
+# Transcript Summaries
+
+*Generated on 2025-08-19 at 11:50:01*
+
+This document contains AI-generated summaries of 8 educational transcripts.
+
+---
+
+## 1. lesson-001
+
+**File:** `lesson-001.json`  
+**Duration:** 30.7 minutes  
+**Segments:** 156  
+**Speakers:** 4 (SPEAKER_00, SPEAKER_01, SPEAKER_02, SPEAKER_03)  
+**Generated:** 2025-01-15 14:30:22  
+
+This educational session focused on data analysis techniques in the classroom. The instructor introduced various methods for students to collect, visualize, and interpret data through hands-on experiments. Key activities included partner-based data collection exercises and collaborative analysis of results.
+
+The discussion emphasized the importance of student-centered learning approaches, with participants exploring how data literacy can be integrated across different subject areas. The session concluded with strategies for helping students develop critical thinking skills through data interpretation and evidence-based reasoning.
+
+---
+
+## 2. lesson-002
+...
 ```
 
 ## 🤝 Contributing

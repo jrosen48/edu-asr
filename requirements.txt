@@ -15,7 +15,11 @@ librosa==0.10.2.post1
 tqdm==4.66.4
 watchdog==4.0.1
 pandas>=2.1
+requests>=2.25.0
 
 # Testing dependencies
 pytest>=7.0.0
 pytest-cov>=4.0.0
+
+# Optional GUI
+streamlit==1.38.0

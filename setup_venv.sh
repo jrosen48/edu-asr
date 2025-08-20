@@ -27,3 +27,6 @@ echo
 echo "Done. Activate the environment with:"
 echo "  source $(pwd)/.venv/bin/activate"
 echo
+echo "To launch the GUI:"
+echo "  streamlit run eduasr/ui_app.py"
+echo

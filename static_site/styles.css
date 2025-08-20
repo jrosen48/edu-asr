@@ -1,0 +1,13 @@
+body{font-family:system-ui,Segoe UI,Arial,sans-serif;margin:0;padding:0;color:#111}
+header{position:sticky;top:0;background:#fff;padding:12px;border-bottom:1px solid #eee;display:flex;gap:8px;align-items:center}
+header h1{font-size:18px;margin:0 8px 0 0}
+main{padding:12px;max-width:1100px}
+table{border-collapse:collapse;width:100%}
+th,td{border-bottom:1px solid #eee;padding:8px;text-align:left}
+code{background:#f6f6f6;padding:2px 4px;border-radius:4px}
+mark{background:#ffe38a}
+#hits, #segList {list-style:none;padding-left:0}
+#hits li, #segList li {padding:6px 0;border-bottom:1px dashed #eee}
+input[type=search]{padding:6px 8px;border:1px solid #ccc;border-radius:6px}
+button{padding:6px 10px;border:1px solid #ccc;border-radius:6px;background:#fafafa;cursor:pointer}
+button:hover{background:#f0f0f0}
