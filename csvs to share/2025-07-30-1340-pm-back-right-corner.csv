@@ -1,0 +1,517 @@
+start_time,end_time,speaker,text
+3.035,24.047,N/A,Before it's pretty good
+32.262,34.054,N/A,Congratulations.
+82.668,86.473,N/A,"So at this point, all we're going to do is do our little presentations."
+86.994,88.536,N/A,So we all made little presentations.
+88.596,90.419,N/A,"Remember, we're all in different places."
+90.499,93.343,N/A,"So our strings are all different, and that's OK."
+93.363,94.184,N/A,That's the whole point.
+94.965,96.908,N/A,So we've got a few that are linked.
+96.928,100.272,N/A,And then we've got one other computer we're going to plug in in just a minute.
+101.173,103.517,N/A,It looks like we're still looking for some nice photos here.
+103.537,105.199,N/A,"Oh, there's a bag."
+165.845,179.309,N/A,"looked at the Simpsons Diversity Index, we were treating our lawn as one site, and we were treating our quadrats as random samples within that one site."
+179.59,185.44,N/A,So if we were to compare the Simpsons Diversity Index of the Tremont Institute
+208.488,213.395,N/A,"For all the groups, we averaged them."
+213.415,215.258,N/A,"We found our standard deviation, our standard error."
+215.859,218.142,N/A,And this is our first one.
+218.162,237.55,N/A,"So if you treat each of our groups as part of the whole, and you just take a look at the lawn as one location, we went with the average as our number of individuals of a species."
+238.947,240.451,N/A,"four or something, I don't remember."
+241.132,242.315,N/A,And so we went with our average.
+242.716,251.497,N/A,"And you take a look here, you can see that these purple bars, these standard deviations, are pretty large because of these little guys."
+253.742,254.965,N/A,So what do we do?
+258.472,270.443,N/A,as outliers and we just filtered through the information from everyone else's because ours was so kind of skewed a little bit.
+270.784,277.811,N/A,So we just took in the average of the other remaining groups and we came up with the Simpsons index of five there.
+278.371,286.639,N/A,"Additionally, we calculated the Simpsons index for just our data as well and we came up with what was it 3.4."
+315.509,342.141,N/A,off kilter and also in addition to that like our know our number count or species count was just relatively high compared to everyone else's so it could have been but because we counted them more individually instead of like clumping them together as a group or cluster so that could have been another measurement of error and so taking a look at this this is something that even my AP students struggle with is throwing out
+342.931,349.56,N/A,"data that, I hate to say bad data, but incongruent data."
+349.941,364.922,N/A,"And so these incongruent points are something that you need to look at, sometimes they're really important, but when you're trying to look at a big data set, throwing out outliers is an important skill."
+364.942,372.432,N/A,"Being able to pick ones that, okay, there's something weird, we need to go back and we need to reassess what's going on here, but for this,"
+378.132,382.857,N/A,"And you can see our standard error, our standard deviation drops way, way down."
+383.998,384.278,N/A,I mean.
+385.439,386.6,N/A,Yeah.
+386.64,387.161,N/A,Before and after.
+387.841,394.888,N/A,"So one thing I want to address real quick, because of the difference in the Simpson's diversity index versus the Simpson's inverse diversity index."
+394.928,398.912,N/A,So we've talked about multiple different formulas that can all be used to get diversity.
+399.112,405.979,N/A,"Krebs and I, and we've just talked with all of everyone, we really want to put together each of these formulas that we use differently."
+424.943,428.822,N/A,"The closer you are to one, the more diverse your system is."
+428.982,429.987,N/A,It compares it to itself.
+430.269,432.439,N/A,"So one is perfect diversity, every individual is."
+468.869,469.565,N/A,going on there.
+469.647,470.712,N/A,So like the middle school.
+508.154,509.811,N/A,Mm-hm.
+595.229,596.491,N/A,That's what I'm remembering.
+596.511,597.132,N/A,This might be off.
+597.152,599.715,N/A,I think that sounds right from when I did my Google search.
+599.735,603.481,N/A,"Like, 0.8 in a solid instance considers good diversity under 0.8, 0.7."
+603.521,604.362,N/A,There is a scale for it.
+604.382,606.465,N/A,You're getting kind of sketchy and under 0.7.
+606.485,608.868,N/A,"You're like, look, there's not a whole lot of diversity here."
+608.888,609.69,N/A,That's helpful.
+609.71,611.252,N/A,I would say there's a whole Google scale.
+611.272,613.395,N/A,"If you Google what does it mean, it'll tell you."
+614.076,614.316,N/A,Sweet.
+614.577,616.219,N/A,Love it.
+616.239,619.464,N/A,"Yeah, I guess just I think those are great next directions."
+620.225,623.329,N/A,It makes me think about different kinds of things
+624.98,635.435,N/A,It's almost different designs for studies where like one design is let's try to just basically describe or estimate a value for something.
+635.455,637.138,N/A,Another is more like correlational.
+637.198,639.241,N/A,Let's see how this relates to this.
+639.261,640.703,N/A,Still another is like a mean difference.
+640.723,642.426,N/A,Like let's see if these two sites are different.
+643.307,643.627,N/A,And so.
+644.509,645.37,N/A,And then like over time.
+645.65,645.951,N/A,Over time.
+646.011,648.314,N/A,And that's what we're talking about with this formula sheet.
+648.374,648.615,N/A,Yeah.
+649.977,651.679,N/A,So I think
+652.317,658.527,N/A,It's interesting to think about for students how they can ask questions with these different kinds of designs and what they can learn from them.
+660.991,668.864,N/A,"Yeah, just emphasizing again, I think the kind of standard deviation here, there's a lot to unpack there, like why are there such differences?"
+669.325,673.752,N/A,"How much do these differences within, or sorry, between the different"
+674.339,697.68,N/A,as it were compared to differences between different sites so kind of like within versus between site variation maybe we can come back at the
+704.309,708.838,N/A,"OK, this will be mine, but the last sentence is messed up."
+708.858,709.359,N/A,"Sorry, Allison."
+709.379,710.622,N/A,Just a quick process note.
+710.642,713.267,N/A,"If you don't mind, I hand off the super fancy lapel mics."
+713.648,717.295,N/A,You can imagine you're on some news.
+718.237,718.919,N/A,I think it'll be OK.
+719.019,719.82,N/A,"Thank you, though."
+719.88,721.804,N/A,"Oh, OK."
+721.945,724.63,N/A,Do I click it on?
+728.93,750.398,N/A,"It's just I'm weak or maybe I'm nervous guys Okay, I might be struggling On that note we accidentally just like glance over the graph and we didn't really like do a"
+751.475,759.002,N/A,"like a check over, so this line will be, I'll change it audibly for you guys, because it's not like updated on the actual presentation."
+759.622,778.68,N/A,"Okay, so we wanted to do the overall ecosystem health at Tremont, obviously that was the overarching question, but we did a branching question, so we updated our question up here, and it is how does the presence of non-native species, which in our case we're gonna do species D, and I did a little"
+779.622,795.336,N/A,Key chart right there and it will be crabgrass and then we compared it to the native species sedge and we just want to see the different like population species or population abundance in the area affects the overall ecosystem in Tremont.
+795.316,805.03,N/A,"We made two graphs, and we emphasized the colors by red as in bad, which is our invasive species, and green as in good, which is our sedge."
+805.731,813.882,N/A,"We did number of quadrants, so the number of the species in the area, or the abundance, and then we did groups."
+814.115,815.598,N/A,This is where this will come into play.
+816.26,822.854,N/A,"Group four was the only one that did not have any of the crabgrass in the area, so that's resembled by zero."
+823.636,832.596,N/A,"Then we have our second graph, and this will be our species, just in general, all combined into it with the number of quadrant."
+833.369,845.37,N/A,"So to answer your question, we suggested that since there's more sedge in the overall areas within all the quadrants that were observed, that it is a relatively healthy system."
+846.447,850.012,N/A,Crabgrass is not too bad for the ecosystem.
+850.032,851.394,N/A,It just can spread like crazy.
+851.955,855.86,N/A,So we just said it was overall relatively healthy.
+856.361,863.671,N/A,"And in this case, the group four was most healthy because it did not have crabgrass in presence."
+863.691,865.654,N/A,That was just us messing up right there.
+868.469,872.053,N/A,"Yeah, that's why we just like hurried and typed it."
+872.353,877.319,N/A,"Yeah, I went to double check on the table chart to make sure you're right and then I was like, okay, this is where we messed up at."
+877.359,879.241,N/A,So that is human error on our part.
+880.102,888.972,N/A,We did not emphasize on any of like the math statistics because Michelle and I just wanted to do like more of a group presentation of the area or at least a visual presentation.
+889.032,891.675,N/A,So we didn't use index in this situation.
+943.242,955.321,N/A,We had a lot of one unnamed species.
+955.661,963.293,N/A,We had a lot of one unidentified species.
+973.702,982.353,N/A,Is there anything from Justin's and Megan's group that could potentially augment the excellent work of Michelle and Allison?
+982.373,989.723,N/A,"There's something out of mind about that second graph that I think could, it relates to this question about the potential outlier."
+989.983,992.427,N/A,"Yeah, standard deviation."
+992.507,997.313,N/A,That's kind of like if you could add a line for the mean.
+998.575,1003.743,N/A,"and the standard deviation, like Megan and Justin had, and it can give you a sense of, so descriptively, it passes the eye test."
+1003.763,1007.929,N/A,It sure looks like there's higher values for the green dots than the red dots.
+1007.949,1010.553,N/A,"But in some ways it's very complex, in other ways it's very simple."
+1010.633,1016.382,N/A,"A mean and standard deviation can help you to kind of interrogate, is there really a difference on average?"
+1052.474,1071.804,N/A,"We had this big question, ecosystem health and free math, and like a lot of science, we have a very narrow question, two species, couple sites, big picture, like science had on, like teacher had on, how much confidence could we really gain from this investigation about some answer to the question of how healthy is the ecosystem here?"
+1071.824,1072.105,N/A,A lot.
+1072.626,1073.066,N/A,Not a lot.
+1073.086,1075.911,N/A,You can't gain a lot of confidence from our data.
+1075.931,1076.171,N/A,None?
+1077.453,1078.034,N/A,None.
+1078.074,1078.515,N/A,None.
+1080.385,1081.867,N/A,we would have to spend a couple weeks.
+1081.968,1084.732,N/A,We were in a very specialized environment.
+1085.333,1087.256,N/A,And only focused.
+1087.536,1090.12,N/A,And we only really focused on the vegetation side.
+1091.062,1097.933,N/A,"It made it a lot easier to collect and analyze the data, but it is not particularly useful data to our question."
+1098.614,1104.483,N/A,"I was kind of thinking about that yesterday with the, I thought, wonderful aquatic lab, where it took so much time to collect six data points."
+1104.563,1107.608,N/A,"And really, it's hard work to collect"
+1115.806,1125.407,N/A,"And that's, I mean, as we know, that's how a lot of science progresses is trying things that don't work and learning and then almost never get it right the first time."
+1125.747,1129.275,N/A,"But I think with the terrestrial data, while it didn't really answer the"
+1134.605,1149.627,N/A,I was thinking one thing about about that like
+1150.484,1167.201,N/A,It could tell us a lot in the terms of we're looking at just a grass lawn area and I'm wondering if like our grass area at school would be like very very few species like I'm wondering if the biodiversity of the spokies kind of took over what was once just somebody planted grass.
+1167.902,1171.966,N/A,I think we're going to find mostly crabgrass at our school grounds.
+1172.026,1172.347,N/A,Right.
+1172.507,1176.711,N/A,And in that sense maybe it is telling like it could maybe tell on that end.
+1193.448,1198.46,N/A,"And one more thing about the water data, you could totally just test water."
+1198.921,1201.407,N/A,You could bring in creek data and do it.
+1201.507,1207.862,N/A,"So even though we don't have this, you still could bring in water samples and test different things if that was something."
+1214.812,1241.832,N/A,Who is now the micro microphone
+1248.612,1251.678,N/A,"Hey, this is a lot harder to put on yourself."
+1252.96,1266.965,N/A,You want to start or you want me to start?
+1268.288,1268.528,N/A,Me.
+1270.077,1276.947,N/A,"All right, so we decided to kind of dictate what we were going to look at like they did as well."
+1278.028,1288.784,N/A,"So we wanted to know which is a more healthy population, an edge or a non-edge population, because I remembered Michelle talking about how she had moved her fool hoop over to the edge."
+1289.445,1298.177,N/A,"So we used just Michelle and Allison's data, and then we ended up using mine and Caleb."
+1298.157,1298.558,N/A,Right?
+1299.138,1301.502,N/A,"Yay, Kayla's data."
+1302.002,1304.326,N/A,"Sorry, I've been working with you all weekend."
+1305.087,1312.657,N/A,"Anyway, so we were the non-edge, and then this was the edge population."
+1313.739,1317.684,N/A,And then so we did a couple of bar graphs for each species.
+1318.285,1321.309,N/A,And then we did the Shannon diversity index that we were introduced to.
+1321.349,1323.032,N/A,And do you want to?
+1323.052,1324.013,N/A,So the first part we just talked
+1335.451,1346.608,N/A,And so we're looking at it and just comparing the two and they're actually very
+1389.738,1399.072,N/A,"So the non-edge, we didn't have anything that was unidentified."
+1399.252,1402.417,N/A,"And then on this one, there was 14 species."
+1402.497,1410.049,N/A,"So if we had had numbers for each individual 14 species, then we could have really drilled down the Simpson diversity."
+1410.069,1414.075,N/A,And it probably would have even been a bigger gap between the two.
+1427.015,1429.238,N/A,to the environmental science perspective.
+1429.258,1434.707,N/A,So AP environmental science does talk about edge habitat in their environment.
+1434.827,1440.836,N/A,"So this would actually align with what they say, that the edge environments have more diversity."
+1440.936,1442.359,N/A,I'm always awful at edge.
+1443.761,1444.682,N/A,Thanks.
+1444.782,1446.245,N/A,There you go.
+1446.265,1449.59,N/A,Now you can throw a hula hoop over on an edge piece of your property.
+1449.77,1454.237,N/A,I would struggle with that one.
+1455.668,1456.289,N/A,Just the one.
+1456.469,1457.67,N/A,You're way ahead of the game then.
+1466.5,1467.321,N/A,Questions?
+1467.341,1472.747,N/A,"It's a little bit abstract of a question, but how can we know for sure that that difference is a meaningful point?"
+1472.767,1473.227,N/A,Not for sure.
+1473.267,1474.368,N/A,That's not the game we're playing.
+1474.388,1478.573,N/A,"How can we have confidence that this difference is a, or how can we, yeah."
+1478.833,1479.634,N/A,Standard errors.
+1480.745,1482.913,N/A,But I'm struggling with that because it's a statistic.
+1482.933,1485.182,N/A,"I mean, yeah, that's where my head's at."
+1486.025,1487.411,N/A,"There's a difference, you know?"
+1487.431,1489.86,N/A,"3.66, it looks like a difference in the description."
+1528.028,1529.062,N/A,So let's say...
+1570.823,1586.335,N/A,like to see the percent difference between the two or something like that yeah I don't I that's what I was thinking but I don't know if those numbers lend themselves to percent I don't know
+1599.224,1628.961,N/A,But I don't know if that meat has I don't know if the math would math
+1640.872,1659.992,N/A,That's what I'm saying.
+1660.012,1665.057,N/A,"I'm not sure that that would lend itself to just a percent difference, a simple percent difference."
+1669.542,1670.625,N/A,That might be a weakness.
+1670.665,1672.81,N/A,"Yeah, that's definitely a downfall."
+1673.632,1677.861,N/A,"So yeah, remapping and different formulas, I think."
+1677.881,1679.445,N/A,That's my.
+1679.465,1685.88,N/A,"Yeah, that's a that's a good point and great response to about it makes me think there's some."
+1693.302,1694.667,N/A,It's actually not that crazy.
+1695.088,1696.373,N/A,Darren Simpson created this one.
+1696.674,1701.069,N/A,"I'm just curious, what is a high school or middle school student?"
+1701.45,1706.046,N/A,They did very basic stuff where they would have a number line and they would
+1719.475,1724.581,N/A,"3.8 meters, whatever it is, you know, on a number line, maybe you decide what the intervals are."
+1724.962,1733.051,N/A,Teacher had a really big head.
+1733.071,1733.672,N/A,Yeah.
+1734.273,1737.256,N/A,"The question being, like, how do you summarize this data?"
+1737.276,1744.485,N/A,"And kids would say things like, well, the numbers are kind of clumping up here in the middle, which is, like, another way of saying, like, the mode for the meter."
+1744.505,1744.605,N/A,Yeah.
+1782.031,1788.781,N/A,"I was saying instead of making up your own statistics, you also have kids make up their own data visualizations to represent data."
+1790.904,1796.593,N/A,It sounded pretty cool when you said data vis.
+1796.613,1796.913,N/A,I know.
+1797.174,1800.158,N/A,It's cool.
+1834.445,1857.533,N/A,"He wasn't looking he was looking pretty piqued yesterday, too So when Knox County Science Department just goes down we'll know why"
+1865.478,1873.33,N/A,"Here's to your other thoughts on this, but I think this is where that axiom of all models are wrong, but some are useful, which is really profound."
+1873.911,1875.453,N/A,There's not a best one.
+1875.593,1880.42,N/A,Often there's a trade-off between the sophistication of the statistic.
+1880.461,1886.61,N/A,"Right, like a perfect model is not useful because it is the thing itself."
+1886.89,1889.394,N/A,"No one can understand it, versus a really simple statistic."
+1889.414,1893.14,N/A,"I keep coming back to it, I love it, the mean, it's a great stat, average, you're counting stuff up."
+1893.16,1894.101,N/A,Those are statistics too.
+1896.089,1900.176,N/A,So it's like a continuum where maybe Simpson's sort of in between.
+1978.523,1984.09,N/A,"So this, when we were downstairs, this is kind of how the whole discussion got started."
+1986.753,1990.738,N/A,"Actually, it was the slide before."
+1990.758,1997.948,N/A,"Okay, so we're looking at biodiversity to answer the original question of how healthy is this ecosystem?"
+2000.771,2002.253,N/A,And so we're introduced to this
+2004.477,2020.613,N/A,"And then we were given a sample set that really had nothing to do with any information we collected, but when we went in and used this formula with this pretend data, we found"
+2031.308,2046.484,N/A,"Anyway, we found out that this column had the index of a 3.35, which, like you all said, if you don't have anything to compare it to, 3.35 is meaningless."
+2047.745,2052.19,N/A,"But if you compare it to this data set B, it showed a 4.1."
+2052.37,2060.539,N/A,"So I was looking at this and thinking, well, the first thing I noticed is this column has more richness."
+2064.957,2082.335,N/A,"us to our question of rewording the question as, well, using this formula, is the evenness going to always have a higher biodiversity sentence count?"
+2083.376,2093.547,N/A,"Our hypothesis was, using the index, that yes, the more even populations would always have a higher count."
+2102.47,2108.898,N/A,"So we see the different groups, we used all the group data, and then I percentage the evenness."
+2108.918,2113.804,N/A,"So you can see the percentage in group one, species A was only two percent of the population, right?"
+2113.824,2118.469,N/A,So you can kind of see the percentages as a number instead of just looking at the numbers themselves.
+2119.751,2123.095,N/A,And then I put the Simpsons diversity in between those two.
+2138.65,2146.701,N/A,"back here is because if you were like, well, I can't see all that data together, well, now you can see this one had less richness, right?"
+2147.121,2155.893,N/A,"And that was our score here, whereas like this one, not necessarily as even, but it had much higher indices."
+2155.913,2157.816,N/A,So that was our major question.
+2158.537,2160.92,N/A,And we found we had to reject our hypothesis.
+2160.94,2163.223,N/A,We could find a correlation.
+2172.417,2175.921,N/A,More even wouldn't calculate a higher diversity index.
+2176.361,2186.732,N/A,"So I was going with the numbers she originally gave, which showed us that the even, the area that had more evenness had a higher biodiversity index."
+2188.174,2190.176,N/A,Then go back to your table.
+2190.516,2196.182,N/A,"Because we were like, because in my student mind, I'm like, well, that one's more biodiverse because it's got more richness."
+2196.202,2196.703,N/A,It's got more diversity.
+2201.813,2203.976,N/A,And kids want to kind of come up with a pattern.
+2203.996,2208.021,N/A,"So I could see them going, oh, look, that one's even, and it's always going to be higher if it's even."
+2208.101,2211.285,N/A,"And then all of a sudden, so now you're proving, hey, you can't just say something."
+2211.305,2214.69,N/A,"Yeah, you can't just say, yeah, because of this is what I'm looking at."
+2214.75,2216.632,N/A,"It's not necessarily about the first, right?"
+2216.793,2217.033,N/A,Right.
+2217.233,2219.276,N/A,And so right here?
+2219.796,2221.899,N/A,Yeah.
+2221.919,2223.241,N/A,Yeah.
+2223.261,2224.903,N/A,"And again, this is percentage."
+2224.923,2227.146,N/A,I'm really focusing on group two with their two point whatever.
+2249.485,2255.061,N/A,"And you're telling me the higher the number, the more biodiverse, but I don't know."
+2255.101,2263.866,N/A,"Then I started digging and it says basically, cause I've used the Shannon index too, but Shannon index really focuses and allows you to elaborate"
+2277.278,2279.5,N/A,So it's a really weird dynamic.
+2279.54,2282.643,N/A,And I don't know if I could explain that effectively to my kids.
+2283.784,2284.004,N/A,Yeah.
+2284.725,2286.387,N/A,So it just kind of led me down a rabbit hole.
+2286.847,2286.947,N/A,Yeah.
+2286.967,2287.588,N/A,That's what it did.
+2287.648,2291.011,N/A,"No, I absolutely, like, I asked that same question when we were looking at it."
+2291.452,2292.753,N/A,"And I just kind of like, I don't have time."
+2293.494,2293.894,N/A,Yeah.
+2293.914,2297.898,N/A,"Like, I thought, I wondered about the same, nearly the exact same thing."
+2298.238,2300.74,N/A,Yeah.
+2300.76,2301.842,N/A,But then I got distracted by it.
+2302.122,2303.223,N/A,Then I got distracted by ours.
+2303.463,2305.245,N/A,So this is where we were at.
+2305.385,2306.526,N/A,And that's why I included it.
+2328.983,2337.212,N/A,"versus our Simpsons diversity, but if I put those two together, it makes no sense on a graph, because it doesn't make sense."
+2337.232,2338.974,N/A,Which led us into another rabbit hole.
+2339.074,2339.835,N/A,Lots of rabbit holes.
+2339.915,2354.991,N/A,"What exactly is biodiversity, because we've got to look at ecosystem diversity, genetic diversity, and then the evenness aspect of diversity, and what really is biodiversity, and what are these different formulas"
+2408.347,2431.772,N/A,"In talking with Audrey, we all agree that ours looks very different than what high school"
+2433.743,2445.836,N/A,So we stuck with the original essential question and we originally had said it's pretty healthy because of the observable diversity in plants and animals in the area.
+2445.856,2460.713,N/A,"And that allowed for our confidence level in Tremont to be one that we felt was a healthy ecosystem that had a good elevated level based on the research, the data, and what we have presented."
+2462.279,2471.49,N/A,So it would be harder for us to teach at the fifth and sixth grade specifically level how to incorporate all of these other ideas.
+2471.57,2482.684,N/A,"So in sticking with the numbers that we were given, they're still using data, they're still processing it, they're still analyzing it, and then being able to figure out what their confidence level is once they reach a conclusion."
+2491.017,2499.933,N/A,"Right, because this would at least prepare them for the Sipson index and other ones once they got past eighth grade and went into high school."
+2499.953,2511.773,N/A,"But at this current point in middle school, or even fifth grade, going as in-depth as high school did, they would probably check out each grade."
+2511.793,2516.181,N/A,But we did come up with a rubric for their presentation.
+2522.827,2535.865,N/A,"To that point, my sixth graders don't learn about x and y coordinates or x and y axes until mid spring semester unknown."
+2535.925,2545.619,N/A,So a lot of the things that we would do with them with data would be bar graphs and histograms and pictograms pie charts where it's like they learn about decimals and percentages.
+2545.739,2551.247,N/A,So it would be developmentally appropriate for them to know like percent out of 100 or to look at different
+2553.337,2565.81,N/A,But I really like how y'all did this and built to your students' strengths and what you know they can do and really to work on those thinking skills.
+2565.83,2568.933,N/A,"I really like you, Ruger, because we absolutely completely forgot to do it."
+2569.834,2572.416,N/A,We ran out of time.
+2572.597,2574.298,N/A,We ran out of time.
+2574.318,2575.62,N/A,We forgot to do it.
+2576.541,2577.261,N/A,I have a question.
+2578.042,2582.787,N/A,"So the math that I did with all my high schoolers, this was all between three and four."
+2583.188,2585.676,N/A,What's up with y'all's?
+2586.118,2591.174,N/A,What's up with our math?
+2591.194,2592.017,N/A,That's right.
+2613.175,2624.181,N/A,She's not happy.
+2629.207,2631.41,N/A,"Unit, the reciprocal index."
+2631.43,2634.053,N/A,"Yeah, they did the one minus the sum."
+2634.794,2634.934,N/A,Yeah.
+2634.955,2640.782,N/A,"OK, so at the beginning, we discussed how the one that I taught you guys is not helpful unless there's a comparing plot."
+2640.862,2641.723,N/A,Look at all their numbers.
+2641.783,2645.608,N/A,So which site is even close to 0.8?
+2645.628,2646.47,N/A,6.
+2647.811,2648.933,N/A,"Which, whose was 6?"
+2649.614,2650.114,N/A,The edge.
+2650.475,2650.915,N/A,The edge.
+2651.596,2652.177,N/A,We were 4.
+2652.377,2655.461,N/A,"No, yeah, edge was 4."
+2655.521,2656.783,N/A,Who was 6?
+2659.092,2673.12,N/A,"We didn't get as many samples as everyone else, though."
+2673.341,2676.848,N/A,"We had mostly F, which was other species."
+2689.467,2712.825,N/A,Don't go away.
+2714.527,2725.957,N/A,"So let me say like exactly what so I like that when you go to the Internet and it says like Simpsons diversity index, right?"
+2726.137,2744.533,N/A,"What it's actually doing I believe is the embers because I had a kid last year in his I a big lab report that came in with all these numbers and I was like, well, where where'd you get these and then I made him do all this is indexed by hand but then I so I think that what I've been doing is perhaps not the most valuable and"
+2744.513,2747.196,N/A,I think Simpson's inverse seems like the way to go.
+2747.236,2749.819,N/A,Those three-point whatevers are good.
+2751.341,2754.544,N/A,Kids can identify with them better.
+2754.664,2755.565,N/A,They're better integers.
+2755.585,2757.207,N/A,Their whole numbers are not decimals.
+2757.227,2760.931,N/A,They're better integers than numbers between 0 and 1.
+2761.952,2768.179,N/A,"Whereas I think for middle school, though, it might be better because it'll fit into the hundreds percent thing."
+2768.199,2771.303,N/A,It's actually ready to handle this.
+2771.323,2772.524,N/A,I like it.
+2772.544,2774.166,N/A,"So once again, I always still need to come up"
+2778.179,2778.84,N/A,I'm feeling that.
+2778.92,2780.303,N/A,I think I'm going to switch to.
+2780.784,2784.971,N/A,Just to grab a little bit.
+2785.892,2786.814,N/A,Jen's class.
+2786.974,2788.457,N/A,I just closed the spreadsheet.
+2788.477,2797.072,N/A,"Jen's class, I took her, I still have her data and it's linked actually in your slideshow on the day three Simpson slideshow."
+2797.733,2802.682,N/A,"But this is iNaturalist data that we exported and then we had to count like the amount, right?"
+2802.702,2803.343,N/A,And so this is just
+2806.529,2810.895,N/A,And we calculated our biodiversity in our school yard.
+2811.356,2812.017,N/A,It's so good.
+2812.677,2813.479,N/A,And I didn't know it.
+2813.619,2815.742,N/A,I literally learned this today.
+2815.762,2816.923,N/A,I had no idea.
+2817.344,2819.907,N/A,So I've learned so much from this session.
+2819.947,2820.548,N/A,Look at that.
+2821.51,2822.17,N/A,Great job.
+2822.251,2823.452,N/A,Very cool.
+2823.472,2824.494,N/A,That is high biodiversity.
+2824.614,2827.398,N/A,I learned something if no one else did.
+2827.518,2832.064,N/A,"I would also say this is over a long, this is over years of gathering data."
+2833.917,2852.55,N/A,"No, I think that's a great way to compare today's data versus..."
+2863.853,2866.376,N/A,fragile environment.
+2867.117,2872.043,N/A,How would the numbers look like and how the environment look like?
+2872.063,2875.327,N/A,Should they look like gray or dark?
+2875.587,2891.667,N/A,"And Cody had a neat idea also that would go really well with our bio units, where he was like, what if we gave the kids examples of ecosystems and then gave them the biodiversity index and had them match from most to least, which"
+2896.827,2898.67,N/A,not necessarily like your desert.
+2925.751,2935.17,N/A,And we're gonna pass it over
+2980.105,2980.686,N/A,Oh.
+2981.147,2991.853,N/A,"Oh, that was smart."
+3036.822,3042.568,N/A,over there died so I'm not sure which of these is actually still recording.
+3043.108,3062.627,N/A,"That's what I'm just putting all of them right here because I don't know what's... All right, okay there's a lot here, sorry, but each one of these will be like a minute except for"
+3064.345,3065.67,N/A,"Really, all of them will be about a minute."
+3065.73,3066.835,N/A,So we'll fly through here.
+3066.855,3066.995,N/A,OK.
+3067.799,3071.252,N/A,"So first things first, we have lots more pictures coming."
+3071.272,3072.618,N/A,I want to share just a few from yesterday.
+3072.638,3073.461,N/A,I really love.
+3087.953,3096.574,N/A,"And I thought this one was funny because, you know, our group photo, I felt like it's like basically perfect, except, sorry, Vincent, your head was a little cut off."
+3096.954,3105.996,N/A,"And so I was happy to see we got like 15 pictures at the waterfall, and in every one of them, Justin's head was cut off."
+3117.923,3119.605,N/A,I don't watch movies.
+3119.906,3121.608,N/A,All right.
+3122.289,3122.89,N/A,Monsters Inc.
+3124.071,3124.332,N/A,Noted.
+3124.552,3125.674,N/A,Billy Crystal.
+3126.014,3127.296,N/A,Billy Crystal's in it.
+3127.316,3128.017,N/A,All right.
+3128.217,3128.918,N/A,"Oh, I was wondering."
+3128.938,3129.599,N/A,I saw yours earlier.
+3129.619,3129.819,N/A,All right.
+3129.839,3130.5,N/A,I'm going to make a note.
+3130.56,3131.742,N/A,"Seriously, I'm going to do it."
+3131.762,3133.725,N/A,All right.
+3133.865,3136.388,N/A,My family gives me grief for not watching movies.
+3136.408,3139.132,N/A,My wife and son actually.
+3139.212,3144.319,N/A,That is awesome.
+3147.067,3148.809,N/A,"Thank you all, again, very much."
+3148.869,3153.614,N/A,"Just wanted to say that this was actually, it's funny, because it's not funny."
+3153.654,3154.214,N/A,David's sick.
+3154.294,3154.975,N/A,We all love David.
+3155.556,3156.236,N/A,He's not feeling well.
+3156.437,3158.699,N/A,"His exit ticket note, it was just very brief."
+3158.719,3161.021,N/A,"And it was just like, his feedback was tired, hot."
+3162.143,3163.804,N/A,So I think the writing was on the wall.
+3163.864,3165.286,N/A,David was going downhill.
+3166.287,3167.448,N/A,But there were several others.
+3167.468,3168.189,N/A,I'm sure he should be driving.
+3168.469,3169.27,N/A,I know.
+3169.37,3171.252,N/A,We should look out for David.
+3173.459,3173.979,N/A,"Oh, no."
+3174.22,3179.204,N/A,I was wondering that when you mentioned him stealing people's water at the different checkpoints.
+3179.224,3181.286,N/A,He was just pouring it into his mouth.
+3181.306,3183.889,N/A,I don't think there was any contact with his facial region.
+3184.129,3184.97,N/A,That's important.
+3185.19,3189.834,N/A,"Yeah, I sprayed him from my mouth."
+3189.854,3191.136,N/A,"Yeah, thank you."
+3191.176,3195.84,N/A,I also want to take this as a chance to thank Cody's Not Here.
+3195.88,3201.205,N/A,"Thank you, Kim."
+3202.467,3205.27,N/A,"Kim, I should mention, is a post-doctor at UTK."
+3205.55,3208.172,N/A,And she is volunteering here.
+3208.192,3210.074,N/A,I mentioned on the first day some people are volunteering.
+3210.114,3214.458,N/A,And I hope it's a beneficial experience.
+3214.479,3220.064,N/A,"But just a special thank you to Kim for all the time you spent on the data collection, conversations, just your presence here."
+3220.304,3223.067,N/A,"The hats, did you bring the hats to the fire last night?"
+3223.087,3223.307,N/A,"Oh, I did."
+3223.327,3228.912,N/A,We were just sitting around waiting for you for about an hour and a half.
+3228.932,3231.715,N/A,"Yeah, we had a rather good time."
+3234.547,3239.455,N/A,I had a blast.
+3239.535,3249.972,N/A,Learning from and with y'all has been jam-packed with so many cool thoughts and so many aha moments for me.
+3249.992,3255.0,N/A,"Also, Kim drove from Memphis."
+3255.02,3256.843,N/A,Kim drove from Memphis.
+3256.863,3256.943,N/A,Wow.
+3262.357,3268.806,N/A,"Thank you, Jen."
+3269.847,3272.631,N/A,Jen is also volunteering this project.
+3272.651,3279.621,N/A,"And again, I hope it's beneficial, but yeah, we're really incredibly lucky."
+3279.721,3285.749,N/A,"Thank you, Jen, for all of your insights, all of your work on the research and data collection and making this happen, all the programming as well."
+3285.769,3287.332,N/A,Couldn't have done it without you.
+3287.352,3288.053,N/A,"Thank you, Cody."
+3288.814,3291.958,N/A,Cody is the glue of Project Credo.
+3292.208,3294.812,N/A,Cody kind of does everything and makes everything work.
+3295.854,3300.562,N/A,Except for the Google Drive folder.
+3300.582,3303.006,N/A,I'll work on that.
+3303.026,3305.45,N/A,Cody's actually been involved with the project since it started two years ago.
+3305.71,3306.471,N/A,Almost exactly.
+3306.531,3307.353,N/A,"Wow, within a day."
+3307.713,3308.254,N/A,How funny.
+3308.274,3311.92,N/A,It started two years ago on August 1st.
+3311.94,3313.002,N/A,First year was kind of prepping last year.
+3324.98,3329.326,N/A,"Amanda, as you heard, is moving to a postdoc at Vanderbilt, which is great."
+3329.346,3333.652,N/A,And she's also teaching for Anita back in the airport right now.
+3334.073,3337.037,N/A,And I'm forgetting someone.
+3338.159,3339.441,N/A,There's five of us here.
+3339.561,3340.482,N/A,"Oh, me."
+3340.502,3341.523,N/A,I was thinking five people.
+3341.544,3343.266,N/A,"Thank you, John."
+3343.326,3344.107,N/A,"No, no, no."
+3344.127,3344.568,N/A,"Oh, thank you."
+3344.588,3346.611,N/A,That was not intentional.
+3346.731,3347.572,N/A,And Leah.
+3347.592,3348.353,N/A,"Leah, thank you."
+3348.794,3349.655,N/A,"Thank you, Jen, for the reminder."
+3349.775,3354.582,N/A,"Leah, who's been sending emails, is a"
+3355.608,3356.791,N/A,increasingly a big part of the project.
+3356.811,3357.894,N/A,She just joined a few months ago.
+3358.114,3360.36,N/A,She's based in Wisconsin.
+3360.38,3364.23,N/A,"And so we've kind of been joking that she's in Project Credible Command Center, and we're here in the field."
+3364.25,3365.533,N/A,She's been helping coordinate these lines.
+3378.862,3386.712,N/A,"We were joking, Cody, that I was looking at the exit ticket response and Davis was just like, tired, hot."
+3411.127,3416.556,N/A,"So, we mentioned that the plan is like, just a reminder, sorry to talk."
+3417.377,3422.124,N/A,"You'll receive $40 right after this, and then $300 at the end of the fall, and then another $300 in the spring."
+3422.385,3423.386,N/A,Hope you're involved in future years.
+3423.427,3425.69,N/A,We'll talk about that and press that bridge later.
+3426.752,3429.817,N/A,"You should have an email from a Sarah Martis, I believe."
+3429.837,3430.117,N/A,Maybe not.
+3430.237,3431.92,N/A,"No, I'm not saying any nodding heads."
+3432.44,3434.023,N/A,"Maybe later today, you should see one scene."
+3434.504,3435.827,N/A,"It's a brief, a short form."
+3436.028,3437.892,N/A,I've never heard anyone say it's hard to fill out.
+3438.814,3441.96,N/A,Our returning teachers and our teacher leaders have already done this.
+3442.101,3443.003,N/A,It takes just a minute or two.
+3443.043,3443.424,N/A,It's a form.
+3443.444,3443.985,N/A,You send it back.
+3444.446,3447.152,N/A,And then we'll keep checking in on the logistics.
+3447.192,3448.795,N/A,It's important to us to make sure that you're paid.
+3463.962,3470.952,N/A,It's funny because it's one of those things where I've never seen it from your side.
+3518.452,3536.072,N/A,balance every dollar I spend in one of those little ledgers.
+3540.322,3544.826,N/A,"for many reasons, mostly wanting to be here and to grow and be part of a community."
+3545.426,3549.87,N/A,"And also it's important to get paid, so yeah, please don't hesitate to ask."
+3551.372,3554.454,N/A,"Okay, next, I said one minute, I'm going slow."
+3556.916,3565.564,N/A,"We will send out calendar invites soon, as soon as tomorrow or Friday, for hold the dates on these dates, three of them."
+3568.206,3570.328,N/A,We know that these will not work for everybody.
+3575.692,3580.581,N/A,"We hope you join all three, and we're going to try to make it a good deal for you."
+3580.922,3583.086,N/A,I mentioned ice cream to some of you when we were recruiting you.
+3583.767,3586.292,N/A,I was promised ice cream.
+3586.312,3586.392,N/A,Yes.
+3586.492,3587.594,N/A,"I remember your response, Justin."
+3587.614,3588.295,N/A,Very important.
+3588.356,3589.698,N/A,So we're going to be held to that.
+3590.52,3591.361,N/A,You can't hold us to it.
+3591.662,3593.064,N/A,We'll try to make these at fun locations.
+3593.104,3596.13,N/A,We'll try to make some of them locations where you can even bring families.
+3613.964,3615.306,N/A,If you want to be in a trim.
+3615.706,3616.507,N/A,We can come back to trim.
+3616.547,3617.028,N/A,That's an option.
+3617.048,3618.81,N/A,So we're still figuring out logistics.
+3619.05,3620.271,N/A,That's funny though.
+3620.772,3623.255,N/A,"It's a bit of a drive, but it is an option to be pretty in the park then."
+3623.295,3626.198,N/A,"So yeah, we'll try to do our best to make this community look pretty."
+3626.418,3628.401,N/A,I think we might figure it out.
+3630.723,3631.704,N/A,"Oh, teacher escape."
+3631.724,3634.628,N/A,"Yeah, you're welcome to join that."
+3635.489,3635.889,N/A,Do you mind?
+3636.249,3637.291,N/A,Which day is that?
+3637.571,3638.933,N/A,20th and 21st.
+3638.953,3641.676,N/A,"Oh, that's not, okay."
+3642.176,3643.718,N/A,Everyone will be at.
+3643.833,3647.084,N/A,"How funny, yeah."
+3647.164,3650.616,N/A,"Okay, so let's put a little asterisk here."
+3651.137,3651.719,N/A,It sounds like that.
+3652.743,3654.99,N/A,So I think what these were were the statistics.
+3660.775,3665.98,N/A,"there were a lot of people who could, so we might need to fiddle with this, and maybe even it's not on a Saturday, so we'll put a pin in that."
+3666.761,3670.705,N/A,"Jen, or Ali, do you mind sending the teacher escape information around?"
+3670.765,3675.29,N/A,"This is totally optional, but that is free or very low cost, if you're interested."
+3675.43,3676.571,N/A,It's not related to the project.
+3676.591,3678.673,N/A,"I think it's like $94 to $10, but."
+3678.693,3680.335,N/A,"Okay, it's not really, it's medium cost."
+3680.355,3680.515,N/A,Yeah.
+3681.776,3686.041,N/A,But if Project Crowdable could.
+3686.061,3690.225,N/A,"It's well worth it, and you meet people,"
+3707.603,3712.23,N/A,"So yeah, and we're not gonna be heavy-handed about, well, maybe a little heavy."
+3712.43,3714.012,N/A,"If you miss one of these, it's totally okay."
+3714.773,3716.376,N/A,"If you miss two out of three, it will be tough."
+3716.396,3722.244,N/A,"We're not gonna be too heavy-handed about it, but if you can try and make every effort, these will be really important."
+3722.585,3726.711,N/A,"We'll try to give you something and lunch each time, so I don't know, some kind of something."
+3728.353,3729.454,N/A,"Sorry, that's not why you're here again."
+3729.475,3730.656,N/A,Maybe we call that a reinforcer.
+3730.836,3733.18,N/A,"Okay, there we go, positive, yeah."
+3733.2,3735.383,N/A,"There we go, a little Thorndyke action."
+3755.073,3763.034,N/A,I feel like we can organize something to gather the kids together to do something while teachers are working.
+3763.936,3765.661,N/A,That'll help many.
+3765.721,3769.471,N/A,"I was going to say, I call into my teens."
+3769.792,3770.915,N/A,We're babysitting.
+3771.195,3774.785,N/A,"It's not crazy, especially if it's somewhere like the meetings and then depending on the age of the kids."
+3774.825,3775.948,N/A,So we can talk and try to.
+3776.028,3779.798,N/A,"But yeah, I really like the idea actually of being able to bring"

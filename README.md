@@ -41,7 +41,9 @@ python -m eduasr.cli transcribe \
 
 **Remote files (SharePoint/OneDrive via rclone):**
 ```bash
-export REMOTE_PATH='General/2025-07-28-2025-07-30-Tremont PD Data/PD Sessions/Video/2025-07-30'
+export REMOTE_PATH='General/2025-07-28-2025-07-30-Tremont PD Data/PD Sessions/Video'
+
+source hf
 
 python -m eduasr.cli transcribe \
   --rclone-remote "mysharepoint" \
@@ -76,7 +78,7 @@ python -m eduasr.cli search \
 # Keyword in context analysis
 python -m eduasr.cli kwic \
   --db "out/edu_asr.sqlite" \
-  --query "data" \
+  --query "qualitative" \
   --context 10
 
 # Database statistics
@@ -114,16 +116,6 @@ python -m eduasr.cli summarize \
 python -m eduasr.cli collate-summaries \
   --output-dir "out" \
   --output-file "all_summaries.md"  # Optional: custom filename
-```
-
-### 7. Build Static Site
-
-```bash
-python build_static_index.py \
-  --out-dir "./" \
-  --static-dir "./static_site" \
-  --title "Transcript Browser" \
-  --inline
 ```
 
 ## 📖 Detailed Usage

@@ -1,0 +1,129 @@
+start_time,end_time,speaker,text
+5.903,8.307,N/A,I did some.
+8.408,8.792,N/A,You did some?
+8.812,9.822,N/A,I gotta share some.
+80.221,83.346,N/A,"I went up there again this morning, there was nobody there."
+83.386,84.768,N/A,"Although I was leaving, two people came up."
+89.435,92.079,N/A,All right.
+92.099,97.467,N/A,Is everybody ready?
+97.567,101.573,N/A,Make an adjustment.
+101.593,103.596,N/A,All right.
+103.616,107.342,N/A,"All right, guys, go ahead and if you wouldn't mind to direct your attention"
+112.503,116.228,N/A,So we were taking a look at the Simpsons Diversity Index.
+116.248,127.141,N/A,"We were treating our lawn as one site, and we were treating our quadrats as random samples within that one site."
+127.161,135.051,N/A,"So if we were to compare the Simpsons Diversity Index of the Tremont Institute lawn to another location,"
+140.633,149.613,N/A,"And so we've got those numbers, we had however many species it was, we had however many groups, I think it was six groups, we had five species and other."
+149.953,158.592,N/A,"We treated other just as a sixth species, and we calculated the Simpson's diversity index for all the groups."
+165.524,184.114,N/A,"So, if you treat each of our groups as part of the whole, and you just take a look at the lawn as one location, we went with the average as our number of individuals of a species."
+184.154,188.1,N/A,"So this was four or something, I don't remember."
+188.781,190.003,N/A,And so we went with our average.
+190.344,191.886,N/A,"And you take a look here, you can see"
+224.317,228.589,N/A,"Additionally, we"
+283.801,296.317,N/A,"And so taking a look at this, this is something that even my AP students struggle with, is throwing out data that, I hate to say bad data, but incongruent data."
+297.561,298.283,N/A,"And so,"
+299.326,302.451,N/A,These incongruent points are something that you need to look at.
+302.672,303.814,N/A,Sometimes they're really important.
+304.174,312.488,N/A,"But when you're trying to look at a big data set, throwing out outliers is an important skill."
+312.508,316.455,N/A,"Being able to pick ones that, OK, there's something weird."
+316.475,319.019,N/A,We need to go back and we need to reassess what's going on here.
+319.36,323.747,N/A,"But for this, for now, let's remove them from our calculations."
+325.702,330.408,N/A,"And you can see our standard error, our standard deviation drops way, way down."
+331.57,331.79,N/A,I mean.
+331.81,342.584,N/A,"So one thing I want to address real quick, because of the difference in the Simpson's diversity index versus the Simpson's inverse diversity index."
+342.604,346.549,N/A,So we've talked about multiple different formulas that can all be used to get diversity.
+346.729,351.355,N/A,"Krebs and I, and we've just talked with all of everyone, we really want to put together"
+373.306,376.369,N/A,"the closer you are to one, the more diverse your system is."
+376.429,377.53,N/A,It compares it to itself.
+377.831,379.152,N/A,So one is perfect diversity.
+379.172,385.979,N/A,"Every individual is different or it's evenly distributed between all of the, like you have 10, 10, 10, 10, 10."
+386.039,387.661,N/A,Everything is evenly distributed.
+388.061,396.07,N/A,So you have one minus your individual or one species individuals divided by your total species individuals.
+396.55,401.035,N/A,"And so one minus zero, you know, you get"
+401.268,413.142,N/A,"one, and you have perfect diversity, whereas if you have a whole lot of one, that jacks your number way up on one of them or more, and you get 1 minus 0.5, and you have a really, really low biodiversity."
+413.563,414.484,N/A,You end up with 0.5.
+414.744,417.447,N/A,"So when you see those different numbers, that's what's going on there."
+417.467,421.012,N/A,"So like the middle school, you guys did the inverse with, well, maybe."
+421.032,421.432,N/A,I'm not sure.
+421.452,422.754,N/A,But you had the inverse relationship.
+422.774,424.456,N/A,And then we just did the regular.
+425.337,426.398,N/A,So we're going to.
+431.137,437.367,N/A,but the inverse is a good comparison just for relative diversity within a system.
+498.653,501.841,N/A,"Yeah, check it with these numbers to compare it to a different area."
+505.028,507.715,N/A,"Know what's native, what's non-native is a big one."
+510.261,514.992,N/A,We'll compare also a human mode area versus a natural un-mode area.
+522.43,528.22,N/A,What we're looking at here would be a good case to be using the inverse.
+528.36,531.926,N/A,"If we were closer to one, yes, it is more diverse."
+531.946,545.029,N/A,"From what I remember, 0.8 and above is generally considered diverse, whereas anything under 0.7 is... This might be off."
+546.477,551.485,N/A,"Like 0.8 and above is considered good diversity under 0.8, 0.7."
+551.585,553.809,N/A,You're getting kind of sketchy and under 0.7.
+553.949,558.377,N/A,"You're like, look, there's not a whole lot of diversity here."
+561.101,561.702,N/A,OK.
+590.977,596.548,N/A,And that's what we're talking about with this formula sheet.
+679.975,682.038,N/A,Or maybe I'm nervous.
+682.058,684.982,N/A,I put mine low because I tend to talk really loud.
+687.285,699.983,N/A,"OK, but on that note, we accidentally just glanced over the graph and we didn't really do a check over."
+700.043,704.329,N/A,"So this line will be, I'll change it audibly for you guys."
+710.57,713.847,N/A,"Obviously, that was the overarching question."
+744.117,752.63,N/A,and we emphasized the colors by red as in bad which is our invasive species and green as in good which is our sedge.
+753.371,763.346,N/A,We did number of quadrants so the number of the species in the area or like the abundance and then we did groups so this is where this will come into play.
+764.027,766.21,N/A,Group four was the only one that did
+772.231,780.182,N/A,"and this will be our species, just in general, all combined into it with the number of quadrants."
+813.811,828.647,N/A,dot for three just under the green dot yeah I can see it on six but we did not emphasize
+852.556,873.089,N/A,"And you definitely looked at that invasive, which was not information that we even tried to take into account."
+873.489,879.559,N/A,But you did include our numbers as we were group one.
+881.142,884.469,N/A,I wonder what happens if you throw our numbers out.
+886.394,900.906,N/A,"Right, that's that 100, that's that like 75 point."
+901.527,907.219,N/A,We had a lot of one unnamed species.
+907.72,915.317,N/A,We had a lot of one unidentified species.
+1019.23,1020.632,N/A,Not a lot.
+1020.652,1023.497,N/A,You can't gain a lot of confidence from our data.
+1023.517,1023.837,N/A,None?
+1025.701,1026.081,N/A,"No, not none."
+1028.365,1029.106,N/A,Not none.
+1029.126,1030.869,N/A,But we would have to spend a couple of weeks.
+1030.889,1031.69,N/A,We're in a very specialized environment.
+1031.71,1032.111,N/A,Right.
+1032.972,1034.855,N/A,An artificial portion of it as well.
+1038.622,1038.762,N/A,Yeah.
+1038.842,1045.052,N/A,"It made it a lot easier to collect and analyze the data, but it is not particularly useful data to our question."
+1054.82,1060.324,N/A,"That was much more useful data to the question, I think, than the terrestrial."
+1115.148,1117.131,N/A,I think that's a really good thing to look at.
+1117.371,1138.422,N/A,I think we're going to find mostly crabgrass at our school grounds.
+1166.228,1182.263,N/A,But I've been here for over
+1218.44,1224.595,N/A,"All right, so we decided to kind of dictate what we were going to look at like they did as well."
+1225.638,1228.585,N/A,So we wanted to know which is a more healthy population.
+1253.962,1260.349,N/A,"Anyway, so we were the non-edge, and this was the edge population."
+1262.472,1270.241,N/A,"So we did a couple bar graphs for each species, and then we did the Shannon diversity index that we were introduced to."
+1270.261,1279.952,N/A,"So the first parts we just wanted to have visual representation, just showing diversity in each one, just to have something like very simple data to take a look at."
+1280.354,1284.421,N/A,"In the second part, we then did the Simpson diversity index."
+1285.023,1285.263,N/A,Was that?
+1289.21,1290.673,N/A,There we go.
+1290.913,1296.844,N/A,"And so we were looking at it and just comparing the two, and they're actually very relatively close together, at 3.66."
+1297.128,1300.493,N/A,for the edge versus a 3.16 for the non-edge.
+1300.513,1309.788,N/A,"And we would take that to mean if we really needed an answer, if you really wanted to hammer something home, then an edge population would then have more diversity."
+1309.808,1322.207,N/A,"And if we use that as a defining characteristic, we'd be more confident that it would then be healthier or more flourishing, if you will, if we were trying to hammer home just a single point for that one."
+1341.188,1351.338,N/A,was thinking about that with them.
+1367.715,1370.318,N/A,So what I'm thinking
+1398.091,1420.363,N/A,"It's a little bit abstract of a question, but how can we know for sure that that difference is a meaning?"
+1420.383,1421.404,N/A,"Not for sure, that's not the game."
+1422.125,1427.052,N/A,"How can we have confidence that this difference, or how can we, yeah, standard errors."
+1449.155,1459.406,N/A,"I think if we went back and included 14 different species and looked at F in a different way, I think that would go in a pretty solid difference."
+1460.447,1463.53,N/A,"Two of the species, one of that species, three of the others."
+1463.55,1470.197,N/A,It would also compare richness as well.
+1470.618,1473.901,N/A,"Left side has five species, right side has 19."
+1474.682,1476.664,N/A,"Well, D might be zero, so let's say 18."
+1530.475,1533.62,N/A,"The inverse one might be, right?"
+1533.64,1537.325,N/A,Like you could see 0.81 versus 0.78 or something.
+1537.826,1542.092,N/A,"And you could get a percent difference from that number, perhaps."
+1542.332,1544.315,N/A,"Yeah, I think so."
+1544.335,1547.499,N/A,"I mean, you could calculate the percent difference between 366 and 316."
+1549.663,1552.106,N/A,But I don't know if that's right.
+1552.126,1552.827,N/A,"Right, that's not like one."
+1552.847,1553.648,N/A,It's about 6%.
+1553.869,1554.169,N/A,Right.
+1555.912,1558.175,N/A,Whereas the one value is.
+1558.195,1559.757,N/A,"Yeah, I'll use it on p-value."
+1560.665,1564.474,N/A,Especially if you're not a math person.
+1565.978,1570.79,N/A,How do you make math meaningful to a person that doesn't do math?
+1570.81,1573.196,N/A,I tell my kids science is just math in a pretty dress.
+1573.757,1576.243,N/A,It's not always pretty either.
